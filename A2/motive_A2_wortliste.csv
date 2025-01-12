@@ -1,0 +1,1320 @@
+﻿#separator:Semicolon
+#html:false
+#columns:ID;German Word;English Word;Tags
+#deck:Motive A2 Wortliste
+#tags column:4
+#guid column:1
+
+MA2W_0001;Blog, das / der, -s;blog;noun
+MA2W_0002;bloggen;to blog;verb
+MA2W_0003;Erfahrung, die, -en;experience;noun
+MA2W_0004;Kommentar, der, -e;comment;noun
+MA2W_0005;Kontakt, der, -e;contact;noun
+MA2W_0006;Netzwerk, das, -e;network;noun
+MA2W_0007;Postkarte, die, -n;postcard;noun
+MA2W_0008;pro;per;preposition
+MA2W_0009;selten;seldom, rarely;adverb
+MA2W_0010;simsen;to text, to send a text message;verb
+MA2W_0011;sozial;social;adjective
+MA2W_0012;soziales Netzwerk, das, -e;social network;noun
+MA2W_0013;twittern;to tweet;verb
+MA2W_0014;zurzeit;currently, at the moment;adverb
+MA2W_0015;benutzen;to use;verb
+MA2W_0016;Fax(gerät), das, -e;fax (machine);noun
+MA2W_0017;hören wir doch;let's listen;verb
+MA2W_0018;Jahreszahl, die, -en;year (number);noun
+MA2W_0019;möglich;possible;adjective
+MA2W_0020;Smartphone, das, -s;smartphone;noun
+MA2W_0021;Anrufer, der, -;caller (male);noun
+MA2W_0022;Mailbox, die, -en;mailbox, voicemail;noun
+MA2W_0023;zurückrufen;to call back;verb
+MA2W_0024;Ausflug, der, :-e;excursion, trip, outing;noun
+MA2W_0025;Möbelwagen, der, -;removal van, furniture lorry;noun
+MA2W_0026;Tennisfreundin, die, -nen;tennis friend (female);noun
+MA2W_0027;Wanderung, die, -en;hike, walking tour;noun
+MA2W_0028;hinterlassen;to leave behind;verb
+MA2W_0029;wohl;probably, most likely;adverb
+MA2W_0030;Rückruf, der, -e;call back;noun
+MA2W_0031;anfangen;to begin, to start;verb
+MA2W_0032;auf keinen Fall;no way, absolutely not;adverb
+MA2W_0033;aufräumen;to tidy up, to clean up;verb
+MA2W_0034;Bildunterschrift, die, -en;caption;noun
+MA2W_0035;böse;angry, evil, mad;adjective
+MA2W_0036;Cybermobbing, das, Sg.;cyberbullying;noun
+MA2W_0037;diskutieren;to discuss;verb
+MA2W_0038;Dritte (jeder Dritte), der / die, -n;third party, one in three (every third person);noun
+MA2W_0039;dumm;stupid, dumb;adjective
+MA2W_0040;etwas gegen etwas tun;to do something about something;verb
+MA2W_0041;fast;almost, nearly;adverb
+MA2W_0042;Filzstift, der, -e;felt-tip pen;noun
+MA2W_0043;fleißig;hard-working, diligent;adjective
+MA2W_0044;ganz;whole, entire, very;adjective adverb
+MA2W_0045;gefährlich;dangerous;adjective
+MA2W_0046;Generation Internet, die, Sg.;internet generation;noun
+MA2W_0047;Generation, die, -en;generation;noun
+MA2W_0048;hässlich;ugly, nasty;adjective
+MA2W_0049;Jugendliche, der / die, -n;teenager, adolescent, youth;noun
+MA2W_0050;kariert;checked, plaid;adjective
+MA2W_0051;Leiter, der, -;leader, manager, director (male);noun
+MA2W_0052;Leser, der, -;reader (male);noun
+MA2W_0053;löschen;to delete, to erase;verb
+MA2W_0054;Mobbing, das, Sg.;bullying;noun
+MA2W_0055;Muttersöhnchen, das, -;mummy's boy, mollycoddle;noun
+MA2W_0056;na ja;oh well, well now;interjection
+MA2W_0057;Netz, das, -e;net, network;noun
+MA2W_0058;Note, die, -n;grade, mark;noun
+MA2W_0059;Opfer, das, -;victim;noun
+MA2W_0060;passieren;to happen, to occur;verb
+MA2W_0061;Probleme haben mit;to have problems with;verb
+MA2W_0062;schlechte Späße machen;to play nasty tricks, to make bad jokes;verb
+MA2W_0063;Schulleiterin, die, -nen;headteacher, principal (female);noun
+MA2W_0064;Schulprojekt, das, -e;school project;noun
+MA2W_0065;schwarz-weiß;black and white;adjective
+MA2W_0066;sondern;but, but rather;conjunction
+MA2W_0067;Streber, der, -;swot, nerd, goody-goody;noun
+MA2W_0068;Täter, der, -;perpetrator, offender (male);noun
+MA2W_0069;entschuldigen;to excuse, to apologize;verb
+MA2W_0070;abgeben;to hand in, to submit;verb
+MA2W_0071;Blatt (Papier), das, :-er;sheet (of paper);noun
+MA2W_0072;erraten;to guess;verb
+MA2W_0073;Gedächtnistraining, das, -s;memory training;noun
+MA2W_0074;gerade;just, right now, at the moment;adverb
+MA2W_0075;gewinnen;to win;verb
+MA2W_0076;nett;nice, kind;adjective
+MA2W_0077;typisch;typical;adjective
+MA2W_0078;unterschreiben;to sign;verb
+MA2W_0079;wiedersehen;to see again;verb
+MA2W_0080;annehmen;to accept, to assume;verb
+MA2W_0081;Bescheid sagen / geben;to let someone know, to inform;verb
+MA2W_0082;Bescheid, der, -e;information, notification;noun
+MA2W_0083;feiern;to celebrate, to party;verb
+MA2W_0084;Gasthof, der, :-e;inn, guesthouse;noun
+MA2W_0085;heiraten;to marry;verb
+MA2W_0086;Hochzeit, die, -en;wedding;noun
+MA2W_0087;Mitarbeiter, der, -;employee, co-worker (male);noun
+MA2W_0088;Standesamt, das, :-er;registry office;noun
+MA2W_0089;stattfinden;to take place, to happen;verb
+MA2W_0090;Verwandtenbesuch, der, -e;visit to relatives;noun
+MA2W_0091;Hochzeitsreise, die, -n;honeymoon;noun
+MA2W_0092;hoffen;to hope;verb
+MA2W_0093;Spielplatz, der, :-e;playground;noun
+MA2W_0094;absagen;to cancel, to call off;verb
+MA2W_0095;bestehen;to pass (an exam), to exist;verb
+MA2W_0096;Führerschein, der, -e [CH] Führerausweis;driving licence;noun
+MA2W_0097;herzlich;cordial, hearty, sincere;adjective
+MA2W_0098;Lehrer, der, -;teacher (male);noun
+MA2W_0099;Prüfung, die, -en;examination, test;noun
+MA2W_0100;pünktlich;punctual, on time;adjective adverb
+MA2W_0101;umziehen;to move house;verb
+MA2W_0102;Umzug, der, :-e;move, relocation;noun
+MA2W_0103;Vorbereitung, die, -en;preparation;noun
+MA2W_0104;Wunsch, der, :-e;wish, desire;noun
+MA2W_0105;wünschen (sich);to wish (for), to desire;verb
+MA2W_0106;zusagen;to accept, to agree, to promise;verb
+MA2W_0107;jung;young;adjective
+MA2W_0108;Kindergarten, der, :-;kindergarten, nursery school;noun
+MA2W_0109;absolut;absolute, absolutely;adjective adverb
+MA2W_0110;akzeptieren;to accept;verb
+MA2W_0111;ändern (sich);to change, to alter (oneself);verb
+MA2W_0112;Argument, das, -e;argument;noun
+MA2W_0113;Aussehen, das, Sg.;appearance, looks;noun
+MA2W_0114;dafür sein;to be in favor of, to be for it;verb
+MA2W_0115;dagegen sein;to be against it;verb
+MA2W_0116;damit;with it, with that, so that;adverb conjunction
+MA2W_0117;dick;thick, fat;adjective
+MA2W_0118;dünn;thin, slim;adjective
+MA2W_0119;eher;more likely, rather;adverb
+MA2W_0120;eine schwere Verletzung;a serious injury;noun
+MA2W_0121;einig-;united, in agreement (prefix);adjective prefix
+MA2W_0122;enden;to end;verb
+MA2W_0123;Figur, die;figure, physique;noun
+MA2W_0124;für etwas sein;to be in favor of something;verb
+MA2W_0125;gegen etwas sein;to be against something;verb
+MA2W_0126;Haarfarbe, die, -n;hair color;noun
+MA2W_0127;Industrie, die, -n;industry;noun
+MA2W_0128;jugendlich;youthful, juvenile;adjective
+MA2W_0129;kämpfen;to fight, to struggle;verb
+MA2W_0130;korrigieren;to correct;verb
+MA2W_0131;Kosmetik, die, Sg.;cosmetics;noun
+MA2W_0132;Kosmetikindustrie, die, -n;cosmetics industry;noun
+MA2W_0133;Krankenversicherung, die, -en;health insurance;noun
+MA2W_0134;Medizin (als Fach), die, Sg.;medicine (as a subject);noun
+MA2W_0135;Medizin, die (Sg.);medicine, medication;noun
+MA2W_0136;mindestens;at least;adverb
+MA2W_0137;Modefirma, die, -firmen;fashion company;noun
+MA2W_0138;Operation, die, -en;operation, surgery;noun
+MA2W_0139;retten;to save, to rescue;verb
+MA2W_0140;schlank;slim, slender;adjective
+MA2W_0141;Schönheit, die, -en;beauty;noun
+MA2W_0142;Schönheitschirurg, der, -en;cosmetic surgeon, plastic surgeon (male);noun
+MA2W_0143;Schönheitsinstitut, das, -e;beauty salon;noun
+MA2W_0144;Schönheitsoperation, die, -en;cosmetic surgery, plastic surgery;noun
+MA2W_0145;schwer;difficult, heavy, severe;adjective
+MA2W_0146;selbst;oneself, myself, yourself, himself, herself, itself;pronoun
+MA2W_0147;sterben;to die;verb
+MA2W_0148;Supermodel, das, -s;supermodel;noun
+MA2W_0149;Unfall, der, :-e;accident;noun
+MA2W_0150;ungefährlich;harmless, not dangerous;adjective
+MA2W_0151;unglücklich;unhappy, unfortunate;adjective
+MA2W_0152;unzufrieden;dissatisfied, discontented;adjective
+MA2W_0153;Verletzung, die, -en;injury;noun
+MA2W_0154;Versicherung, die, -en;insurance;noun
+MA2W_0155;versprechen;to promise;verb
+MA2W_0156;Wunschaussehen, das, Sg.;desired appearance;noun
+MA2W_0157;zählen;to count;verb
+MA2W_0158;zum Glück;fortunately, luckily;adverb
+MA2W_0159;Anzug, der, :-e;suit;noun
+MA2W_0160;behalten;to keep, to retain;verb
+MA2W_0161;Bluse, die, -n;blouse;noun
+MA2W_0162;dunkel;dark;adjective
+MA2W_0163;eng;tight, narrow;adjective
+MA2W_0164;Handschuh, der, -e;glove;noun
+MA2W_0165;Handtasche, die, -n;handbag, purse;noun
+MA2W_0166;hell;light, bright;adjective
+MA2W_0167;in (Gegenteil out);in (opposite of out), fashionable;preposition
+MA2W_0168;Kappe, die, -n;cap;noun
+MA2W_0169;Kleidungsstück, das, -e;item of clothing, piece of clothing;noun
+MA2W_0170;out;out, unfashionable;adjective
+MA2W_0171;praktisch;practical, useful;adjective
+MA2W_0172;Rock, der, :-e [CH] Jupe, der, -s;skirt;noun
+MA2W_0173;Saison, die, -s;season;noun
+MA2W_0174;so … wie;as … as;conjunction
+MA2W_0175;Socke, die, -n;sock;noun
+MA2W_0176;Stiefel, der, -;boot;noun
+MA2W_0177;Vorjahr, das, -e;previous year;noun
+MA2W_0178;Zeile, die, -n;line, row;noun
+MA2W_0179;Angst haben;to be afraid, to be scared;verb
+MA2W_0180;Angst, die, :-e;fear, anxiety;noun
+MA2W_0181;ausräumen;to clear out, to empty;verb
+MA2W_0182;eilig;urgent, hurried;adjective adverb
+MA2W_0183;geben;to give;verb
+MA2W_0184;leise;quiet, soft, quietly;adjective adverb
+MA2W_0185;mit Milch und Zucker;with milk and sugar;preposition
+MA2W_0186;Spülmaschine, die, -n;dishwasher;noun
+MA2W_0187;zumachen;to close;verb
+MA2W_0188;Größe, die, -n;size;noun
+MA2W_0189;probieren (Kleidung);to try on (clothes);verb
+MA2W_0190;versuchen;to try, to attempt;verb
+MA2W_0191;egal;no matter, all the same, doesn't matter;adjective adverb
+MA2W_0192;froh;happy, glad;adjective
+MA2W_0193;aktiv;active;adjective
+MA2W_0194;attraktiv;attractive;adjective
+MA2W_0195;Eindruck, der, :-e;impression;noun
+MA2W_0196;energisch;energetic;adjective
+MA2W_0197;faul;lazy;adjective
+MA2W_0198;Gesprächsthema, das, -themen;topic of conversation;noun
+MA2W_0199;hübsch;pretty, handsome;adjective
+MA2W_0200;intelligent;intelligent;adjective
+MA2W_0201;komisch;funny, strange, odd;adjective
+MA2W_0202;optimistisch;optimistic;adjective
+MA2W_0203;pessimistisch;pessimistic;adjective
+MA2W_0204;sportlich;sporty, athletic;adjective
+MA2W_0205;Stimme, die, -n;voice;noun
+MA2W_0206;sympathisch;likeable, pleasant, congenial;adjective
+MA2W_0207;unwichtig;unimportant;adjective
+MA2W_0208;Verkehrsmittel, das, -;means of transport, mode of transport;noun
+MA2W_0209;Zeitschrift, die, -en;magazine, journal;noun
+MA2W_0210;am besten;best;adverb
+MA2W_0211;Autofahrer, der, -;driver (male);noun
+MA2W_0212;Chatroom, der, -s;chat room;noun
+MA2W_0213;die Geschäfte gehen schlecht;business is bad;verb
+MA2W_0214;gemütlich;comfortable, cozy;adjective
+MA2W_0215;gleich (sofort);immediately, right away;adverb
+MA2W_0216;Luft, die;air;noun
+MA2W_0217;Meinung, die, -en;opinion, view;noun
+MA2W_0218;nerven;to annoy, to irritate, to get on someone's nerves;verb
+MA2W_0219;Radfahrer, der, -;cyclist (male);noun
+MA2W_0220;rauchfrei;smoke-free, non-smoking;adjective
+MA2W_0221;Rauchverbot, das, -e;smoking ban, no smoking;noun
+MA2W_0222;sicher;safe, secure, certain, surely;adjective adverb
+MA2W_0223;Tipp, der, -s;tip, hint, suggestion;noun
+MA2W_0224;Umwelt, die, -en;environment;noun
+MA2W_0225;Verkehr, der, Sg.;traffic;noun
+MA2W_0226;Einkaufszentrum, das, -zentren;shopping center, shopping mall;noun
+MA2W_0227;Naturmensch, der, -en;nature lover, outdoorsy person;noun
+MA2W_0228;spazieren gehen;to go for a walk;verb
+MA2W_0229;Städtereisen, Pl.;city breaks, city trips;noun
+MA2W_0230;Stadtmensch, der, -en;city person, city dweller;noun
+MA2W_0231;Affe, der, -n;monkey, ape;noun
+MA2W_0232;ausziehen;to take off (clothes), to move out;verb
+MA2W_0233;beliebt;popular, well-liked;adjective
+MA2W_0234;Chefin spielen;to play the boss;verb
+MA2W_0235;Chefin, die, -nen;boss, chief (female);noun
+MA2W_0236;Delfin, der, -e;dolphin;noun
+MA2W_0237;einziehen;to move in;verb
+MA2W_0238;Elefant , der, -en;elephant;noun
+MA2W_0239;Fernsehserie, die, -n;TV series;noun
+MA2W_0240;Frühlingsgefühl, das, -e;feeling of spring;noun
+MA2W_0241;handeln;to act, to deal, to trade;verb
+MA2W_0242;höflich;polite, courteous;adjective
+MA2W_0243;Instrument, das, -e;instrument;noun
+MA2W_0244;manch-;some, many a (prefix);pronoun prefix
+MA2W_0245;Pinguin, der, -e;penguin;noun
+MA2W_0246;Robbe, die, -n;seal;noun
+MA2W_0247;Ruhe haben (seine);to have peace and quiet, to be left alone;verb
+MA2W_0248;Ruhe, die, Sg.;peace, quiet, silence;noun
+MA2W_0249;Sendung, die, -en;program, broadcast, show;noun
+MA2W_0250;Serie, die, -n;series;noun
+MA2W_0251;Soap, die, -s;soap opera;noun
+MA2W_0252;spielen in;to be set in, to take place in;verb
+MA2W_0253;Tiger, der, -;tiger;noun
+MA2W_0254;unbeliebt;unpopular;adjective
+MA2W_0255;unhöflich;impolite, rude;adjective
+MA2W_0256;Wildschwein, das, -e;wild boar;noun
+MA2W_0257;Wohngemeinschaft, die, -en;shared flat, shared apartment;noun
+MA2W_0258;Zebra, das, -s;zebra;noun
+MA2W_0259;Zoo, der, -s;zoo;noun
+MA2W_0260;Zoosendung, die, -en;zoo programme, zoo show;noun
+MA2W_0261;Zootiere, Pl.;zoo animals;noun
+MA2W_0262;zurück;back;adverb
+MA2W_0263;zurück sein;to be back;verb
+MA2W_0264;zusammenleben;to live together;verb
+MA2W_0265;Zuschauer, der, -;viewer, spectator, audience member (male);noun
+MA2W_0266;Akku, der, -s;battery, rechargeable battery;noun
+MA2W_0267;fotografieren;to photograph, to take pictures;verb
+MA2W_0268;Bär, der, -en;bear;noun
+MA2W_0269;Besucher, der, -;visitor (male);noun
+MA2W_0270;Eisbär, der, -en;polar bear;noun
+MA2W_0271;füttern;to feed;verb
+MA2W_0272;Geburt, die, -en;birth;noun
+MA2W_0273;melden;to report, to announce;verb
+MA2W_0274;Quadratmeter, der, -;square meter;noun
+MA2W_0275;Sensation, die, -en;sensation;noun
+MA2W_0276;Star, der, -s;star;noun
+MA2W_0277;Tierpfleger, der, -;zookeeper, animal keeper (male);noun
+MA2W_0278;Zoobesucher, der, -;zoo visitor (male);noun
+MA2W_0279;Zookritiker, der, -;zoo critic (male);noun
+MA2W_0280;Astronaut, der, -en;astronaut (male);noun
+MA2W_0281;Ballon, der, -s / -e;balloon;noun
+MA2W_0282;Direktor, der, -en;director, manager (male);noun
+MA2W_0283;Lüge, die, -n;lie, falsehood;noun
+MA2W_0284;Motorrad, das, :-er;motorbike, motorcycle;noun
+MA2W_0285;Popstar, der, -s;pop star;noun
+MA2W_0286;stimmen;to be correct, to be right, to vote;verb
+MA2W_0287;Zirkus, der, -se;circus;noun
+MA2W_0288;Zirkusdirektor, der, -en;circus director (male);noun
+MA2W_0289;Allergie, die, -n;allergy;noun
+MA2W_0290;aufpassen;to pay attention, to watch out, to look after;verb
+MA2W_0291;freinehmen;to take time off;verb
+MA2W_0292;süß (Aussehen);cute, sweet (appearance);adjective
+MA2W_0293;weil;because;conjunction
+MA2W_0294;riechen;to smell;verb
+MA2W_0295;riechen gut;to smell good;verb
+MA2W_0296;stören;to disturb, to bother;verb
+MA2W_0297;Batterie, die, -n;battery;noun
+MA2W_0298;Birne, die, -n;light bulb, pear;noun
+MA2W_0299;CD-Player, der, -;CD player;noun
+MA2W_0300;Drucker, der, -;printer;noun
+MA2W_0301;EC-Karte, die, -n [A] Bankomatkarte, die, -n;debit card, cash card;noun
+MA2W_0302;funktionieren;to function, to work;verb
+MA2W_0303;Heizung, die, -en;heating;noun
+MA2W_0304;Kabel, das, -;cable, wire;noun
+MA2W_0305;Kopierer, der, -;photocopier, copier;noun
+MA2W_0306;Licht, das, -er;light;noun
+MA2W_0307;PIN-Code, der, -s;PIN code;noun
+MA2W_0308;Speicherkarte, die, -n;memory card;noun
+MA2W_0309;Steckdose, die, -n;socket, power outlet;noun
+MA2W_0310;Strom, der, :-e;electricity, power, current;noun
+MA2W_0311;Taschenlampe, die, -n;torch, flashlight;noun
+MA2W_0312;voll;full;adjective
+MA2W_0313;Alpen, Pl.;Alps;noun
+MA2W_0314;ausfüllen;to fill in, to fill out;verb
+MA2W_0315;Basel;Basel;noun
+MA2W_0316;Bern;Bern;noun
+MA2W_0317;Formular, das, -e;form;noun
+MA2W_0318;Genf;Geneva;noun
+MA2W_0319;Grenze, die, -n;border, boundary;noun
+MA2W_0320;meist-;most (prefix);adjective prefix
+MA2W_0321;Quadratkilometer, der, -;square kilometer;noun
+MA2W_0322;Schaf, das, -e;sheep;noun
+MA2W_0323;Schweizer, der, -;Swiss person (male);noun
+MA2W_0324;Südschweiz, die, Sg.;Southern Switzerland;noun
+MA2W_0325;Tierschützer, der, -;animal rights activist (male);noun
+MA2W_0326;USA, Pl.;USA;noun
+MA2W_0327;Wolf, der, :-e;wolf;noun
+MA2W_0328;Ahnung, die, -en;idea, clue;noun
+MA2W_0329;Blatt (Baum), das, :-er;leaf;noun
+MA2W_0330;Dorf, das, :-er;village;noun
+MA2W_0331;Feld, das, -er;field;noun
+MA2W_0332;hinten;at the back, in the rear;adverb
+MA2W_0333;Huhn, das, :-er;chicken, hen;noun
+MA2W_0334;Katze, die, -n;cat;noun
+MA2W_0335;Kuh, die, :-e;cow;noun
+MA2W_0336;Landschaft, die, -en;landscape, scenery;noun
+MA2W_0337;Mitte, die, -n;middle, center;noun
+MA2W_0338;Mond, der, -e;moon;noun
+MA2W_0339;Pferd, das, -e;horse;noun
+MA2W_0340;Pflanze, die, -n;plant;noun
+MA2W_0341;Schnee, der, Sg.;snow;noun
+MA2W_0342;Schwein, das, -e;pig;noun
+MA2W_0343;Stern, der, -e;star;noun
+MA2W_0344;Stimmung, die, -en;mood, atmosphere;noun
+MA2W_0345;Strand, der, :-e;beach;noun
+MA2W_0346;Tal, das, :-er;valley;noun
+MA2W_0347;Vogel, der, :-;bird;noun
+MA2W_0348;vorn (vorne);at the front, in front;adverb
+MA2W_0349;Wald, der, :-er;forest, wood;noun
+MA2W_0350;Wolke, die, -n;cloud;noun
+MA2W_0351;Eisfischen, das, Sg.;ice fishing;noun
+MA2W_0352;Jahreszeit, die, -en;season;noun
+MA2W_0353;Pilz, der, -e [A] Schwammerl, das, -;mushroom;noun
+MA2W_0354;räumen;to clear, to remove, to tidy;verb
+MA2W_0355;Russland, das, Sg.;Russia;noun
+MA2W_0356;sammeln;to collect, to gather;verb
+MA2W_0357;wegtun;to put away, to remove;verb
+MA2W_0358;Winterkleidung, die, -en;winter clothes;noun
+MA2W_0359;wunderschön;wonderful, beautiful;adjective
+MA2W_0360;Autodach, das, :-er;car roof;noun
+MA2W_0361;blitzen;to flash;verb
+MA2W_0362;Chemie, die, Sg.;chemistry;noun
+MA2W_0363;chemisch;chemical;adjective
+MA2W_0364;Dach, das, :-er;roof;noun
+MA2W_0365;damals;then, at that time, in those days;adverb
+MA2W_0366;donnern;to thunder;verb
+MA2W_0367;Eiszeit, die, -en;ice age;noun
+MA2W_0368;Gericht (Justiz), das, -e;court (of law);noun
+MA2W_0369;Gewitter, das, -;thunderstorm;noun
+MA2W_0370;Gewitterwolke, die, -n;thundercloud;noun
+MA2W_0371;Hagel, der, Sg.;hail;noun
+MA2W_0372;Hagelflieger, der, -;hail protection aircraft;noun
+MA2W_0373;Hagelkorn, das, :-er;hailstone;noun
+MA2W_0374;Hausdach, das, :-er;house roof;noun
+MA2W_0375;heiß;hot;adjective
+MA2W_0376;Hexe, die, -n;witch;noun
+MA2W_0377;Himmel, der, -;sky, heaven;noun
+MA2W_0378;Hühnerei, das, -er;hen's egg;noun
+MA2W_0379;Jahrhundert, das, -e;century;noun
+MA2W_0380;klopfen;to knock, to tap;verb
+MA2W_0381;kühl;cool;adjective
+MA2W_0382;manipulieren;to manipulate;verb
+MA2W_0383;Metall, das, -e;metal;noun
+MA2W_0384;Metallfigur, die, -en;metal figure, metal figurine;noun
+MA2W_0385;Rauch, der, Sg.;smoke;noun
+MA2W_0386;Richtung, die, -en;direction;noun
+MA2W_0387;Technik, die, -en;technology, technique;noun
+MA2W_0388;Wetterexperten, Pl.;weather experts;noun
+MA2W_0389;Wetterhexe, die, -n;weather witch;noun
+MA2W_0390;Wetterstation, die, -en;weather station;noun
+MA2W_0391;bewölkt;cloudy, overcast;adjective
+MA2W_0392;hageln;to hail;verb
+MA2W_0393;Hitze, die, Sg.;heat;noun
+MA2W_0394;Kälte, die, Sg.;cold;noun
+MA2W_0395;kaum;hardly, scarcely;adverb
+MA2W_0396;minus;minus, below zero;preposition
+MA2W_0397;Nebel, der, -;fog, mist;noun
+MA2W_0398;neblig;foggy, misty;adjective
+MA2W_0399;schneien;to snow;verb
+MA2W_0400;sonnig;sunny;adjective
+MA2W_0401;Sturm, der, :-e;storm;noun
+MA2W_0402;stürmen;to storm;verb
+MA2W_0403;Temperatur, die, -en;temperature;noun
+MA2W_0404;Wärme, die, Sg.;warmth;noun
+MA2W_0405;Wetterbericht, der, -e;weather forecast, weather report;noun
+MA2W_0406;windig;windy;adjective
+MA2W_0407;Angestellte, der / die, -n;employee (male / female);noun
+MA2W_0408;Arbeiter, der, -;worker (male);noun
+MA2W_0409;Durchschnitt, der, -e;average;noun
+MA2W_0410;Ferien, Pl.;holidays, vacation;noun
+MA2W_0411;Planung, die, -en;planning;noun
+MA2W_0412;schließen;to close;verb
+MA2W_0413;Städtereise, die, -n;city trip;noun
+MA2W_0414;Urlaubsplanung, die, -en;holiday planning, vacation planning;noun
+MA2W_0415;verbringen;to spend (time);verb
+MA2W_0416;wenn;if, when;conjunction
+MA2W_0417;Aktivität, die, -en;activity;noun
+MA2W_0418;Grillparty, die, -s;barbecue party;noun
+MA2W_0419;Pizzeria, die, -s /Pizzarien;pizzeria;noun
+MA2W_0420;planen;to plan;verb
+MA2W_0421;Prüfungsfragen, Pl.;exam questions;noun
+MA2W_0422;ängstlich;anxious, fearful;adjective
+MA2W_0423;Chaos, das, Sg.;chaos;noun
+MA2W_0424;Eile, die, Sg.;hurry, rush;noun
+MA2W_0425;Fingernagel, der, :-;fingernail;noun
+MA2W_0426;Geschirr, das, -e;dishes;noun
+MA2W_0427;schimpfen;to scold, to tell off, to complain;verb
+MA2W_0428;spülen;to wash up, to rinse;verb
+MA2W_0429;tolerant;tolerant;adjective
+MA2W_0430;vergessen;to forget;verb
+MA2W_0431;Alpenvorland, das, Sg.;Alpine foothills;noun
+MA2W_0432;Fahrer, der, -;driver (male);noun
+MA2W_0433;Fernfahrer, der, -;long-distance driver (male);noun
+MA2W_0434;Fernfahrerin, die, -nen;long-distance driver (female);noun
+MA2W_0435;Finnland, das, Sg.;Finland;noun
+MA2W_0436;glatt;slippery, smooth;adjective
+MA2W_0437;Irland;Ireland;noun
+MA2W_0438;LKW, der, -s;lorry, truck;noun
+MA2W_0439;Ostsee, die, Sg.;Baltic Sea;noun
+MA2W_0440;Polen;Poland;noun
+MA2W_0441;PS, das, -;horsepower, hp;noun
+MA2W_0442;schaffen;to manage, to cope, to achieve;verb
+MA2W_0443;Skifahrer, der, -;skier (male);noun
+MA2W_0444;Starkregen, der, Sg.;heavy rain;noun
+MA2W_0445;Stau, der, -s;traffic jam;noun
+MA2W_0446;Tonne, die, -n;tonne, ton;noun
+MA2W_0447;unterwegs;on the way, en route;adverb
+MA2W_0448;verrückt;crazy, mad;adjective
+MA2W_0449;verrückt spielen;to go crazy, to act crazy;verb
+MA2W_0450;Bergstraße, die, -n;mountain road;noun
+MA2W_0451;der Schnell fällt;the snow is falling;verb
+MA2W_0452;fallen;to fall;verb
+MA2W_0453;gesperrt;closed, blocked;adjective verb
+MA2W_0454;Hochwasser, das, -;flood, high water;noun
+MA2W_0455;Hütte, die, -n;hut, cabin;noun
+MA2W_0456;Nordsee, die, Sg.;North Sea;noun
+MA2W_0457;Rafting, das, Sg.;rafting;noun
+MA2W_0458;Schutz suchen;to seek shelter;verb
+MA2W_0459;Schutz, der, Sg.;protection, shelter;noun
+MA2W_0460;Skifahren, das, Sg.;skiing;noun
+MA2W_0461;Strandsegeln, das, Sg.;land sailing, sand yachting;noun
+MA2W_0462;wechseln;to change, to exchange, to switch;verb
+MA2W_0463;Atlantik, der, Sg.;Atlantic Ocean;noun
+MA2W_0464;Bodensee, der, Sg.;Lake Constance;noun
+MA2W_0465;Dänemark;Denmark;noun
+MA2W_0466;Fläche, die, -n;area, surface;noun
+MA2W_0467;Innsbruck;Innsbruck;noun
+MA2W_0468;Mittelmeer, das, Sg.;Mediterranean Sea;noun
+MA2W_0469;Niederlande, die, Pl.;Netherlands;noun
+MA2W_0470;Nürnberg;Nuremberg;noun
+MA2W_0471;Rhein, der, Sg.;Rhine (river);noun
+MA2W_0472;Schild, das, -er;sign, shield;noun
+MA2W_0473;Stauschild, das, -er;traffic jam sign;noun
+MA2W_0474;über … fahren;to drive across …;verb
+MA2W_0475;Vorsicht, die, Sg.;caution, attention;noun
+MA2W_0476;zurück sein;to be back;verb
+MA2W_0477;Höhe, die, -n;height, altitude;noun
+MA2W_0478;Liter, der, -;liter;noun
+MA2W_0479;Menge, die, -n;amount, quantity;noun
+MA2W_0480;messen;to measure;verb
+MA2W_0481;Milliliter, der, -;milliliter;noun
+MA2W_0482;Quadratmeter, die, -;square meters;noun
+MA2W_0483;Wetterrekord, der, -e;weather record;noun
+MA2W_0484;Zentimeter, der, -;centimeter;noun
+MA2W_0485;eigen-;own (prefix);adjective prefix
+MA2W_0486;Lebenssituation, die, -en;life situation;noun
+MA2W_0487;Lehrer werden;to become a teacher;verb
+MA2W_0488;nass;wet;adjective
+MA2W_0489;Praktikum, das, Praktika;internship, work placement;noun
+MA2W_0490;sonst;otherwise, else;adverb
+MA2W_0491;ziehen (in die Stadt);to move (to the city);verb
+MA2W_0492;aus sein;to be over, to be finished;verb
+MA2W_0493;Aushilfe, die, -n;temporary help, assistant;noun
+MA2W_0494;Braten, der, -;roast, joint (of meat);noun
+MA2W_0495;Feierabend, der, -e;end of work, after-work hours;noun
+MA2W_0496;Fischkarte, die, -n;fish menu;noun
+MA2W_0497;Jazzclub, der, -s;jazz club;noun
+MA2W_0498;Menü, das, -s;menu, set meal;noun
+MA2W_0499;Portion, die, -en;portion, serving;noun
+MA2W_0500;Rind, das, -er;beef, cattle;noun
+MA2W_0501;Rinderbraten, der, -;roast beef;noun
+MA2W_0502;Rindfleisch, das, Sg.;beef;noun
+MA2W_0503;Schluss machen;to finish, to end, to break up;verb
+MA2W_0504;Schluss, der, :-e;end, conclusion;noun
+MA2W_0505;Verabredung, die, -en;appointment, date;noun
+MA2W_0506;abdecken;to clear (the table), to cover;verb
+MA2W_0507;Besteck, das, -e;cutlery, silverware;noun
+MA2W_0508;Essig, der, -e;vinegar;noun
+MA2W_0509;fehlen;to be missing, to be lacking;verb
+MA2W_0510;Gabel, die, -n;fork;noun
+MA2W_0511;Gegenstand, der, :-e;object, item;noun
+MA2W_0512;Geldstück, das, -e;coin;noun
+MA2W_0513;Glas, das, :-er;glass;noun
+MA2W_0514;Löffel, der, -;spoon;noun
+MA2W_0515;Messer, das, -;knife;noun
+MA2W_0516;Öl, das, -e;oil;noun
+MA2W_0517;Pfeffer, der, Sg.;pepper;noun
+MA2W_0518;Salz, das, -e;salt;noun
+MA2W_0519;Schmuck, der, -e;jewelry;noun
+MA2W_0520;Serviette, die, -n;napkin;noun
+MA2W_0521;Teller, der, -;plate;noun
+MA2W_0522;Tischgespräch, das, -e;table talk, conversation at the table;noun
+MA2W_0523;Karibik, die, Sg.;Caribbean;noun
+MA2W_0524;Nachspeise, die, -n;dessert;noun
+MA2W_0525;schade;too bad, a pity;adjective adverb
+MA2W_0526;Spaziergang, der, :-e;walk, stroll;noun
+MA2W_0527;Stadtpark, der, -s;city park;noun
+MA2W_0528;Vermutung, die, -en;guess, assumption;noun
+MA2W_0529;Autositz, der, -e;car seat;noun
+MA2W_0530;behalten;to keep;verb
+MA2W_0531;Garderobe, die, -n;wardrobe, cloakroom;noun
+MA2W_0532;Gedanke, der, -n;thought, idea;noun
+MA2W_0533;hängen;to hang;verb
+MA2W_0534;Hosentasche, die, -n;trouser pocket;noun
+MA2W_0535;klappen;to work, to function, to go well;verb
+MA2W_0536;legen;to lay, to put;verb
+MA2W_0537;merken (sich);to notice, to remember (memorize);verb
+MA2W_0538;öfter;more often, more frequently;adverb
+MA2W_0539;peinlich;embarrassing, awkward;adjective
+MA2W_0540;Schreibtisch, der, -e;desk, writing desk;noun
+MA2W_0541;stecken;to stick, to put, to be inside;verb
+MA2W_0542;unangenehm;unpleasant, uncomfortable;adjective
+MA2W_0543;wunderbar;wonderful, marvelous;adjective
+MA2W_0544;Garage, die, -n;garage;noun
+MA2W_0545;Sitz, der, -e;seat;noun
+MA2W_0546;stellen;to place, to put, to set;verb
+MA2W_0547;Coladose, die, -n;can of cola;noun
+MA2W_0548;Decke, die, -n;ceiling, blanket, cover;noun
+MA2W_0549;Dose, die, -n;can, tin;noun
+MA2W_0550;Kaffeetasse, die, -n;coffee cup;noun
+MA2W_0551;Kamm, der, :-e;comb;noun
+MA2W_0552;Kanne, die, -n [CH] Krug, der, :-e;jug, pot, pitcher;noun
+MA2W_0553;Kette, die, -n;chain, necklace;noun
+MA2W_0554;Spiegel, der, -;mirror;noun
+MA2W_0555;Tasse, die, -n [A] Haferl, das, -n;cup;noun
+MA2W_0556;Teekanne, die, -n;teapot;noun
+MA2W_0557;Anzeige, die, -n;advertisement, announcement;noun
+MA2W_0558;Beitrag, der, :-e;contribution, article;noun
+MA2W_0559;Bücherregal, das, -e;bookshelf;noun
+MA2W_0560;einbauen;to install, to incorporate;verb
+MA2W_0561;hellblau;light blue;adjective
+MA2W_0562;hellgrün;light green;adjective
+MA2W_0563;Installateur, der, -e;plumber, installer (male);noun
+MA2W_0564;Jobanzeige, die, -n;job advertisement;noun
+MA2W_0565;Keller, der, -;cellar, basement;noun
+MA2W_0566;kreativ;creative;adjective
+MA2W_0567;Küchentisch, der, -e;kitchen table;noun
+MA2W_0568;Lust haben;to feel like, to want to;verb
+MA2W_0569;Maler, der, -;painter (male);noun
+MA2W_0570;prima;great, excellent;adjective
+MA2W_0571;Raum, der, :-e;room, space;noun
+MA2W_0572;ständig;constant, constantly;adjective adverb
+MA2W_0573;streichen;to paint, to spread, to cancel;verb
+MA2W_0574;Terrasse, die, -n;terrace, patio;noun
+MA2W_0575;umräumen;to rearrange, to move things around;verb
+MA2W_0576;verändern (sich);to change, to alter (oneself);verb
+MA2W_0577;verschieben;to move, to postpone, to reschedule;verb
+MA2W_0578;Wirklichkeit, die, -en;reality;noun
+MA2W_0579;zusammenziehen;to move in together;verb
+MA2W_0580;Kinderzimmer, das, -;children's room;noun
+MA2W_0581;montieren;to assemble, to mount, to install;verb
+MA2W_0582;Spüle, die, -n [CH] Schüttstein, der, -n;sink;noun
+MA2W_0583;umbauen;to rebuild, to convert, to remodel;verb
+MA2W_0584;Wohnungsplan, der, :-e;floor plan, apartment plan;noun
+MA2W_0585;Zimmerdecke, die, -n [A] Plafond, der, -s;ceiling;noun
+MA2W_0586;putzen;to clean, to polish;verb
+MA2W_0587;schneiden (sich);to cut (oneself);verb
+MA2W_0588;Computerprogramm, das, -e;computer program;noun
+MA2W_0589;installieren;to install;verb
+MA2W_0590;lassen;to let, to allow, to leave, to have something done;verb
+MA2W_0591;Programm, das, -e;program;noun
+MA2W_0592;anstrengend;exhausting, strenuous, tiring;adjective
+MA2W_0593;Artist, der, -en;artist, performer (male);noun
+MA2W_0594;Fensterputzer, der, -;window cleaner (male);noun
+MA2W_0595;Feuerwehr, die, -en;fire brigade, fire department;noun
+MA2W_0596;Feuerwehrmann, der, :-er;fireman, firefighter (male);noun
+MA2W_0597;Flugzeugpilot, der, -en;airline pilot (male);noun
+MA2W_0598;Hubschrauberpilot, der, -en;helicopter pilot (male);noun
+MA2W_0599;Kinderwunsch, der, :-e;wish for a child, desire to have children;noun
+MA2W_0600;schwierig;difficult, complicated;adjective
+MA2W_0601;Tierarzt, der, :-e;veterinarian, vet (male);noun
+MA2W_0602;Traum, der, :-e;dream;noun
+MA2W_0603;Traumberuf, der, -e;dream job;noun
+MA2W_0604;trotzdem;nevertheless, in spite of that, anyway;adverb conjunction
+MA2W_0605;Achensee, der, Sg.;Achensee (lake);noun
+MA2W_0606;bauen;to build, to construct;verb
+MA2W_0607;dabeihaben;to have with one, to have on one;verb
+MA2W_0608;drehen (sich);to turn, to rotate, to spin (oneself);verb
+MA2W_0609;Erfahrung, die, -en;experience;noun
+MA2W_0610;feststellen;to determine, to establish, to find out;verb
+MA2W_0611;Gefahr, die, -en;danger, risk;noun
+MA2W_0612;Gleitschirm, der, -e;paraglider;noun
+MA2W_0613;Gleitschirmfliegen, das, Sg.;paragliding;noun
+MA2W_0614;Gleitschirmflieger, der, -;paraglider pilot (male);noun
+MA2W_0615;halten (nicht kaputt gehen);to hold, to last (not break);verb
+MA2W_0616;hart (unsanft);hard (rough, not gentle);adjective
+MA2W_0617;Kenntnisse, Pl.;knowledge, skills;noun
+MA2W_0618;Knochenbruch, der, :-e;bone fracture;noun
+MA2W_0619;Kurve, die, -n;curve, turn, bend;noun
+MA2W_0620;landen;to land;verb
+MA2W_0621;Landung, die, -en;landing;noun
+MA2W_0622;liefern;to deliver, to supply;verb
+MA2W_0623;Material, das, Materialien;material;noun
+MA2W_0624;Modell, das, -e;model;noun
+MA2W_0625;Notarzt, der, :-e;emergency doctor (male);noun
+MA2W_0626;obwohl;although, even though;conjunction
+MA2W_0627;probieren (testen);to try, to test;verb
+MA2W_0628;reagieren;to react, to respond;verb
+MA2W_0629;Rettungsschirm, der, -e;rescue parachute, emergency parachute;noun
+MA2W_0630;Schirm, der, -e;screen, umbrella, parachute;noun
+MA2W_0631;Spitzenpilot, der, -en;top pilot (male);noun
+MA2W_0632;Stein, der, -e;stone, rock;noun
+MA2W_0633;Test, der, -s;test;noun
+MA2W_0634;testen;to test;verb
+MA2W_0635;Testflug, der, :-e;test flight;noun
+MA2W_0636;um (lokal);around (local);preposition
+MA2W_0637;unten;below, down, downstairs;adverb
+MA2W_0638;Wettersituation, die, -en;weather situation;noun
+MA2W_0639;Gegensatz, der, :-e;opposite, contrast;noun
+MA2W_0640;streiten (sich);to argue, to quarrel (with each other);verb
+MA2W_0641;wechseln (Beruf);to change (job, profession);verb
+MA2W_0642;Zirkusartist, der, -en;circus performer (male);noun
+MA2W_0643;Dachdecker, der, -;roofer (male);noun
+MA2W_0644;Hochseefischer, der, -;deep-sea fisherman (male);noun
+MA2W_0645;Holzfäller, der, -;lumberjack, woodcutter (male);noun
+MA2W_0646;Platz (Rang), der, :-e;place, position, rank;noun
+MA2W_0647;Polizeiarbeit, die, -en;police work;noun
+MA2W_0648;Soldat, der, -en;soldier (male);noun
+MA2W_0649;Soldatenberuf, der, -e;military profession;noun
+MA2W_0650;Statistik, die, -en;statistics;noun
+MA2W_0651;Bauernhof, der, :-e;farm;noun
+MA2W_0652;an deiner Stelle;in your place;preposition
+MA2W_0653;angestellt;employed;adjective
+MA2W_0654;Arbeitszeit, die, -en;working hours, work hours;noun
+MA2W_0655;Computersystem, das, -e;computer system;noun
+MA2W_0656;Gehalt, das, :-er;salary, wages;noun
+MA2W_0657;kündigen;to resign, to quit, to terminate;verb
+MA2W_0658;Lohn, der, :-e;wage, pay, salary;noun
+MA2W_0659;Projektmanager, der, -;project manager (male);noun
+MA2W_0660;regelmäßig;regular, regularly;adjective adverb
+MA2W_0661;Sekretärin, die, -nen;secretary (female);noun
+MA2W_0662;Selbstständige, der, -n;self-employed person (male);noun
+MA2W_0663;Software, die, -s;software;noun
+MA2W_0664;Softwaresystem, das, -e;software system;noun
+MA2W_0665;System, das, -e;system;noun
+MA2W_0666;unregelmäßig;irregular, irregularly;adjective adverb
+MA2W_0667;Visitenkarte, die, -n;business card;noun
+MA2W_0668;zurückkommen;to come back, to return;verb
+MA2W_0669;ausgeben;to spend (money);verb
+MA2W_0670;trainieren;to train, to exercise, to coach;verb
+MA2W_0671;früh (früh aufstehen);early (to get up early);adjective adverb
+MA2W_0672;Stichwort, das, -e / :-er;keyword, catchword, prompt;noun
+MA2W_0673;Werkzeug, das, -e;tool;noun
+MA2W_0674;Ausbildung, die, -en [A] Lehre , die;training, education, apprenticeship;noun
+MA2W_0675;Ausbildungszeit, die, -en;training period, apprenticeship period;noun
+MA2W_0676;Berufsausbildung, die, -en;vocational training, professional training;noun
+MA2W_0677;durchschnittlich;on average, average;adjective adverb
+MA2W_0678;erwachsen;grown-up, adult;adjective
+MA2W_0679;freiwillig;voluntary, voluntarily;adjective adverb
+MA2W_0680;Junge, der, -n [A] Bub, der, -en;boy;noun
+MA2W_0681;König, der, -e;king;noun
+MA2W_0682;Mädchen, das, -;girl;noun
+MA2W_0683;Minister, der, -;minister, secretary;noun
+MA2W_0684;Pflicht, die, -en;duty, obligation;noun
+MA2W_0685;Preußen, das, Sg.;Prussia;noun
+MA2W_0686;Preußenkönig, der, -e;King of Prussia;noun
+MA2W_0687;Realschule, die, -n;secondary school (type of school in Germany);noun
+MA2W_0688;schicken (in die Schule);to send (to school);verb
+MA2W_0689;Schulpflicht, die, -en;compulsory schooling, compulsory school attendance;noun
+MA2W_0690;selbstverständlich;self-evident, obvious, of course;adjective adverb
+MA2W_0691;unnötig;unnecessary;adjective
+MA2W_0692;weiterführende Schule, die, -n;secondary school, further education school;noun
+MA2W_0693;Architekt, der, -en;architect (male);noun
+MA2W_0694;Berufsschule, die, -n;vocational school, trade school;noun
+MA2W_0695;Gesamtschule, die, -n;comprehensive school;noun
+MA2W_0696;Grundschule, die, -n [A] Volksschule die, -n [CH] Primarschule, die, -n;primary school, elementary school;noun
+MA2W_0697;Gymnasium, das, Gymnasien [CH] (auch) Kantonschule, die, -n;grammar school, high school (academically oriented secondary school);noun
+MA2W_0698;Hauptschule, die, -n;secondary school (type of school in Germany);noun
+MA2W_0699;Jurist, der, -en;lawyer, jurist (male);noun
+MA2W_0700;Maurer, der, -;bricklayer, mason (male);noun
+MA2W_0701;nötig;necessary;adjective
+MA2W_0702;Schulsystem, das, -e;school system;noun
+MA2W_0703;Tischler, der, -;carpenter, joiner (male);noun
+MA2W_0704;Abitur, das, -e [A / CH] Matura, die, Sg.;school leaving examination, A-levels;noun
+MA2W_0705;Berufsbildende Höhere Schule (BHS) [nur A];vocational high school;noun
+MA2W_0706;Abendgymnasium, das, -gymnasien;evening grammar school, night school;noun
+MA2W_0707;abschließen (beenden);to complete, to finish, to graduate;verb
+MA2W_0708;Berufswechsel, der, -;career change;noun
+MA2W_0709;nachholen;to make up for, to catch up on;verb
+MA2W_0710;vermuten;to suppose, to suspect, to assume;verb
+MA2W_0711;Arbeitskollege, der, -n;work colleague (male);noun
+MA2W_0712;Soziogramm, das, -e;sociogram;noun
+MA2W_0713;ärgern (sich);to be annoyed, to get angry;verb
+MA2W_0714;außerdem;besides, in addition, furthermore;adverb
+MA2W_0715;erleben;to experience;verb
+MA2W_0716;Fernsehmacher, der, -;TV producer, TV maker (male);noun
+MA2W_0717;Fernsehsender, der, -;TV channel, TV station;noun
+MA2W_0718;Fernsehshow, die, -s;TV show;noun
+MA2W_0719;Fernsehunterhaltung, die, -en;TV entertainment;noun
+MA2W_0720;filmen;to film, to shoot a film;verb
+MA2W_0721;freuen (sich);to be pleased, to be glad, to look forward to;verb
+MA2W_0722;halb so schlimm;half as bad;adjective
+MA2W_0723;Kandidat, der, -en;candidate (male);noun
+MA2W_0724;Kennenlernshow, die, -s;dating show, getting to know each other show;noun
+MA2W_0725;Kritik, die, -en;criticism;noun
+MA2W_0726;kümmern (sich);to take care of, to look after;verb
+MA2W_0727;Lebenspartner, der, -;life partner (male);noun
+MA2W_0728;Moment, der, -e;moment;noun
+MA2W_0729;Privatsache, die, -n;private matter;noun
+MA2W_0730;Programmmacher, der, -;program maker, producer (male);noun
+MA2W_0731;Publikum, das;audience, public;noun
+MA2W_0732;senden;to broadcast, to transmit, to send;verb
+MA2W_0733;Show, die, -s;show;noun
+MA2W_0734;Szene, die, -n;scene;noun
+MA2W_0735;täglich;daily;adjective adverb
+MA2W_0736;teilnehmen;to participate, to take part;verb
+MA2W_0737;Teilnehmer, der, -;participant (male);noun
+MA2W_0738;Traumpartner, der, -;dream partner (male);noun
+MA2W_0739;vereinbaren;to agree, to arrange;verb
+MA2W_0740;verlieben (sich);to fall in love;verb
+MA2W_0741;Vertrag, der, :-e;contract, agreement;noun
+MA2W_0742;wecken;to wake someone up;verb
+MA2W_0743;anmelden (sich);to register, to enroll, to sign up;verb
+MA2W_0744;entspannen (sich);to relax;verb
+MA2W_0745;Fernsehstudio, das, -s;TV studio;noun
+MA2W_0746;konzentrieren (sich);to concentrate;verb
+MA2W_0747;umziehen (sich);to change (clothes), to get changed;verb
+MA2W_0748;unterhalten (sich);to have a conversation, to talk, to enjoy oneself;verb
+MA2W_0749;vorbereiten (sich);to prepare (oneself);verb
+MA2W_0750;vorlesen;to read aloud;verb
+MA2W_0751;wählen;to choose, to select, to vote, to dial;verb
+MA2W_0752;witzig;funny, witty;adjective
+MA2W_0753;beschweren (sich);to complain;verb
+MA2W_0754;bewegen (sich);to move (oneself);verb
+MA2W_0755;duschen (sich);to shower (oneself);verb
+MA2W_0756;fühlen (sich);to feel;verb
+MA2W_0757;Gesprächstermin, der, -e;appointment for a talk, meeting;noun
+MA2W_0758;schwach;weak;adjective
+MA2W_0759;Studio, das, -s;studio;noun
+MA2W_0760;Treffen, das, -;meeting;noun
+MA2W_0761;ablaufen;to proceed, to run, to expire;verb
+MA2W_0762;Amt, das, :-er;office, authority;noun
+MA2W_0763;Automat, der, -en;vending machine, machine;noun
+MA2W_0764;Beamte, der, -n;official, civil servant (male);noun
+MA2W_0765;blond;blond, fair-haired;adjective
+MA2W_0766;breit;wide, broad;adjective
+MA2W_0767;Enkel, der, -;grandson;noun
+MA2W_0768;Familienähnlichkeit, die, -en;family resemblance;noun
+MA2W_0769;Gebühr, die, -en;fee, charge;noun
+MA2W_0770;Glückwunsch, der, :-e;congratulation;noun
+MA2W_0771;Herzlichen Glückwunsch;Congratulations;interjection
+MA2W_0772;Papiere, Pl.;papers, documents;noun
+MA2W_0773;Passfoto, das, -s;passport photo;noun
+MA2W_0774;rund;round;adjective
+MA2W_0775;Stempel, der, -;stamp, seal;noun
+MA2W_0776;Unfallkrankenhaus, das, :-er;accident and emergency hospital;noun
+MA2W_0777;frisch;fresh;adjective
+MA2W_0778;Geburtsurkunde, die, -n;birth certificate;noun
+MA2W_0779;hart;hard, tough, harsh;adjective
+MA2W_0780;Kleiderschrank, der, :-e;wardrobe;noun
+MA2W_0781;Lichtschalter, der, -;light switch;noun
+MA2W_0782;Motor, der, -en;engine, motor;noun
+MA2W_0783;Motoröl, das, -e;motor oil;noun
+MA2W_0784;reich;rich, wealthy;adjective
+MA2W_0785;reif;ripe, mature;adjective
+MA2W_0786;scharf;sharp, spicy;adjective
+MA2W_0787;Schinken, der, -;ham;noun
+MA2W_0788;Schwimmbrille, die, -n;swimming goggles;noun
+MA2W_0789;Sonnenschirm, der, -e;parasol, sunshade;noun
+MA2W_0790;Topf, der, :-e [CH] Pfanne, die, -n;pot;noun
+MA2W_0791;Überschrift, die, -en;heading, title;noun
+MA2W_0792;weich;soft;adjective
+MA2W_0793;zum Kochen;for cooking;preposition
+MA2W_0794;Bart, der, :-e;beard;noun
+MA2W_0795;genauso;just as, equally;adverb
+MA2W_0796;aufwecken;to wake someone up;verb
+MA2W_0797;austauschen;to exchange, to replace;verb
+MA2W_0798;best-;best (prefix);adjective prefix
+MA2W_0799;Beziehung, die, -en;relationship;noun
+MA2W_0800;Chance, die, -n;chance, opportunity;noun
+MA2W_0801;der / das / dieselbe;the same;pronoun
+MA2W_0802;Ehepartner, der, -;spouse (male);noun
+MA2W_0803;Familienpflicht, die, -en;family obligation, family duty;noun
+MA2W_0804;Frauenfreundschaft, die, -en;friendship between women;noun
+MA2W_0805;Freundschaft, die, -en;friendship;noun
+MA2W_0806;gehen lassen (sich);to let go, to break up;verb
+MA2W_0807;Gesprächspartner, der, -;conversation partner (male);noun
+MA2W_0808;jahrzehntelang;for decades;adverb
+MA2W_0809;Männerfreundschaft, die, -en;friendship between men;noun
+MA2W_0810;Morgen, das, Sg.;morning, the next day;noun
+MA2W_0811;nah;near, close;adjective
+MA2W_0812;nah sein (sich);to be close (to each other);verb
+MA2W_0813;seit je;for as long as anyone can remember;adverb
+MA2W_0814;Strophe, die, -n;verse, stanza;noun
+MA2W_0815;Telefongespräch, das, -e;telephone conversation;noun
+MA2W_0816;Umfrage, die, -n;survey, poll;noun
+MA2W_0817;Unterschied, der, -e;difference;noun
+MA2W_0818;Vergangenes, das, Sg.;the past;noun
+MA2W_0819;wiederentdecken;to rediscover;verb
+MA2W_0820;Zeiten die alten;the old times, the good old days;noun
+MA2W_0821;Moped, das, -s;moped;noun
+MA2W_0822;Band, die, -s;band (music);noun
+MA2W_0823;besonder-;special, particular (prefix);adjective prefix
+MA2W_0824;Briefpartner, der, -;pen pal (male);noun
+MA2W_0825;Einkaufen, das, Sg.;shopping;noun
+MA2W_0826;Eintrag, der, :-e;entry, post;noun
+MA2W_0827;E-Mail-Tandem, das, -s;e-mail tandem;noun
+MA2W_0828;Englisch, das, Sg.;English (language);noun
+MA2W_0829;Fernsehgewohnheit, die, -en;TV viewing habit;noun
+MA2W_0830;Französisch, das, Sg.;French (language);noun
+MA2W_0831;Fremdsprache, die, -n;foreign language;noun
+MA2W_0832;Gewohnheit, die, -en;habit;noun
+MA2W_0833;Haustier, das, -e;pet;noun
+MA2W_0834;Heimatstadt, die, :-e;hometown;noun
+MA2W_0835;Kennenlernen, das, Sg.;getting to know each other, first meeting;noun
+MA2W_0836;kommentieren;to comment;verb
+MA2W_0837;Leipzig;Leipzig;noun
+MA2W_0838;Muttersprache, die, -n;native language, mother tongue;noun
+MA2W_0839;Sprachpartner, der, -;language partner (male);noun
+MA2W_0840;Sprachportal, das, -e;language portal;noun
+MA2W_0841;Sprachtandem, das, -s;language tandem;noun
+MA2W_0842;Sprachwissenschaft, die, -en;linguistics;noun
+MA2W_0843;Tagesablauf, der, :-e;daily routine;noun
+MA2W_0844;Tandem, das, -s;tandem;noun
+MA2W_0845;Tandem-Sprachportal, das, -e;tandem language portal;noun
+MA2W_0846;Traum, der, :-e;dream;noun
+MA2W_0847;üben;to practice;verb
+MA2W_0848;baden;to bathe, to swim;verb
+MA2W_0849;Campingreise, die, -en;camping trip;noun
+MA2W_0850;Campingurlaub, der, -e;camping holiday;noun
+MA2W_0851;Inland, das, Sg.;interior of a country, domestic;noun
+MA2W_0852;Kindheit, die, -en;childhood;noun
+MA2W_0853;Sportaktivität, die, -en;sports activity;noun
+MA2W_0854;Achtbettzimmer, das, -;eight-bed room;noun
+MA2W_0855;Berghütte, die, -n;mountain hut;noun
+MA2W_0856;Bergwanderung, die, -en;mountain hike;noun
+MA2W_0857;Besichtigung, die, -en;visit, sightseeing tour;noun
+MA2W_0858;danach;afterwards, after that;adverb
+MA2W_0859;Dreisternehotel, das, -s;three-star hotel;noun
+MA2W_0860;erwarten;to expect;verb
+MA2W_0861;fantastisch;fantastic;adjective
+MA2W_0862;inklusive;inclusive, including;adjective preposition
+MA2W_0863;Karibikinsel, die, -n;Caribbean island;noun
+MA2W_0864;kulturell;cultural;adjective
+MA2W_0865;Kurzreise, die, -n;short trip, mini-break;noun
+MA2W_0866;Mehrbettzimmer, das, -;multi-bed room;noun
+MA2W_0867;Norwegen, das, Sg.;Norway;noun
+MA2W_0868;Ordnung, die, -en;order, tidiness;noun
+MA2W_0869;perfekt;perfect;adjective
+MA2W_0870;plus;plus;preposition conjunction adverb
+MA2W_0871;Prospekt, der/das, -e;brochure, leaflet;noun
+MA2W_0872;Reiseführer, der, -;travel guide, guidebook;noun
+MA2W_0873;Reiseprospekt, der / das, -e;travel brochure;noun
+MA2W_0874;Rückflug, der, :-e;return flight;noun
+MA2W_0875;Sand, der;sand;noun
+MA2W_0876;Sandstrand, der, :-e;sandy beach;noun
+MA2W_0877;tauchen;to dive;verb
+MA2W_0878;Tauchen, das, Sg.;diving;noun
+MA2W_0879;Tauchurlaub, der, -e;diving holiday;noun
+MA2W_0880;Übernachtung, die, -en;overnight stay, accommodation;noun
+MA2W_0881;umsteigen;to change trains, to transfer;verb
+MA2W_0882;Unterkunft, die, :-e;accommodation, lodging;noun
+MA2W_0883;Urlauber, der, -;holidaymaker, vacationer (male);noun
+MA2W_0884;Urlaubsreise, die, -n;holiday trip, vacation trip;noun
+MA2W_0885;vorbereitet;prepared;adjective verb
+MA2W_0886;vorgestern;the day before yesterday;adverb
+MA2W_0887;Wechsel, der, -;change, switch;noun
+MA2W_0888;wegfahren;to drive away, to depart;verb
+MA2W_0889;Wohlfühlen (sich);to feel good, to feel comfortable;verb
+MA2W_0890;ziemlich;quite, fairly, rather;adverb
+MA2W_0891;zurechtkommen;to cope, to manage;verb
+MA2W_0892;abends;in the evenings, evenings;adverb
+MA2W_0893;bezahlt;paid;adjective verb
+MA2W_0894;dienstags;on Tuesdays, Tuesdays;adverb
+MA2W_0895;donnerstags;on Thursdays, Thursdays;adverb
+MA2W_0896;freitags;on Fridays, Fridays;adverb
+MA2W_0897;furchtbar;terrible, awful, dreadful;adjective
+MA2W_0898;gültig;valid;adjective
+MA2W_0899;mittags;at noon, at lunchtime;adverb
+MA2W_0900;mittwochs;on Wednesdays, Wednesdays;adverb
+MA2W_0901;montags;on Mondays, Mondays;adverb
+MA2W_0902;morgens;in the mornings, mornings;adverb
+MA2W_0903;Nachbar, der, -n;neighbor (male);noun
+MA2W_0904;nachmittags;in the afternoons, afternoons;adverb
+MA2W_0905;Pool, der, -s;pool;noun
+MA2W_0906;Reinigung, die, -en;cleaning, dry cleaning;noun
+MA2W_0907;samstags;on Saturdays, Saturdays;adverb
+MA2W_0908;sonntags;on Sundays, Sundays;adverb
+MA2W_0909;vormittags;in the mornings, mornings;adverb
+MA2W_0910;wochentags [A] (auch) unter der Woche;on weekdays;adverb
+MA2W_0911;Zahnbürste, die, -n;toothbrush;noun
+MA2W_0912;Ausflugsprogramm, das, -e;excursion program, tour program;noun
+MA2W_0913;Ausflugsservice, der, -s;excursion service, tour service;noun
+MA2W_0914;Besonderheit, die, -en;special feature, peculiarity;noun
+MA2W_0915;bieten;to offer;verb
+MA2W_0916;Blick, der, -e;view, look;noun
+MA2W_0917;Dachterrasse, die, -n;roof terrace;noun
+MA2W_0918;entfernt;away, distant;adjective
+MA2W_0919;Fitness, die, Sg.;fitness;noun
+MA2W_0920;Fitnessraum, der, :-e;fitness room, gym;noun
+MA2W_0921;Geschäftsmann, der, :-er;businessman;noun
+MA2W_0922;Geschäftsreise, die, -n;business trip;noun
+MA2W_0923;gratis;free of charge, free;adverb adjective
+MA2W_0924;Internetzugang, der, :-e;internet access;noun
+MA2W_0925;komfortabel;comfortable;adjective
+MA2W_0926;Lage, die, -n;location, position, situation;noun
+MA2W_0927;Parkmöglichkeit, die, -en;parking possibility, parking facility;noun
+MA2W_0928;Sauna, die, -s / Saunen;sauna;noun
+MA2W_0929;Service, der, -s;service;noun
+MA2W_0930;Stadtzentrum, das, -zentren;city center, town center;noun
+MA2W_0931;Tiefgarage, die, -n;underground car park, underground parking garage;noun
+MA2W_0932;vor allem;above all, especially;adverb
+MA2W_0933;Wellness-Center, das, -;wellness center, spa;noun
+MA2W_0934;W-LAN, das, -s;Wi-Fi, WLAN;noun
+MA2W_0935;Zugang, der, :-e;access, entry;noun
+MA2W_0936;Apartment, das, -s;apartment;noun
+MA2W_0937;Decke, die, -n [A] Tuchent, das;blanket, duvet, cover;noun
+MA2W_0938;extra;extra;adjective adverb
+MA2W_0939;Handtuch, das, :-er;towel;noun
+MA2W_0940;Hotelküche, die, -n;hotel kitchen;noun
+MA2W_0941;Hotelzimmer, das, -;hotel room;noun
+MA2W_0942;Kissen, das, - [A] Polster, -das/der, :-;pillow, cushion;noun
+MA2W_0943;mitarbeiten;to collaborate, to participate, to help;verb
+MA2W_0944;renovieren;to renovate, to refurbish;verb
+MA2W_0945;Tierpension, die, -en;boarding kennel, pet hotel;noun
+MA2W_0946;Aufzug, der, :-e;lift, elevator;noun
+MA2W_0947;drinnen;inside, indoors;adverb
+MA2W_0948;drüben;over there, on the other side;adverb
+MA2W_0949;gegenüber [A, CH] vis-à-vis;opposite, across from;preposition adverb
+MA2W_0950;führen;to lead, to guide;verb
+MA2W_0951;herauf-,;up, upwards (prefix);adverb prefix
+MA2W_0952;heraus, raus-;out, out of (prefix);adverb prefix
+MA2W_0953;herein, rein;in, into (prefix);adverb prefix
+MA2W_0954;herunter-,;down, downwards (prefix);adverb prefix
+MA2W_0955;hinauf;up, upwards (prefix);adverb prefix
+MA2W_0956;hinaus;out, out of (prefix);adverb prefix
+MA2W_0957;hinein;in, into (prefix);adverb prefix
+MA2W_0958;hinunter;down, downwards (prefix);adverb prefix
+MA2W_0959;rauf;up, upwards (prefix);adverb prefix
+MA2W_0960;raus;out, out of (prefix);adverb prefix
+MA2W_0961;rein;in, into (prefix);adverb prefix
+MA2W_0962;Rezeption, die, -en [CH] (auch) Réception die, - en;reception;noun
+MA2W_0963;runter-;down, downwards (prefix);adverb prefix
+MA2W_0964;Treppe, die, -n [A] Stiege, die, -n;stairs, staircase;noun
+MA2W_0965;Airbus, der, -se;Airbus;noun
+MA2W_0966;Bahnlinie, die, -n;railway line;noun
+MA2W_0967;Breite, die, -n;width, breadth;noun
+MA2W_0968;doppelt;double;adjective adverb
+MA2W_0969;gehören zu;to belong to;verb
+MA2W_0970;Geschwindigkeit, die, -en;speed;noun
+MA2W_0971;Gewicht, das, -e;weight;noun
+MA2W_0972;Gramm, das, - / -e [A] 10 Gramm = das Deka(gramm);gram;noun
+MA2W_0973;Hochgeschwindigkeitszug, der, :-e;high-speed train;noun
+MA2W_0974;Höchstgeschwindigkeit;maximum speed, top speed;noun
+MA2W_0975;ICE, der, -s;ICE (Intercity-Express);noun
+MA2W_0976;Kilo(gramm), das, - / -e;kilogram;noun
+MA2W_0977;Kilometer pro Stunde, der, -;kilometers per hour;noun
+MA2W_0978;Kohlendioxid (CO2), das, -e;carbon dioxide (CO2);noun
+MA2W_0979;Länge, die, -n;length;noun
+MA2W_0980;Langstreckenflug, der, :-e;long-haul flight;noun
+MA2W_0981;Lufthansa, die, Sg.;Lufthansa (airline);noun
+MA2W_0982;Millimeter, der, -;millimeter;noun
+MA2W_0983;Passagier, der, -e;passenger;noun
+MA2W_0984;Passagierflugzeug, das, -e;passenger aircraft, airliner;noun
+MA2W_0985;schwer (Gewicht);heavy (weight);adjective
+MA2W_0986;Sekunde, die, -n;second;noun
+MA2W_0987;Sitzplatz, der, :-e;seat;noun
+MA2W_0988;Stundenkilometer, der, -;kilometers per hour;noun
+MA2W_0989;weltweit;worldwide, global;adverb
+MA2W_0990;Strecke, die, -n;route, distance, stretch;noun
+MA2W_0991;Art, die, -en;kind, type, way;noun
+MA2W_0992;Aufenthalt, der, -e;stay, stopover;noun
+MA2W_0993;Bezahlung, die, -en;payment;noun
+MA2W_0994;bitten;to ask, to request;verb
+MA2W_0995;Bordkarte, die, -n;boarding pass;noun
+MA2W_0996;Geldbörse, die, -n [D / CH] Portemonnaie das, -s, [D / A] Brieftasche, die, -n;wallet, purse;noun
+MA2W_0997;lösen;to solve, to detach, to buy (ticket);verb
+MA2W_0998;Öffnungszeit, die, -en;opening hours, opening times;noun
+MA2W_0999;Reifen, der, - [CH] Pneu, der, -s;tire;noun
+MA2W_1000;Reisetasche, die, -n;travel bag;noun
+MA2W_1001;Umsteigen, das, Sg.;changing trains, transfer;noun
+MA2W_1002;Verspätung, die, -en;delay;noun
+MA2W_1003;ausleihen;to borrow, to lend;verb
+MA2W_1004;Ausstellung, die, -en;exhibition;noun
+MA2W_1005;Graffiti, das, -s;graffiti;noun
+MA2W_1006;Keybord, das, -s;keyboard;noun
+MA2W_1007;Kultur, die;culture;noun
+MA2W_1008;malen;to paint;verb
+MA2W_1009;Oper, die, -n;opera;noun
+MA2W_1010;proben;to rehearse, to practice;verb
+MA2W_1011;Rock, der (Rockmusik, die);rock (rock music);noun
+MA2W_1012;sprühen;to spray;verb
+MA2W_1013;Video, -s;video;noun
+MA2W_1014;achtgeben;to pay attention, to watch out;verb
+MA2W_1015;Aktion, die, -en;action, campaign, event;noun
+MA2W_1016;Beschreibung, die, -en;description;noun
+MA2W_1017;Bürger, der, -;citizen (male);noun
+MA2W_1018;dabei;there, with it, present;adverb
+MA2W_1019;Flashmo, der, -s;Flashmob, the, -s;noun
+MA2W_1020;Flashmob-Aktion, die, -en;flash mob action, flash mob event;noun
+MA2W_1021;Flashmob-Treffen, das, -;flash mob meeting;noun
+MA2W_1022;Geocacher, der, -;geocacher (male);noun
+MA2W_1023;Geocaching, das, -s;geocaching;noun
+MA2W_1024;Gruppe, die, -n;group;noun
+MA2W_1025;Guerilla Gardening, das;guerrilla gardening;noun
+MA2W_1026;interessieren (sich);to be interested (in);verb
+MA2W_1027;Internetgruppe, die, -n;internet group;noun
+MA2W_1028;Internetnutzer, der, -;internet user (male);noun
+MA2W_1029;irren (sich);to be mistaken, to err;verb
+MA2W_1030;kritisch;critical;adjective
+MA2W_1031;liegen bleiben;to be left lying, to remain lying down;verb
+MA2W_1032;Medien, die;media;noun
+MA2W_1033;Medium, das;medium;noun
+MA2W_1034;Mitteilung, die, -en;message, communication, notification;noun
+MA2W_1035;Müll, der;rubbish, garbage, trash;noun
+MA2W_1036;Müllberg, der, -e;mountain of rubbish, garbage heap;noun
+MA2W_1037;Nachthimmel, der;night sky;noun
+MA2W_1038;nämlich;namely, that is to say, you see;adverb
+MA2W_1039;nennen;to name, to call;verb
+MA2W_1040;Outdoor-Clubbing, das;outdoor clubbing;noun
+MA2W_1041;Outdoor-Clubbing-Party, die, -s;outdoor clubbing party;noun
+MA2W_1042;pflanzen;to plant;verb
+MA2W_1043;Popkultur, die;pop culture;noun
+MA2W_1044;Regierung, die, -en;government;noun
+MA2W_1045;Stadtregierung, die, -en;city government, city council;noun
+MA2W_1046;still;quiet, silent, still;adjective
+MA2W_1047;Suche, die;search;noun
+MA2W_1048;Treffen, das, -;meeting;noun
+MA2W_1049;unternehmen;to undertake, to do;verb
+MA2W_1050;verabreden;to arrange to meet, to make an appointment;verb
+MA2W_1051;Veranstaltung, die, -en;event, function;noun
+MA2W_1052;Versteck, das, -e;hiding place;noun
+MA2W_1053;verstecken;to hide;verb
+MA2W_1054;vorbei sein;to be over, to be finished;verb
+MA2W_1055;zusammen / zusammen-;together (prefix);adverb prefix
+MA2W_1056;zusammenbringen;to bring together;verb
+MA2W_1057;Basketball;basketball;noun
+MA2W_1058;Afrikareise;trip to Africa;noun
+MA2W_1059;Fotografie, die;photography;noun
+MA2W_1060;Musikfilm, der, -e;musical film;noun
+MA2W_1061;Popmusik, die;pop music;noun
+MA2W_1062;Tanz, der;dance;noun
+MA2W_1063;Tanzkurs, der, -e;dance course, dance class;noun
+MA2W_1064;Theaterstück, das, -e;play, theatre play;noun
+MA2W_1065;besorgen;to get, to obtain, to procure;verb
+MA2W_1066;Flöte, die, -n;flute;noun
+MA2W_1067;vorhaben;to plan, to intend;verb
+MA2W_1068;wahrscheinlich;probably, likely;adverb adjective
+MA2W_1069;Interesse, das, -n;interest;noun
+MA2W_1070;reden;to talk, to speak;verb
+MA2W_1071;Richtige, das;right thing;noun
+MA2W_1072;B-Doppelseite rechts;right-hand page of a double-page spread in part B;noun
+MA2W_1073;Eintritt, der;admission, entry;noun
+MA2W_1074;Eintrittskarte, die, -n;admission ticket;noun
+MA2W_1075;Terminvorschlag, der, :-e;suggested appointment, proposed date;noun
+MA2W_1076;Überstunde, die, -n;overtime;noun
+MA2W_1077;dirigieren;to conduct (music);verb
+MA2W_1078;Haus der Musik, das;House of Music;noun
+MA2W_1079;Malkurs, der, -e;painting course;noun
+MA2W_1080;Orchester, das;orchestra;noun
+MA2W_1081;Rockband, die, -s;rock band;noun
+MA2W_1082;Spielfilm, der, -e;feature film;noun
+MA2W_1083;Videosimulation, die, -en;video simulation;noun
+MA2W_1084;Walzer, der, -;waltz;noun
+MA2W_1085;Wiener Philharmoniker, die;Vienna Philharmonic Orchestra;noun
+MA2W_1086;Arie, die, -n;aria;noun
+MA2W_1087;Aussprache, die;pronunciation;noun
+MA2W_1088;auswendig;by heart;adverb
+MA2W_1089;Bewerbung, die, -en;application;noun
+MA2W_1090;Bewerbungsgespräch, das, -e;job interview;noun
+MA2W_1091;deutlich;clear, distinct, clearly;adjective adverb
+MA2W_1092;Deutsch;German (language);noun
+MA2W_1093;ehrlich;honest, honestly;adjective adverb
+MA2W_1094;ehrlich gesagt;to be honest, honestly speaking;adverb
+MA2W_1095;Fremdsprachenlerner, der, -;foreign language learner (male);noun
+MA2W_1096;Grammatikübung, die, -en;grammar exercise;noun
+MA2W_1097;heißa;whoopee, wow;interjection
+MA2W_1098;Hochschule, die, -n;university, college, academy;noun
+MA2W_1099;hopsasa;whoops-a-daisy;interjection
+MA2W_1100;konzentrieren sich auf;to concentrate on;verb
+MA2W_1101;lügen;to lie;verb
+MA2W_1102;Mozartoper, die, -n;Mozart opera;noun
+MA2W_1103;Musikhochschule, die, -n;academy of music, conservatoire;noun
+MA2W_1104;Muttersprachler, der, -;native speaker (male);noun
+MA2W_1105;Operngesang, der;opera singing;noun
+MA2W_1106;Opernsänger, der, -;opera singer (male);noun
+MA2W_1107;Opernsprache, die;opera language;noun
+MA2W_1108;phonetisch;phonetic;adjective
+MA2W_1109;Sprachausbildung, die;language training;noun
+MA2W_1110;stets;always, constantly;adverb
+MA2W_1111;übersetzen;to translate;verb
+MA2W_1112;Übung, die, -en;exercise, practice;noun
+MA2W_1113;Vogelfänger, der;bird catcher;noun
+MA2W_1114;Wortliste, die, -n;word list, vocabulary list;noun
+MA2W_1115;Alkohol, der;alcohol;noun
+MA2W_1116;Bohne, die, -n;bean;noun
+MA2W_1117;Briefumschlag, der, :-e;envelope;noun
+MA2W_1118;Creme, die, -s;cream;noun
+MA2W_1119;Feuerzeug, das, -e;lighter;noun
+MA2W_1120;Holz, das;wood;noun
+MA2W_1121;Knopf, der, :-e;button, knob;noun
+MA2W_1122;Linie, die, -n;line;noun
+MA2W_1123;Loch, das, :-er;hole;noun
+MA2W_1124;Mülltonne, die, -n;rubbish bin, garbage can;noun
+MA2W_1125;Parfüm, das, -s;perfume;noun
+MA2W_1126;Stoff, der, -e;material, fabric, substance;noun
+MA2W_1127;Streichholz, das, :-er;match, matchstick;noun
+MA2W_1128;Taste, die, -n;key (on keyboard, piano, etc.);noun
+MA2W_1129;Turm, der, :-e;tower;noun
+MA2W_1130;Tüte, die, -n;bag (paper or plastic);noun
+MA2W_1131;verwenden;to use, to employ;verb
+MA2W_1132;Anfang, der, :-e;beginning, start;noun
+MA2W_1133;Anfangsbuchstabe, der, -n;initial letter, first letter;noun
+MA2W_1134;automatisch;automatic, automatically;adjective adverb
+MA2W_1135;deprimiert;depressed;adjective
+MA2W_1136;Eiskaffee, der, -s;iced coffee;noun
+MA2W_1137;erinnern (sich);to remember;verb
+MA2W_1138;fröhlich;happy, cheerful, merry;adjective
+MA2W_1139;Gedächtnisbild, das, -er;memory image;noun
+MA2W_1140;schief;crooked, lopsided, wrong;adjective
+MA2W_1141;vor sich hin sprechen;to talk to oneself;verb
+MA2W_1142;vorsichtig;careful, cautious;adjective
+MA2W_1143;treiben Sport;to do sports, to exercise;verb
+MA2W_1144;gesund bleiben;to stay healthy;verb
+MA2W_1145;Süßigkeit;sweet, candy;noun
+MA2W_1146;abbiegen;to turn off, to take a turn;verb
+MA2W_1147;Ärger, der;anger, trouble, annoyance;noun
+MA2W_1148;aussteigen;to get off, to get out (of a vehicle);verb
+MA2W_1149;Autostopp, der, -s;hitchhiking;noun
+MA2W_1150;Autotür, die, -en;car door;noun
+MA2W_1151;beeilen (sich);to hurry;verb
+MA2W_1152;bemerken;to notice, to realize;verb
+MA2W_1153;Benzin, das;petrol, gasoline;noun
+MA2W_1154;bremsen;to brake;verb
+MA2W_1155;Diesel, der;diesel;noun
+MA2W_1156;dringend;urgent, urgently;adjective adverb
+MA2W_1157;Fahrzeug, das, -e;vehicle;noun
+MA2W_1158;Fußgänger, der, -;pedestrian (male);noun
+MA2W_1159;Hauptstadt, die, :-e;capital city;noun
+MA2W_1160;herausfinden;to find out;verb
+MA2W_1161;hinterher;afterwards, behind;adverb
+MA2W_1162;kommunizieren;to communicate;verb
+MA2W_1163;kontrollieren;to check, to control;verb
+MA2W_1164;Lichthupe, die, -n;headlight flasher;noun
+MA2W_1165;liegen lassen;to leave lying, to forget;verb
+MA2W_1166;noch mal / noch einmal;once again, one more time;adverb
+MA2W_1167;Panne, die, -n;breakdown;noun
+MA2W_1168;Pannenhilfe, die;breakdown service;noun
+MA2W_1169;parken [C] parkieren;to park;verb
+MA2W_1170;per;by, via, per;preposition
+MA2W_1171;per Autostopp;by hitchhiking;preposition
+MA2W_1172;Platz machen;to make room, to make way;verb
+MA2W_1173;plötzlich;suddenly;adverb
+MA2W_1174;Radweg, der, -e;cycle path, bike lane;noun
+MA2W_1175;Stadtplan;city map;noun
+MA2W_1176;stehen bleiben;to stop, to stand still;verb
+MA2W_1177;steigen;to climb, to rise, to get in/on (vehicle);verb
+MA2W_1178;tanken;to refuel, to fill up;verb
+MA2W_1179;Tankstelle, die, -n;petrol station, gas station;noun
+MA2W_1180;Verkehrsteilnehmer, der, -;road user (male);noun
+MA2W_1181;verlieren;to lose;verb
+MA2W_1182;verpassen (den Zug) [A versäumen];to miss (the train);verb
+MA2W_1183;vorbei vorbei-;past, over (prefix);adverb prefix
+MA2W_1184;weiterfahren;to continue driving, to drive on;verb
+MA2W_1185;Werkstatt / Autowerkstatt, die, -stätten [CH] Garage, die, -n;garage, repair shop, car workshop;noun
+MA2W_1186;Zeichen, das, -;sign, signal, symbol;noun
+MA2W_1187;Aufforderung, die, -en;request, demand, invitation;noun
+MA2W_1188;aufschreiben;to write down, to note down;verb
+MA2W_1189;Autopapiere, die;car documents;noun
+MA2W_1190;Erste-Hilfe-Kasten, der;first aid kit;noun
+MA2W_1191;Kasten, der, :-;box, case;noun
+MA2W_1192;leihen;to lend, to borrow;verb
+MA2W_1193;volltanken;to fill up the tank;verb
+MA2W_1194;Waschstraße, die, -n;car wash;noun
+MA2W_1195;betrunken;drunk;adjective
+MA2W_1196;wegnehmen;to take away;verb
+MA2W_1197;Zettel, der, -;note, slip of paper;noun
+MA2W_1198;Apotheke, die, -n;pharmacy, chemist's shop;noun
+MA2W_1199;bluten;to bleed;verb
+MA2W_1200;etwas gegen (Husten);something for (a cough);preposition
+MA2W_1201;Fahrradunfall, der, :-e;bike accident;noun
+MA2W_1202;Fahrradweg, der, -e;cycle path, bike lane;noun
+MA2W_1203;herausfahren;to drive out;verb
+MA2W_1204;in den Bergen;in the mountains;preposition
+MA2W_1205;mitten;in the middle, amid;preposition adverb
+MA2W_1206;Mountainbike, das, -s;mountain bike;noun
+MA2W_1207;Rezept, das, -e;prescription, recipe;noun
+MA2W_1208;Grippe, die;flu, influenza;noun
+MA2W_1209;Herz, das, -en;heart;noun
+MA2W_1210;Herzproblem, das, -e;heart problem;noun
+MA2W_1211;Husten, der;cough;noun
+MA2W_1212;Magen, der, :-;stomach;noun
+MA2W_1213;Magenschmerzen, die;stomach ache;noun
+MA2W_1214;Schnupfen, der;(the) cold, sniffles;noun
+MA2W_1215;schwanger;pregnant;adjective
+MA2W_1216;einnehmen (Medikamente);to take (medicine);verb
+MA2W_1217;Fieberthermometer, das, -;clinical thermometer, fever thermometer;noun
+MA2W_1218;Hustensaft, der, :-e;cough syrup;noun
+MA2W_1219;Kleingeld, das;small change;noun
+MA2W_1220;Krankenkasse, die, -n;health insurance company;noun
+MA2W_1221;Mittel, das, -;means, remedy, agent;noun
+MA2W_1222;Quittung, die, -en;receipt;noun
+MA2W_1223;Regenschirm, der, -e;umbrella;noun
+MA2W_1224;Arztbesuch, der, -e;doctor's visit;noun
+MA2W_1225;austeilen;to distribute, to hand out;verb
+MA2W_1226;Bikini, der, -s;bikini;noun
+MA2W_1227;einsammeln;to collect;verb
+MA2W_1228;los sein;to be going on, to be happening;verb
+MA2W_1229;notwendig;necessary;adjective
+MA2W_1230;Puppe, die, -n;doll;noun
+MA2W_1231;Rauchen, das;smoking;noun
+MA2W_1232;Seife, die, -n;soap;noun
+MA2W_1233;untersuchen;to examine, to investigate;verb
+MA2W_1234;Untersuchung, die, -en;examination, investigation;noun
+MA2W_1235;Was ist los?;What's the matter? What's going on?;phrase
+MA2W_1236;Alltägliche, das;everyday things, the ordinary;noun
+MA2W_1237;Bewegung, die, -en;movement, exercise;noun
+MA2W_1238;Droge, die, -n;drug;noun
+MA2W_1239;erreichen;to reach, to achieve;verb
+MA2W_1240;Extremradfahrer, der, -;extreme cyclist (male);noun
+MA2W_1241;Extremsportlerin, die, -nen;extreme sports athlete (female);noun
+MA2W_1242;fit halten (sich);to keep fit;verb
+MA2W_1243;Geschwindigkeitsrekord, der, -e;speed record;noun
+MA2W_1244;Hobbysportler, der, -;amateur athlete, recreational athlete (male);noun
+MA2W_1245;Küste, die, -n;coast, shore;noun
+MA2W_1246;Marathonradrennen;marathon bike race;noun
+MA2W_1247;menschlich;human;adjective
+MA2W_1248;Mountainbiker;mountain biker;noun
+MA2W_1249;neugierig;curious;adjective
+MA2W_1250;Ost-;east (prefix);noun prefix
+MA2W_1251;Ostküste, die;east coast;noun
+MA2W_1252;Patient, der, -en;patient (male);noun
+MA2W_1253;Radfahren, das;cycling;noun
+MA2W_1254;Radrennen, da, -;bike race;noun
+MA2W_1255;Rekordversuch, der, -e;record attempt;noun
+MA2W_1256;Rennen, das, -;race;noun
+MA2W_1257;Risiko, das, Risiken;risk;noun
+MA2W_1258;Spezialist, der, -en;specialist (male);noun
+MA2W_1259;stürzen;to fall, to crash, to plunge;verb
+MA2W_1260;unvorsichtig;careless, reckless;adjective
+MA2W_1261;Versuch, der, -e;attempt, try, experiment;noun
+MA2W_1262;während;during, while;preposition conjunction
+MA2W_1263;warnen;to warn;verb
+MA2W_1264;West-;west (prefix);noun prefix
+MA2W_1265;Westküste, die;west coast;noun
+MA2W_1266;Wortart, die, -en;part of speech, word class;noun
+MA2W_1267;Wörterbuch, das, :-er;dictionary;noun
+MA2W_1268;Wortbildung, die, -en;word formation;noun
+MA2W_1269;aufstellen;to set up, to erect, to establish;verb
+MA2W_1270;einen Rekord aufstellen;to set a record;verb
+MA2W_1271;ausüben;to practice, to exercise, to exert;verb
+MA2W_1272;eine Sportart ausüben;to do a sport;verb
+MA2W_1273;extrem;extreme;adjective
+MA2W_1274;Rekord, der, -e;record;noun
+MA2W_1275;Sportart, die, -en;type of sport, sport;noun
+MA2W_1276;anfangs;initially, at the beginning;adverb
+MA2W_1277;Apnoetauchen, das;freediving;noun
+MA2W_1278;Apnoetaucher, der, -;freediver (male);noun
+MA2W_1279;Auftauchen, das;surfacing, coming up;noun
+MA2W_1280;auftauchen;to surface, to emerge;verb
+MA2W_1281;Bewusstsein, das;consciousness, awareness;noun
+MA2W_1282;Boot, das, -e;boat;noun
+MA2W_1283;einsetzen;to use, to deploy, to insert;verb
+MA2W_1284;einsetzen (sich / für);to advocate for, to support, to stand up for;verb
+MA2W_1285;Eishockey, das;ice hockey;noun
+MA2W_1286;Extremsportart, die, -en;extreme sport;noun
+MA2W_1287;Folge, die, -n;consequence, result, episode;noun
+MA2W_1288;Forschung, die, -en;research;noun
+MA2W_1289;Forschungs-U-Boot, das, -e;research submarine;noun
+MA2W_1290;gegenseitig;mutual, each other;adjective adverb
+MA2W_1291;gut laufen;to go well, to run smoothly;verb
+MA2W_1292;ignorieren;to ignore;verb
+MA2W_1293;in die Tiefe;into the depths;preposition
+MA2W_1294;klettern;to climb;verb
+MA2W_1295;Kontext, der, -e;context;noun
+MA2W_1296;Leidenschaft, die, -en;passion;noun
+MA2W_1297;Mountainbiken, das;mountain biking;noun
+MA2W_1298;Objektspringer, der, -;BASE jumper (male);noun
+MA2W_1299;Sauerstoff, der;oxygen;noun
+MA2W_1300;Sauerstoffgerät, das, -e;oxygen apparatus, oxygen device;noun
+MA2W_1301;Schlitten, der, die;sled, sledge, sleigh;noun
+MA2W_1302;Taucher, der, -;diver (male);noun
+MA2W_1303;Tauchgerät, das, -e;diving equipment;noun
+MA2W_1304;Tauchrekord, der, -e;diving record;noun
+MA2W_1305;Tauschschlitten, der, -;weighted sled used for freediving;noun
+MA2W_1306;Tiefe, die;depth;noun
+MA2W_1307;Tiefenrekord, der, -e;depth record;noun
+MA2W_1308;U-Boot, das, -e;submarine;noun
+MA2W_1309;unter Wasser;under water;preposition
+MA2W_1310;verbessern (sich);to improve;verb
+MA2W_1311;verlassen;to leave, to abandon;verb
+MA2W_1312;Versicherungskaufmann, der, Versicherungskaufleute;insurance broker (male);noun
+MA2W_1313;ziehen;to pull, to draw, to move;verb
