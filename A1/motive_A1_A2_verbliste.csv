@@ -1,0 +1,230 @@
+﻿#separator:Semicolon
+#html:false
+#columns:ID;Infinitiv;Präsens;Präteritum;Perfekt;Englische Übersetzung
+#deck:Motive A1-A2 Verbliste
+#guid column:1
+
+MA1A2V_0001;abfahren;fährt ab;fuhr ab;ist abgefahren;to depart
+MA1A2V_0002;abfliegen;fliegt ab;flog ab;ist abgeflogen;to take off (flight)
+MA1A2V_0003;abgeben;gibt ab;gab ab;hat abgegeben;to hand in, to give away
+MA1A2V_0004;abholen;holt ab;holte ab;hat abgeholt;to pick up
+MA1A2V_0005;achtgeben;gibt acht;gab acht;hat achtgegeben;to pay attention
+MA1A2V_0006;ändern (sich);ändert sich;änderte sich;hat sich geändert;to change
+MA1A2V_0007;anfangen;fängt an;fing an;hat angefangen;to begin
+MA1A2V_0008;ankommen;kommt an;kam an;ist angekommen;to arrive
+MA1A2V_0009;anmachen;macht an;machte an;hat angemacht;to turn on, to switch on
+MA1A2V_0010;anmelden (sich);meldet an;meldete an;hat angemeldet;to register, to sign up
+MA1A2V_0011;anrufen;ruft an;rief an;hat angerufen;to call (on the phone)
+MA1A2V_0012;antworten;antwortet;antwortete;hat geantwortet;to answer
+MA1A2V_0013;anziehen (sich);zieht an;zog an;hat angezogen;to put on (clothes)
+MA1A2V_0014;arbeiten;arbeitet;arbeitete;hat gearbeitet;to work
+MA1A2V_0015;ärgern (sich);ärgert;ärgerte;hat geärgert;to annoy, to get angry
+MA1A2V_0016;aufhören;hört auf;hörte auf;hat aufgehört;to stop
+MA1A2V_0017;aufmachen;macht auf;machte auf;hat aufgemacht;to open
+MA1A2V_0018;aufpassen;passt auf;passte auf;hat aufgepasst;to pay attention, to watch out
+MA1A2V_0019;aufräumen;räumt auf;räumte auf;hat aufgeräumt;to tidy up
+MA1A2V_0020;aufschreiben;schreibt auf;schrieb auf;hat aufgeschrieben;to write down
+MA1A2V_0021;aufstehen;steht auf;stand auf;ist aufgestanden;to get up
+MA1A2V_0022;ausfüllen;füllt aus;füllte aus;hat ausgefüllt;to fill out
+MA1A2V_0023;ausgeben;gibt aus;gab aus;hat ausgegeben;to spend (money)
+MA1A2V_0024;auspacken;packt aus;packte aus;hat ausgepackt;to unpack
+MA1A2V_0025;aussehen;sieht aus;sah aus;hat ausgesehen;to look, to appear
+MA1A2V_0026;aussteigen;steigt aus;stieg aus;ist ausgestiegen;to get off (transport)
+MA1A2V_0027;ausziehen (sich);zieht sich aus;zog sich aus;hat sich ausgezogen;to take off (clothes)
+MA1A2V_0028;ausziehen;zieht aus;zog aus;ist ausgezogen;to move out
+MA1A2V_0029;baden;badet;badete;hat gebadet;to bathe
+MA1A2V_0030;bedeuten;bedeutet;bedeutete;hat bedeutet;to mean
+MA1A2V_0031;beeilen (sich);beeilt;beeilte;hat beeilt;to hurry
+MA1A2V_0032;beginnen;beginnt;begann;hat begonnen;to begin
+MA1A2V_0033;behalten;behält;behielt;hat behalten;to keep
+MA1A2V_0034;bekommen;bekommt;bekam;hat bekommen;to get, to receive
+MA1A2V_0035;benutzen;benutzt;benutzte;hat benutzt;to use
+MA1A2V_0036;beschweren (sich);beschwert;beschwerte;hat beschwert;to complain
+MA1A2V_0037;besichtigen;besichtigt;besichtigte;hat besichtigt;to visit, to sightsee
+MA1A2V_0038;bestehen;besteht;bestand;hat bestanden;to pass (an exam), to exist
+MA1A2V_0039;bestellen;bestellt;bestellte;hat bestellt;to order
+MA1A2V_0040;besuchen;besucht;besuchte;hat besucht;to visit
+MA1A2V_0041;bezahlen;bezahlt;bezahlte;hat bezahlt;to pay
+MA1A2V_0042;bitten;bittet;bat;hat gebeten;to ask, to request
+MA1A2V_0043;bleiben;bleibt;blieb;ist geblieben;to stay
+MA1A2V_0044;bloggen;bloggt;bloggte;hat gebloggt;to blog
+MA1A2V_0045;bluten;blutet;blutete;hat geblutet;to bleed
+MA1A2V_0046;brauchen;braucht;brauchte;hat gebraucht;to need
+MA1A2V_0047;bremsen;bremst;bremste;hat gebremst;to brake
+MA1A2V_0048;bringen;bringt;brachte;hat gebracht;to bring
+MA1A2V_0049;buchen;bucht;buchte;hat gebucht;to book
+MA1A2V_0050;buchstabieren;buchstabiert;buchstabierte;hat buchstabiert;to spell
+MA1A2V_0051;danken;dankt;dankte;hat gedankt;to thank
+MA1A2V_0052;dauern;dauert;dauerte;hat gedauert;to last, to take (time)
+MA1A2V_0053;denken;denkt;dachte;hat gedacht;to think
+MA1A2V_0054;diskutieren;diskutiert;diskutierte;hat diskutiert;to discuss
+MA1A2V_0055;drucken;druckt;druckte;hat gedruckt;to print
+MA1A2V_0056;dürfen;darf;durfte;hat gedurft;to be allowed to, may
+MA1A2V_0057;duschen (sich);duscht;duschte;hat geduscht;to shower
+MA1A2V_0058;einkaufen;kauft ein;kaufte ein;hat eingekauft;to shop
+MA1A2V_0059;einladen;lädt ein;lud ein;hat eingeladen;to invite
+MA1A2V_0060;einsteigen;steigt ein;stieg ein;ist eingestiegen;to get in, to board
+MA1A2V_0061;einziehen;zieht ein;zog ein;ist eingezogen;to move in
+MA1A2V_0062;enden;endet;endete;hat geendet;to end
+MA1A2V_0063;entschuldigen;entschuldigt;entschuldigte;hat entschuldigt;to excuse, to apologize
+MA1A2V_0064;erinnern (sich);erinnert;erinnerte;hat erinnert;to remember
+MA1A2V_0065;erklären;erklärt;erklärte;hat erklärt;to explain
+MA1A2V_0066;erlauben;erlaubt;erlaubte;hat erlaubt;to allow, to permit
+MA1A2V_0067;erreichen;erreicht;erreichte;hat erreicht;to reach, to achieve
+MA1A2V_0068;erzählen;erzählt;erzählte;hat erzählt;to tell, to narrate
+MA1A2V_0069;essen;isst;aß;hat gegessen;to eat
+MA1A2V_0070;fahren;fährt;fuhr;ist gefahren;to drive, to go
+MA1A2V_0071;fallen;fällt;fiel;ist gefallen;to fall
+MA1A2V_0072;fehlen;fehlt;fehlte;hat gefehlt;to be missing, to lack
+MA1A2V_0073;feiern;feiert;feierte;hat gefeiert;to celebrate
+MA1A2V_0074;fernsehen;sieht fern;sah fern;hat ferngesehen;to watch TV
+MA1A2V_0075;finden;findet;fand;hat gefunden;to find
+MA1A2V_0076;fliegen;fliegt;flog;ist geflogen;to fly
+MA1A2V_0077;fragen;fragt;fragte;hat gefragt;to ask
+MA1A2V_0078;freuen (sich);freut;freute;hat gefreut;to be happy, to look forward to
+MA1A2V_0079;frühstücken;frühstückt;frühstückte;hat gefrühstückt;to have breakfast
+MA1A2V_0080;fühlen (sich);fühlt;fühlte;hat gefühlt;to feel
+MA1A2V_0081;geben;gibt;gab;hat gegeben;to give
+MA1A2V_0082;gefallen;gefällt;gefiel;hat gefallen;to please, to be pleasing to
+MA1A2V_0083;gehen;geht;ging;ist gegangen;to go
+MA1A2V_0084;gehören;gehört;gehörte;hat gehört;to belong to
+MA1A2V_0085;gewinnen;gewinnt;gewann;hat gewonnen;to win
+MA1A2V_0086;glauben;glaubt;glaubte;hat geglaubt;to believe, to think
+MA1A2V_0087;grillen;grillt;grillte;hat gegrillt;to grill, to barbecue
+MA1A2V_0088;haben;hat;hatte;hat gehabt;to have
+MA1A2V_0089;halten (sich);hält;hielt;hat gehalten;to stop, to hold
+MA1A2V_0090;hängen;hängt;hängte;hat gehängt;to hang (transitive)
+MA1A2V_0091;hängen;hängt;hing;hat gehangen;to hang (intransitive)
+MA1A2V_0092;heiraten;heiratet;heiratete;hat geheiratet;to marry
+MA1A2V_0093;heißen;heißt;hieß;hat geheißen;to be called
+MA1A2V_0094;helfen;hilft;half;hat geholfen;to help
+MA1A2V_0095;holen;holt;holte;hat geholt;to fetch, to get
+MA1A2V_0096;hören;hört;hörte;hat gehört;to hear, to listen
+MA1A2V_0097;interessieren (sich);interessiert;interessierte;hat interessiert;to be interested in
+MA1A2V_0098;kaufen;kauft;kaufte;hat gekauft;to buy
+MA1A2V_0099;kennen;kennt;kannte;hat gekannt;to know (a person or place)
+MA1A2V_0100;kennenlernen;lernt kennen;lernte kennen;hat kennengelernt;to get to know, to meet
+MA1A2V_0101;klopfen;klopft;klopfte;hat geklopft;to knock
+MA1A2V_0102;kochen;kocht;kochte;hat gekocht;to cook
+MA1A2V_0103;kommen;kommt;kam;ist gekommen;to come
+MA1A2V_0104;können;kann;konnte;hat gekonnt;to be able to, can
+MA1A2V_0105;korrigieren;korrigiert;korrigierte;hat korrigiert;to correct
+MA1A2V_0106;kosten;kostet;kostete;hat gekostet;to cost
+MA1A2V_0107;kümmern (sich);kümmert;kümmerte;hat gekümmert;to take care of, to worry about
+MA1A2V_0108;lachen;lacht;lachte;hat gelacht;to laugh
+MA1A2V_0109;lassen;lässt;ließ;hat gelassen;to let, to leave
+MA1A2V_0110;laufen;läuft;lief;ist gelaufen;to run, to walk
+MA1A2V_0111;leben;lebt;lebte;hat gelebt;to live
+MA1A2V_0112;legen;legt;legte;hat gelegt;to lay, to put
+MA1A2V_0113;leihen;leiht;lieh;hat geliehen;to lend, to borrow
+MA1A2V_0114;lernen;lernt;lernte;hat gelernt;to learn, to study
+MA1A2V_0115;lesen;liest;las;hat gelesen;to read
+MA1A2V_0116;liefern;liefert;lieferte;hat geliefert;to deliver
+MA1A2V_0117;liegen;liegt;lag;hat gelegen;to lie (position)
+MA1A2V_0118;lösen;löst;löste;hat gelöst;to solve
+MA1A2V_0119;lügen;lügt;log;hat gelogen;to lie (not tell the truth)
+MA1A2V_0120;machen;macht;machte;hat gemacht;to do, to make
+MA1A2V_0121;meinen;meint;meinte;hat gemeint;to think, to mean, to believe
+MA1A2V_0122;merken (sich);merkt;merkte;hat gemerkt;to notice, to remember
+MA1A2V_0123;mieten;mietet;mietete;hat gemietet;to rent
+MA1A2V_0124;mitbringen;bringt mit;brachte mit;hat mitgebracht;to bring along
+MA1A2V_0125;mitkommen;kommt mit;kam mit;ist mitgekommen;to come along
+MA1A2V_0126;mitmachen;macht mit;machte mit;hat mitgemacht;to participate
+MA1A2V_0127;mitnehmen;nimmt mit;nahm mit;hat mitgenommen;to take along
+MA1A2V_0128;möchten;möchte;-;-;would like to
+MA1A2V_0129;mögen;mag;mochte;hat gemocht;to like
+MA1A2V_0130;müssen;muss;musste;hat gemusst;to have to, must
+MA1A2V_0131;nehmen;nimmt;nahm;hat genommen;to take
+MA1A2V_0132;öffnen;öffnet;öffnete;hat geöffnet;to open
+MA1A2V_0133;parken;parkt;parkte;hat geparkt;to park
+MA1A2V_0134;passen;passt;passte;hat gepasst;to fit, to suit
+MA1A2V_0135;probieren;probiert;probierte;hat probiert;to try, to taste
+MA1A2V_0136;putzen;putzt;putzte;hat geputzt;to clean
+MA1A2V_0137;rauchen;raucht;rauchte;hat geraucht;to smoke
+MA1A2V_0138;regnen;regnet;regnete;hat geregnet;to rain
+MA1A2V_0139;reisen;reist;reiste;ist gereist;to travel
+MA1A2V_0140;renovieren;renoviert;renovierte;hat renoviert;to renovate
+MA1A2V_0141;reparieren;repariert;reparierte;hat repariert;to repair
+MA1A2V_0142;reservieren;reserviert;reservierte;hat reserviert;to reserve
+MA1A2V_0143;riechen;riecht;roch;hat gerochen;to smell
+MA1A2V_0144;sagen;sagt;sagte;hat gesagt;to say
+MA1A2V_0145;sammeln;sammelt;sammelte;hat gesammelt;to collect
+MA1A2V_0146;scheinen;scheint;schien;hat geschienen;to shine, to seem
+MA1A2V_0147;schenken;schenkt;schenkte;hat geschenkt;to give (as a gift)
+MA1A2V_0148;schicken;schickt;schickte;hat geschickt;to send
+MA1A2V_0149;schlafen;schläft;schlief;hat geschlafen;to sleep
+MA1A2V_0150;schließen;schließt;schloss;hat geschlossen;to close
+MA1A2V_0151;schmecken;schmeckt;schmeckte;hat geschmeckt;to taste
+MA1A2V_0152;schneiden (sich);schneidet;schnitt;hat geschnitten;to cut
+MA1A2V_0153;schneien;schneit;schneite;hat geschneit;to snow
+MA1A2V_0154;schreiben;schreibt;schrieb;hat geschrieben;to write
+MA1A2V_0155;schwimmen;schwimmt;schwamm;ist geschwommen;to swim
+MA1A2V_0156;sehen;sieht;sah;hat gesehen;to see
+MA1A2V_0157;sein;ist;war;ist gewesen;to be
+MA1A2V_0158;singen;singt;sang;hat gesungen;to sing
+MA1A2V_0159;sitzen;sitzt;saß;hat/ist gesessen;to sit
+MA1A2V_0160;sollen;soll;sollte;hat gesollt;to should, ought to
+MA1A2V_0161;spazieren gehen;geht spazieren;ging spazieren;ist spazieren gegangen;to go for a walk
+MA1A2V_0162;speichern;speichert;speicherte;hat gespeichert;to save (data)
+MA1A2V_0163;spielen;spielt;spielte;hat gespielt;to play
+MA1A2V_0164;sprechen;spricht;sprach;hat gesprochen;to speak
+MA1A2V_0165;spülen;spült;spülte;hat gespült;to wash (dishes)
+MA1A2V_0166;stattfinden;findet statt;fand statt;hat stattgefunden;to take place
+MA1A2V_0167;stecken;steckt;steckte;hat gesteckt;to put, to stick
+MA1A2V_0168;stehen;steht;stand;ist gestanden;to stand
+MA1A2V_0169;stehen bleiben;bleibt stehen;blieb stehen;ist stehen geblieben;to remain standing, to stop
+MA1A2V_0170;stellen;stellt;stellte;hat gestellt;to place, to set
+MA1A2V_0171;sterben;stirbt;starb;ist gestorben;to die
+MA1A2V_0172;stimmen;stimmt;stimmte;hat gestimmt;to be correct
+MA1A2V_0173;stören;stört;störte;hat gestört;to disturb, to bother
+MA1A2V_0174;streiten (sich);streitet;stritt;hat gestritten;to argue, to quarrel
+MA1A2V_0175;studieren;studiert;studierte;hat studiert;to study (at university)
+MA1A2V_0176;suchen;sucht;suchte;hat gesucht;to search, to look for
+MA1A2V_0177;tanken;tankt;tankte;hat getankt;to refuel, to fill up (gas)
+MA1A2V_0178;tanzen;tanzt;tanzte;hat getanzt;to dance
+MA1A2V_0179;tauschen;tauscht;tauschte;hat getauscht;to exchange, to swap
+MA1A2V_0180;teilnehmen;nimmt teil;nahm teil;hat teilgenommen;to participate
+MA1A2V_0181;telefonieren;telefoniert;telefonierte;hat telefoniert;to telephone, to call
+MA1A2V_0182;tragen;trägt;trug;hat getragen;to wear, to carry
+MA1A2V_0183;treffen (sich);trifft;traf;hat getroffen;to meet
+MA1A2V_0184;trinken;trinkt;trank;hat getrunken;to drink
+MA1A2V_0185;tun;tut;tat;hat getan;to do
+MA1A2V_0186;übernachten;übernachtet;übernachtete;hat übernachtet;to stay overnight
+MA1A2V_0187;übersetzen;übersetzt;übersetzte;hat übersetzt;to translate
+MA1A2V_0188;überweisen;überweist;überwies;hat überwiesen;to transfer (money)
+MA1A2V_0189;umsteigen;steigt um;stieg um;ist umgestiegen;to change (trains, buses)
+MA1A2V_0190;umziehen;zieht um;zog um;ist umgezogen;to move (house)
+MA1A2V_0191;umziehen (sich);zieht sich um;zog sich um;hat sich umgezogen;to change clothes
+MA1A2V_0192;unterhalten (sich);unterhält;unterhielt;hat unterhalten;to chat, to converse, to entertain
+MA1A2V_0193;unternehmen;unternimmt;unternahm;hat unternommen;to undertake, to do
+MA1A2V_0194;unterschreiben;unterschreibt;unterschrieb;hat unterschrieben;to sign
+MA1A2V_0195;untersuchen;untersucht;untersuchte;hat untersucht;to examine, to investigate
+MA1A2V_0196;verdienen;verdient;verdiente;hat verdient;to earn
+MA1A2V_0197;vereinbaren;vereinbart;vereinbarte;hat vereinbart;to arrange, to agree
+MA1A2V_0198;vergessen;vergisst;vergaß;hat vergessen;to forget
+MA1A2V_0199;vergleichen;vergleicht;verglich;hat verglichen;to compare
+MA1A2V_0200;verkaufen;verkauft;verkaufte;hat verkauft;to sell
+MA1A2V_0201;verlieren;verliert;verlor;hat verloren;to lose
+MA1A2V_0202;verpassen;verpasst;verpasste;hat verpasst;to miss (train, bus, etc.)
+MA1A2V_0203;verschieben;verschiebt;verschob;hat verschoben;to postpone, to move
+MA1A2V_0204;versprechen (sich);verspricht;versprach;hat versprochen;to promise
+MA1A2V_0205;verstehen (sich);versteht;verstand;hat verstanden;to understand
+MA1A2V_0206;versuchen;versucht;versuchte;hat versucht;to try, to attempt
+MA1A2V_0207;vorstellen (sich);stellt vor;stellte vor;hat vorgestellt;to introduce, to imagine
+MA1A2V_0208;wählen;wählt;wählte;hat gewählt;to choose, to dial, to vote
+MA1A2V_0209;wandern;wandert;wanderte;ist gewandert;to hike
+MA1A2V_0210;warten;wartet;wartete;hat gewartet;to wait
+MA1A2V_0211;waschen (sich);wäscht;wusch;hat gewaschen;to wash
+MA1A2V_0212;wechseln;wechselt;wechselte;hat gewechselt;to change, to exchange
+MA1A2V_0213;wecken;weckt;weckte;hat geweckt;to wake up
+MA1A2V_0214;werden;wird;wurde;ist geworden;to become
+MA1A2V_0215;wiederholen;wiederholt;wiederholte;hat wiederholt;to repeat
+MA1A2V_0216;wissen;weiß;wusste;hat gewusst;to know (a fact)
+MA1A2V_0217;wohnen;wohnt;wohnte;hat gewohnt;to live, to reside
+MA1A2V_0218;wollen;will;wollte;hat gewollt;to want
+MA1A2V_0219;wünschen (sich);wünscht;wünschte;hat gewünscht;to wish, to desire
+MA1A2V_0220;zahlen;zahlt;zahlte;hat gezahlt;to pay
+MA1A2V_0221;zeigen;zeigt;zeigte;hat gezeigt;to show
+MA1A2V_0222;zuhören;hört zu;hörte zu;hat zugehört;to listen to
+MA1A2V_0223;zumachen;macht zu;machte zu;hat zugemacht;to close
+MA1A2V_0224;zurechtkommen;kommt zurecht;kam zurecht;ist zurechtgekommen;to cope, to manage
