@@ -5,1419 +5,1419 @@
 #tags column:4
 #guid column:1
 
-MA1W_0001;willkommen;welcome;verb
-MA1W_0002;Buchstabe;letter (of the alphabet);noun
-MA1W_0003;buchstabieren;to spell;verb
-MA1W_0004;Wiedersehen;goodbye;noun
-MA1W_0005;auf Deutsch;in German;adverb
-MA1W_0006;Automat, der, -en;vending machine, ATM;noun
-MA1W_0007;Baby, das, -s [CH] Bébé, das, -s;baby;noun
-MA1W_0008;Banane, die, -n;banana;noun
-MA1W_0009;Computer, der, -;computer;noun
-MA1W_0010;deutsch;German;adjective
-MA1W_0011;Film, der, -e;film, movie;noun
-MA1W_0012;Foto, das, -s;photo;noun
-MA1W_0013;Geldautomat, der, -en Bankomat, der, -en;ATM;noun
-MA1W_0014;Gitarre, die, -n;guitar;noun
-MA1W_0015;hallo [A] Servus / Grüß dich. [CH] Hoi. / Sali. / Salü.;hello;interjection
-MA1W_0016;Hotel, das, -s;hotel;noun
-MA1W_0017;ich;I;pronoun
-MA1W_0018;international;international;adjective
-MA1W_0019;Internet, das, Sg.;internet;noun
-MA1W_0020;Kaffee, der, -s;coffee;noun
-MA1W_0021;Museum, das, Museen;museum;noun
-MA1W_0022;Post, die;post office, mail;noun
-MA1W_0023;Radio, das, -s [CH] Radio, der, -s;radio;noun
-MA1W_0024;SMS, die, - [A/CH] SMS das, -;text message;noun
-MA1W_0025;super;great, super;adjective
-MA1W_0026;Taxi, das / der, -s;taxi;noun
-MA1W_0027;Telefon, das, -e;telephone;noun
-MA1W_0028;und;and;conjunction
-MA1W_0029;Universität, die, -en;university;noun
-MA1W_0030;Wort, das, :-er / -e;word;noun
-MA1W_0031;Ach ja;Oh yes, Oh well;interjection
-MA1W_0032;Beispiel, das, -e;example;noun
-MA1W_0033;Comic, der / das, -s;comic;noun
-MA1W_0034;du;you (informal, singular);pronoun
-MA1W_0035;Entschuldigung, die, -en;excuse, apology;noun
-MA1W_0036;Familienname, der, -n;surname, family name;noun
-MA1W_0037;formell;formal;adjective
-MA1W_0038;Frau, die, -en;woman, Mrs., Ms.;noun
-MA1W_0039;heißen;to be called;verb
-MA1W_0040;Herr, der, -en;gentleman, Mr.;noun
-MA1W_0041;hier;here;adverb
-MA1W_0042;informell;informal;adjective
-MA1W_0043;lesen;to read;verb
-MA1W_0044;Name, der, -n;name;noun
-MA1W_0045;Person, die, -en;person;noun
-MA1W_0046;Sie;"you (formal, singular and plural); she; they";pronoun
-MA1W_0047;Teil, der, -e;part;noun
-MA1W_0048;Vorname, der, -n;first name;noun
-MA1W_0049;wie;how, like, as;adverb conjunction
-MA1W_0050;bitte;"please; you're welcome; pardon";adverb interjection
-MA1W_0051;nein;no;particle
-MA1W_0052;neu;new;adjective
-MA1W_0053;Telefonnummer, die, -n;telephone number;noun
-MA1W_0054;von;from, of, by;preposition
-MA1W_0055;wichtig;important;adjective
-MA1W_0056;acht;eight;numeral
-MA1W_0057;dann;then, after that;adverb
-MA1W_0058;drei;three;numeral
-MA1W_0059;eins;one;numeral
-MA1W_0060;falsch;wrong, false;adjective
-MA1W_0061;fünf;five;numeral
-MA1W_0062;Handy, das, -s [CH] Natel, das, -s;mobile phone;noun
-MA1W_0063;neun;nine;numeral
-MA1W_0064;richtig;right, correct;adjective
-MA1W_0065;sechs;six;numeral
-MA1W_0066;sieben;seven;numeral
-MA1W_0067;vier;four;numeral
-MA1W_0068;zwei;two;numeral
-MA1W_0069;Ägypten;Egypt;noun
-MA1W_0070;auch;also, too;adverb
-MA1W_0071;aus;from, out of;preposition
-MA1W_0072;aus Deutschland;from Germany;preposition
-MA1W_0073;aus Korea;from Korea;preposition
-MA1W_0074;Brasilien, das, Sg.;Brazil;noun
-MA1W_0075;Café, das, -s;café;noun
-MA1W_0076;China, das, Sg.;China;noun
-MA1W_0077;Deutschland, das, Sg.;Germany;noun
-MA1W_0078;Frankfurt;Frankfurt;noun
-MA1W_0079;ihr;"you (informal, plural); her";pronoun
-MA1W_0080;im Café;in the café;preposition
-MA1W_0081;in;in, into;preposition
-MA1W_0082;in Frankfurt;in Frankfurt;preposition
-MA1W_0083;in Korea;in Korea;preposition
-MA1W_0084;Komm auch!;Come too!;verb
-MA1W_0085;kommen;to come;verb
-MA1W_0086;Korea;Korea;noun
-MA1W_0087;Namensschild, das, -er;name tag;noun
-MA1W_0088;neun Uhr;nine o'clock;noun
-MA1W_0089;nicht;not;particle
-MA1W_0090;sie;she, they;pronoun
-MA1W_0091;Tut mir leid.;I'm sorry.;verb
-MA1W_0092;Uhr, die, -en;clock, watch, hour, o'clock;noun
-MA1W_0093;um neun Uhr;at nine o'clock;preposition
-MA1W_0094;vergleichen;to compare;verb
-MA1W_0095;wir;we;pronoun
-MA1W_0096;woher;where from;adverb
-MA1W_0097;Abend, der, -e;evening;noun
-MA1W_0098;Bangkok;Bangkok;noun
-MA1W_0099;Berlin;Berlin;noun
-MA1W_0100;elf;eleven;numeral
-MA1W_0101;es;it;pronoun
-MA1W_0102;Frage, die, -n;question;noun
-MA1W_0103;Honolulu;Honolulu;noun
-MA1W_0104;Kapstadt;Cape Town;noun
-MA1W_0105;Lima;Lima;noun
-MA1W_0106;Mexico City;Mexico City;noun
-MA1W_0107;Mittag, der, -e;noon, midday;noun
-MA1W_0108;Morgen, der, -;morning;noun
-MA1W_0109;Nachmittag, der, -e;afternoon;noun
-MA1W_0110;Nacht, die, :-e;night;noun
-MA1W_0111;New York;New York;noun
-MA1W_0112;San Francisco;San Francisco;noun
-MA1W_0113;spät;late;adjective
-MA1W_0114;Tokio;Tokyo;noun
-MA1W_0115;Vormittag, der, -e;late morning;noun
-MA1W_0116;zehn;ten;numeral
-MA1W_0117;zwölf;twelve;numeral
-MA1W_0118;am;on, at;preposition
-MA1W_0119;Bild, das, -er;picture, image;noun
-MA1W_0120;Dienstag, der, -e;Tuesday;noun
-MA1W_0121;frei;free;adjective
-MA1W_0122;frei haben;to have free time, to have time off;verb
-MA1W_0123;glauben;to believe, to think;verb
-MA1W_0124;haben;to have;verb
-MA1W_0125;in der Nacht;in the night, at night;preposition
-MA1W_0126;Montag, der, -e;Monday;noun
-MA1W_0127;morgen;tomorrow;adverb
-MA1W_0128;noch einmal;once again;adverb
-MA1W_0129;Tabelle, die, -n;table, chart;noun
-MA1W_0130;wann;when;adverb
-MA1W_0131;wer;who;pronoun
-MA1W_0132;wo;where;adverb
-MA1W_0133;aber;but;conjunction
-MA1W_0134;da;there, here;adverb
-MA1W_0135;da sein;to be there, to be present;verb
-MA1W_0136;dort;there;adverb
-MA1W_0137;oder;or;conjunction
-MA1W_0138;sein;"to be; his";verb pronoun
-MA1W_0139;antworten;to answer;verb
-MA1W_0140;Donnerstag, der, -e;Thursday;noun
-MA1W_0141;fragen;to ask;verb
-MA1W_0142;Freitag, der, -e;Friday;noun
-MA1W_0143;heute;today;adverb
-MA1W_0144;Mittwoch, der, -e;Wednesday;noun
-MA1W_0145;Samstag, der, -e;Saturday;noun
-MA1W_0146;Sonntag, der, -e;Sunday;noun
-MA1W_0147;was;what;pronoun
-MA1W_0148;Wochentag, der, -e;weekday;noun
-MA1W_0149;ja;yes;particle
-MA1W_0150;Bleistift, der, -e;pencil;noun
-MA1W_0151;Buch, das, :-er;book;noun
-MA1W_0152;CD, die, -s;CD;noun
-MA1W_0153;das;the, that;article pronoun
-MA1W_0154;der;the;article pronoun
-MA1W_0155;die;the;article pronoun
-MA1W_0156;Fenster, das, -;window;noun
-MA1W_0157;Heft, das, -e;notebook, exercise book;noun
-MA1W_0158;Kugelschreiber, der, -;pen;noun
-MA1W_0159;Lampe, die, -n;lamp;noun
-MA1W_0160;man;one, you (indefinite pronoun);pronoun
-MA1W_0161;Nummer, die, -n;number;noun
-MA1W_0162;Papier, das, -e;paper;noun
-MA1W_0163;Radiergummi, der, -s;eraser;noun
-MA1W_0164;Stuhl, der, :-e [A] Sessel, der, -;chair;noun
-MA1W_0165;Tisch, der, -e;table;noun
-MA1W_0166;denn;because, for, then, so;conjunction particle
-MA1W_0167;ein-;a, one (prefix for separable verbs);article prefix
-MA1W_0168;schreiben;to write;verb
-MA1W_0169;Auto, das, -s;car;noun
-MA1W_0170;Bus, der, -se;bus;noun
-MA1W_0171;doch [ja – nein – doch];yes – no – on the contrary, but;particle
-MA1W_0172;Hamburger, der, -;hamburger;noun
-MA1W_0173;kein-;no, not a, not any;article
-MA1W_0174;kennen;to know (a person or place);verb
-MA1W_0175;Pizza, die, -s / Pizzen;pizza;noun
-MA1W_0176;Polizei, die, -en;police;noun
-MA1W_0177;Satz, der, :-e;sentence;noun
-MA1W_0178;WC, das, -s;toilet, WC;noun
-MA1W_0179;Ausland, das, Sg.;foreign countries, abroad;noun
-MA1W_0180;Bekannte, der / die, -n;acquaintance;noun
-MA1W_0181;E-Mail schreiben;to write an e-mail;verb
-MA1W_0182;E-Mail, die, -s [A/CH] E-Mail, das, -s;e-mail;noun
-MA1W_0183;gut;good;adjective
-MA1W_0184;Japan, das, Sg.;Japan;noun
-MA1W_0185;jetzt;now;adverb
-MA1W_0186;Luxemburg;Luxembourg;noun
-MA1W_0187;nicht gut;not good;adjective
-MA1W_0188;oft;often;adverb
-MA1W_0189;Rio de Janeiro;Rio de Janeiro;noun
-MA1W_0190;sehr;very;adverb
-MA1W_0191;sehr gut;very good;adjective
-MA1W_0192;skypen;to skype;verb
-MA1W_0193;SMS schreiben;to write a text message;verb
-MA1W_0194;Tag, der, -e;day;noun
-MA1W_0195;telefonieren;to telephone, to make a phone call;verb
-MA1W_0196;Wie gut …;How well …;adverb
-MA1W_0197;Antwort, die, -en;answer;noun
-MA1W_0198;Familie, die, -n;family;noun
-MA1W_0199;Fernsehquiz, das, -;TV quiz;noun
-MA1W_0200;finden;to find;verb
-MA1W_0201;für;for;preposition
-MA1W_0202;ganze Familie;whole family;noun
-MA1W_0203;gern;gladly, like to;adverb
-MA1W_0204;klassisch;classical;adjective
-MA1W_0205;klassische Musik;classical music;noun
-MA1W_0206;Lieblings-;favorite (prefix);adjective prefix
-MA1W_0207;Lieblingsschauspieler, der, -;favorite actor;noun
-MA1W_0208;Lieblingstag, der, -e;favorite day;noun
-MA1W_0209;Musik, die, -en;music;noun
-MA1W_0210;Punkt, der, -e;point, dot, full stop;noun
-MA1W_0211;Quiz, das, -;quiz;noun
-MA1W_0212;Schauspieler, der, -;actor;noun
-MA1W_0213;schön;beautiful, lovely, nice;adjective
-MA1W_0214;Schönen guten Abend;Good evening;noun
-MA1W_0215;spielen;to play;verb
-MA1W_0216;surfen;to surf;verb
-MA1W_0217;Tennis (spielen);(to play) tennis;noun verb
-MA1W_0218;wandern;to hike;verb
-MA1W_0219;arbeiten;to work;verb
-MA1W_0220;Hausarbeit machen;to do housework;verb
-MA1W_0221;Hausarbeit, die, -en;housework;noun
-MA1W_0222;im Internet surfen;to surf the internet;verb
-MA1W_0223;kochen;to cook;verb
-MA1W_0224;lernen;to learn, to study;verb
-MA1W_0225;machen;to do, to make;verb
-MA1W_0226;schwimmen;to swim;verb
-MA1W_0227;Sprache, die, -n;language;noun
-MA1W_0228;Sprachen lernen;to learn languages;verb
-MA1W_0229;tanzen;to dance;verb
-MA1W_0230;Fernsehen, das, Sg.;television;noun
-MA1W_0231;Horrorfilm, der, -e;horror film;noun
-MA1W_0232;interessant;interesting;adjective
-MA1W_0233;Jazz, der, Sg.;jazz;noun
-MA1W_0234;langweilig;boring;adjective
-MA1W_0235;Mathematik (Mathe), die, Sg.;mathematics (math);noun
-MA1W_0236;Österreich;Austria;noun
-MA1W_0237;schrecklich;terrible, awful;adjective
-MA1W_0238;toll;great, fantastic;adjective
-MA1W_0239;Das weiß ich nicht.;I don't know that.;verb
-MA1W_0240;dein-;your (informal, singular, possessive);pronoun
-MA1W_0241;Ihr-;your (formal, possessive);pronoun
-MA1W_0242;Land, das, :-er;country;noun
-MA1W_0243;Lieblingsfilm, der, -e;favorite film;noun
-MA1W_0244;mein-;my;pronoun
-MA1W_0245;meinen;my (accusative, masculine);pronoun
-MA1W_0246;Schauspielerin, die, -nen;actress;noun
-MA1W_0247;Sportler, der, -;athlete, sportsman;noun
-MA1W_0248;Stadt, die, :-e;city, town;noun
-MA1W_0249;Tageszeit, die, -en;time of day;noun
-MA1W_0250;Was meinen Sie?;What do you mean?;verb
-MA1W_0251;Wie bitte?;"Pardon?; Excuse me?";adverb interjection
-MA1W_0252;Zahl, die, -en;number;noun
-MA1W_0253;allein;alone;adjective
-MA1W_0254;als (Präp);as (preposition);preposition
-MA1W_0255;arbeiten als;to work as;verb preposition
-MA1W_0256;Bauer, der, -n;farmer;noun
-MA1W_0257;Bayern, das, Sg.;Bavaria;noun
-MA1W_0258;Beruf, der, -e;profession, job;noun
-MA1W_0259;Bruder, der, :-;brother;noun
-MA1W_0260;einfach;simple, easy;adjective
-MA1W_0261;Eltern, Pl.;parents;noun
-MA1W_0262;Familienleben, das, -;family life;noun
-MA1W_0263;Fernliebe, die, -n;long-distance love;noun
-MA1W_0264;Frau (Ehefrau), die, -en;wife;noun
-MA1W_0265;Freund, der, -e;friend (male);noun
-MA1W_0266;geschieden;divorced;adjective
-MA1W_0267;Geschwister, Pl.;siblings;noun
-MA1W_0268;groß;big, tall, great;adjective
-MA1W_0269;immer;always;adverb
-MA1W_0270;Kasachstan;Kazakhstan;noun
-MA1W_0271;Kind, das, -er;child;noun
-MA1W_0272;Kinderfrau, die, -en;nanny, childminder;noun
-MA1W_0273;klein;small, little;adjective
-MA1W_0274;leben;to live;verb
-MA1W_0275;Leben, das, -;life;noun
-MA1W_0276;Liebe, die, -n;love;noun
-MA1W_0277;lieben;to love;verb
-MA1W_0278;Mann (Ehemann), der, :-er;husband;noun
-MA1W_0279;noch;still, yet;adverb
-MA1W_0280;Partner, der, -;partner (male);noun
-MA1W_0281;sagen;to say;verb
-MA1W_0282;Schweiz, die, Sg.;Switzerland;noun
-MA1W_0283;Schwester, die, -n;sister;noun
-MA1W_0284;sehr viel lernen;to study a lot;verb
-MA1W_0285;Sohn, der, :-e;son;noun
-MA1W_0286;Soziologe, der, -n;sociologist;noun
-MA1W_0287;Thailand, das, Sg.;Thailand;noun
-MA1W_0288;Thema, das, Themen;topic, subject;noun
-MA1W_0289;Tochter, die, :-;daughter;noun
-MA1W_0290;verheiratet;married;adjective
-MA1W_0291;von Beruf sein;to be by profession;verb
-MA1W_0292;Weltfamilie, die, -n;global family;noun
-MA1W_0293;wohnen;to live, to reside;verb
-MA1W_0294;Zürich;Zurich;noun
-MA1W_0295;Cousin, der, -s;cousin (male);noun
-MA1W_0296;Cousine, die, -n;cousin (female);noun
-MA1W_0297;euer / eur-;your (informal, plural, possessive);pronoun
-MA1W_0298;Großeltern, Pl.;grandparents;noun
-MA1W_0299;Großmutter, die, :-;grandmother;noun
-MA1W_0300;Großvater, der, :-;grandfather;noun
-MA1W_0301;ihr-;her, their, its;pronoun
-MA1W_0302;Mutter, die, :-;mother;noun
-MA1W_0303;Oma, die, -s;grandma;noun
-MA1W_0304;Onkel, der, -;uncle;noun
-MA1W_0305;Opa, der, -s;grandpa;noun
-MA1W_0306;sein-;his, its;pronoun
-MA1W_0307;Stammbaum, der, :-e;family tree;noun
-MA1W_0308;Tante, die, -n;aunt;noun
-MA1W_0309;unser / unsr-;our;pronoun
-MA1W_0310;Vater, der, :-;father;noun
-MA1W_0311;viel;much, many;pronoun adjective adverb
-MA1W_0312;wie viele;how many;pronoun
-MA1W_0313;genau;exactly, precise;adjective adverb
-MA1W_0314;Ja genau.;Yes, exactly.;adverb
-MA1W_0315;alt;old;adjective
-MA1W_0316;Arbeit, die, -en;work, job;noun
-MA1W_0317;Arzt, der, :-e;doctor (male);noun
-MA1W_0318;Ärztin, die, -nen;doctor (female);noun
-MA1W_0319;auf;on, on top of, at;preposition
-MA1W_0320;Barkeeper, der, -;bartender;noun
-MA1W_0321;Erzieher, der, -;preschool teacher, educator (male);noun
-MA1W_0322;Erzieherin, die, -nen;preschool teacher, educator (female);noun
-MA1W_0323;Essen, das, -;food, meal;noun
-MA1W_0324;Form, die, -en;form, shape;noun
-MA1W_0325;Friseur, der, -e [CH] Coiffeur, -e;hairdresser (male);noun
-MA1W_0326;Friseurin, die, -nen [CH] Coiffeuse, die, -n;hairdresser (female);noun
-MA1W_0327;Heimweh, das, Sg.;homesickness;noun
-MA1W_0328;Hotelmanager, der, -;hotel manager (male);noun
-MA1W_0329;Hotelmanagerin, die, -nen;hotel manager (female);noun
-MA1W_0330;Ingenieur, der, -e;engineer (male);noun
-MA1W_0331;Ingenieurin, die, -nen;engineer (female);noun
-MA1W_0332;Jahr, das, -e;year;noun
-MA1W_0333;Jahre alt sein;to be years old;verb
-MA1W_0334;jeden Tag;every day;adverb
-MA1W_0335;Job, der, -s;job;noun
-MA1W_0336;Kabine, die, -n;cabin;noun
-MA1W_0337;Kapitän, der, -e;captain (male);noun
-MA1W_0338;Kapitänin, die, -nen;captain (female);noun
-MA1W_0339;Kellner, der, - [CH] Serviceangestellte, der –n;waiter;noun
-MA1W_0340;Kellnerin, die, -nen [CH] Serviceangestellte, die –n;waitress;noun
-MA1W_0341;Koch, der, :-e;cook, chef (male);noun
-MA1W_0342;Köchin, die, -nen;cook, chef (female);noun
-MA1W_0343;Krankenpfleger, der, -;nurse (male);noun
-MA1W_0344;Krankenschwester, die, -n;nurse (female);noun
-MA1W_0345;Kreuzfahrtschiff, das, -e;cruise ship;noun
-MA1W_0346;Manager, der, -;manager (male);noun
-MA1W_0347;Managerin, die, -nen;manager (female);noun
-MA1W_0348;manchmal;sometimes;adverb
-MA1W_0349;männlich;male, masculine;adjective
-MA1W_0350;Meer, das, -e;sea, ocean;noun
-MA1W_0351;Musiker, der, -;musician (male);noun
-MA1W_0352;Musikerin, die, -nen;musician (female);noun
-MA1W_0353;Rezeptionist, der, -en;receptionist (male);noun
-MA1W_0354;Rezeptionistin, die, -nen;receptionist (female);noun
-MA1W_0355;Schiff, das, -e;ship;noun
-MA1W_0356;schlecht;bad, poor;adjective
-MA1W_0357;Schneider, der, -;tailor, cutter (male);noun
-MA1W_0358;Schneiderin, die, -nen;tailor, cutter (female);noun
-MA1W_0359;schon;already, yet;adverb particle
-MA1W_0360;schon vier Jahre;for four years already;adverb
-MA1W_0361;Sonne, die, -n;sun;noun
-MA1W_0362;Steward, der, -s;steward;noun
-MA1W_0363;Stewardess, die, -en;stewardess;noun
-MA1W_0364;Stunde, die, -n;hour;noun
-MA1W_0365;Team, das, -s;team;noun
-MA1W_0366;weiblich;female, feminine;adjective
-MA1W_0367;Woche, die, -n;week;noun
-MA1W_0368;zum Beispiel;for example;adverb
-MA1W_0369;Frankreich;France;noun
-MA1W_0370;geboren;born;adjective verb
-MA1W_0371;Griechenland;Greece;noun
-MA1W_0372;Großbritannien;Great Britain;noun
-MA1W_0373;Italien;Italy;noun
-MA1W_0374;Liste, die, -n;list;noun
-MA1W_0375;Rumänien;Romania;noun
-MA1W_0376;Spanien;Spain;noun
-MA1W_0377;Türkei, die;Turkey;noun
-MA1W_0378;Ukraine, die;Ukraine;noun
-MA1W_0379;dreizehn;thirteen;numeral
-MA1W_0380;hundert;hundred;numeral
-MA1W_0381;zwanzig;twenty;numeral
-MA1W_0382;Schweden;Sweden;noun
-MA1W_0383;selbstständig;self-employed, independent;adjective adverb
-MA1W_0384;Tourist, der, -en;tourist (male);noun
-MA1W_0385;Touristin, die, -nen;tourist (female);noun
-MA1W_0386;Alter, das (Sg.);age;noun
-MA1W_0387;Auto fahren;to drive a car;verb
-MA1W_0388;chatten;to chat;verb
-MA1W_0389;essen;to eat;verb
-MA1W_0390;fahren;to drive, to go, to ride;verb
-MA1W_0391;Fußball, der;football, soccer;noun
-MA1W_0392;Kommunikation, die, -en;communication;noun
-MA1W_0393;Konsum, der, Sg.;consumption;noun
-MA1W_0394;Lebensmittel, das, -;food, groceries;noun
-MA1W_0395;Restaurant, das, -s;restaurant;noun
-MA1W_0396;Sport machen;to do sports, to exercise;verb
-MA1W_0397;Sport, der, -e (selten);sport;noun
-MA1W_0398;Telefonieren, das, Sg.;telephoning, the act of telephoning;noun
-MA1W_0399;Urlaub machen;to take a vacation, to go on holiday;verb
-MA1W_0400;Urlaub, der, -e [CH] Ferien, die (Pl.);vacation, holiday;noun
-MA1W_0401;viel lesen;to read a lot;verb
-MA1W_0402;Wohnung, die, -en;apartment, flat;noun
-MA1W_0403;Abschnitt, der, -e;section, paragraph;noun
-MA1W_0404;bedeuten;to mean, to signify;verb
-MA1W_0405;bekommen;to get, to receive;verb
-MA1W_0406;bleiben;to stay, to remain;verb
-MA1W_0407;brauchen;to need, to require;verb
-MA1W_0408;Ding, das, -e;thing;noun
-MA1W_0409;doch [Partikel];but, however, though;particle
-MA1W_0410;DVD, die, -s;DVD;noun
-MA1W_0411;einmal;once, one time;adverb
-MA1W_0412;es gibt;there is, there are;verb
-MA1W_0413;etwas;something, a little;pronoun adverb
-MA1W_0414;Geld, das, -er;money;noun
-MA1W_0415;Geschichte, die, -n;story, history;noun
-MA1W_0416;glücklich;happy, lucky;adjective
-MA1W_0417;Idee, die, -n;idea;noun
-MA1W_0418;kaufen;to buy;verb
-MA1W_0419;klar;clear, of course;adjective adverb
-MA1W_0420;klar sein;to be clear;verb
-MA1W_0421;kosten;to cost;verb
-MA1W_0422;Lösung, die, -en;solution;noun
-MA1W_0423;nicht so toll;not so great;adjective
-MA1W_0424;nichts;nothing;pronoun
-MA1W_0425;Party, die, -s;party;noun
-MA1W_0426;Platz, der, :-e;place, space, square;noun
-MA1W_0427;Problem, das, -e;problem;noun
-MA1W_0428;Radiogeschichten, Pl.;radio stories;noun
-MA1W_0429;Sache, die, -n;thing, matter;noun
-MA1W_0430;sehen;to see;verb
-MA1W_0431;so;so, like this;adverb pronoun
-MA1W_0432;Tauschbörse, die, -n;swap meet, exchange platform;noun
-MA1W_0433;tauschen;to exchange, to swap;verb
-MA1W_0434;Tauschpartner, der, -;exchange partner;noun
-MA1W_0435;Textabschnitt, der, -e;text section, paragraph;noun
-MA1W_0436;wirklich;really, truly;adverb adjective
-MA1W_0437;zu Hause;at home;adverb
-MA1W_0438;zweimal;twice, two times;adverb
-MA1W_0439;Blume, die, -n;flower;noun
-MA1W_0440;Briefmarke, die, -n;postage stamp;noun
-MA1W_0441;Computerspiel, das, -e;computer game;noun
-MA1W_0442;Fahrrad, das, :-er [CH] Velo, das, -s;bicycle;noun
-MA1W_0443;Fernseher, der, -;television set;noun
-MA1W_0444;Hose, die, -n;trousers, pants;noun
-MA1W_0445;Klavier, das, -e;piano;noun
-MA1W_0446;Kühlschrank, der, :-e;refrigerator;noun
-MA1W_0447;mehr;more;pronoun adverb
-MA1W_0448;Neupreis, der, -e;original price;noun
-MA1W_0449;nicht mehr;no more, no longer;adverb
-MA1W_0450;Schrank, der, :-e [A] Kasten, der, :-;cupboard, closet;noun
-MA1W_0451;Spiel, das, -e;game, match;noun
-MA1W_0452;billig;cheap, inexpensive;adjective
-MA1W_0453;Cent, der, -s;cent;noun
-MA1W_0454;Euro, der, -s;euro;noun
-MA1W_0455;nur;only, just;adverb
-MA1W_0456;Preis, der, -e;price;noun
-MA1W_0457;teuer;expensive;adjective
-MA1W_0458;wie viel;how much;pronoun adverb
-MA1W_0459;Apfel, der, :-;apple;noun
-MA1W_0460;Birne, die, -n;pear;noun
-MA1W_0461;Brot, das, -e;bread;noun
-MA1W_0462;Brötchen, das, - [A] Semmel, die, -n [CH] Brötli, das, -;roll (bread);noun
-MA1W_0463;Butter, die, Sg.;butter;noun
-MA1W_0464;Cola, die / das, -s;cola;noun
-MA1W_0465;Ei, das -er;egg;noun
-MA1W_0466;Eis (Speise-), das, Sg. [CH] Glacé, das, -s / die, -n;ice cream;noun
-MA1W_0467;Fisch, der, -e;fish;noun
-MA1W_0468;Fleisch, das, Sg.;meat;noun
-MA1W_0469;Hähnchen, das, - [A] Hendl, das, -n [CH] Poulet, das, -s;chicken;noun
-MA1W_0470;Joghurt, der / das, -s;yogurt;noun
-MA1W_0471;Karotte, die, -n [CH] Rüebli, das, -;carrot;noun
-MA1W_0472;Kartoffel, die, -n [A] Erdapfel, der, :-;potato;noun
-MA1W_0473;Käse, der, -;cheese;noun
-MA1W_0474;lang;long;adjective
-MA1W_0475;leer;empty;adjective
-MA1W_0476;Nudel, die, -n [CH] Teigware, die, -n;noodle, pasta;noun
-MA1W_0477;Orange, die, -n;orange;noun
-MA1W_0478;Orangensaft, der, :-e;orange juice;noun
-MA1W_0479;Reis, der, Sg.;rice;noun
-MA1W_0480;Saft, der, :-e;juice;noun
-MA1W_0481;Salat, der, -e;salad;noun
-MA1W_0482;so lang wie möglich;as long as possible;adverb
-MA1W_0483;Tee, der, -s;tea;noun
-MA1W_0484;Tomate, die, -n [A] Paradeiser, der, -;tomato;noun
-MA1W_0485;Wurst, die, :-e;sausage;noun
-MA1W_0486;mögen;to like, to want;verb
-MA1W_0487;nie;never;adverb
-MA1W_0488;schmecken [CH] fein sein;to taste;verb
-MA1W_0489;Supermarkt, der, :-e;supermarket;noun
-MA1W_0490;trinken;to drink;verb
-MA1W_0491;Milch, die, Sg.;milk;noun
-MA1W_0492;Appetit, der, -e;appetite;noun
-MA1W_0493;einkaufen;to shop, to buy groceries;verb
-MA1W_0494;Frühstück, das, -e [CH] Morgenessen, das, -;breakfast;noun
-MA1W_0495;Gemüse, das, -;vegetables;noun
-MA1W_0496;geöffnet;open;adjective
-MA1W_0497;geschlossen;closed;adjective
-MA1W_0498;Guten Appetit.;Enjoy your meal.;interjection
-MA1W_0499;halb;half;adjective numeral
-MA1W_0500;Hunger haben;to be hungry;verb
-MA1W_0501;Hunger, der, Sg.;hunger;noun
-MA1W_0502;inoffiziell;unofficial;adjective
-MA1W_0503;Kantine, die, -n;canteen, cafeteria;noun
-MA1W_0504;Karottenkuchen, der, -;carrot cake;noun
-MA1W_0505;Käsebrötchen, das, -;cheese roll;noun
-MA1W_0506;Kuchen, der, -;cake;noun
-MA1W_0507;mit;with;preposition
-MA1W_0508;Mittagessen, das, -;lunch;noun
-MA1W_0509;nach;after, to;preposition
-MA1W_0510;offiziell;official;adjective
-MA1W_0511;Pommes frites, Pl.;French fries;noun
-MA1W_0512;richtig essen;to eat properly;verb
-MA1W_0513;Sahne, die, (Sg.) [A] Obers, das (Sg.) [CH] Rahm, der (Sg.);cream;noun
-MA1W_0514;Schweizer Alpen, Pl.;Swiss Alps;noun
-MA1W_0515;Stück, das, -e;piece, item;noun
-MA1W_0516;Uhrzeit, die, -en;time (of day);noun
-MA1W_0517;um (temporal);at (temporal);preposition
-MA1W_0518;viel essen;to eat a lot;verb
-MA1W_0519;Viertel nach;quarter past;noun
-MA1W_0520;Viertel vor;quarter to;noun
-MA1W_0521;Viertel, das, - [CH] Viertel, der, -;quarter;noun
-MA1W_0522;von … bis;from … to;preposition
-MA1W_0523;vor;before, in front of;preposition
-MA1W_0524;wenig;little, few;pronoun adjective adverb
-MA1W_0525;wenig essen;to eat little;verb
-MA1W_0526;wie immer;as always;adverb
-MA1W_0527;zu Mittag;for lunch;adverb
-MA1W_0528;zusammenpassen;to go together, to match;verb
-MA1W_0529;Bankangestellte, die / der, -n;bank clerk, bank employee;noun
-MA1W_0530;Berg, der, -e;mountain;noun
-MA1W_0531;Bergrestaurant, das, -s;mountain restaurant;noun
-MA1W_0532;das macht;that makes, that will be;verb
-MA1W_0533;Durst haben;to be thirsty;verb
-MA1W_0534;Durst, der, (Sg.);thirst;noun
-MA1W_0535;Hafen, der, :-;harbor, port;noun
-MA1W_0536;Hamburger Hafen, der, :-;Hamburg harbor;noun
-MA1W_0537;Kaffeehaus, das, :-er;coffee house;noun
-MA1W_0538;Kartoffelsalat, der, -e;potato salad;noun
-MA1W_0539;Kneipe, die, -n [A] Beisel, das, - [CH] Beiz, die –en;pub, bar;noun
-MA1W_0540;Lehrerin, die, -nen;teacher (female);noun
-MA1W_0541;leider;unfortunately, sadly;adverb
-MA1W_0542;Lokal, das, -e;restaurant, bar, pub;noun
-MA1W_0543;meistens;mostly, usually;adverb
-MA1W_0544;Natur, die, -en;nature;noun
-MA1W_0545;nehmen;to take;verb
-MA1W_0546;nicht so viel;not so much;adverb
-MA1W_0547;Raclette, das / die, -s;raclette;noun
-MA1W_0548;Rentner, der, - [A] Pensionist, der, -en [CH] Pensionierte, der, .n;pensioner, retiree (male);noun
-MA1W_0549;Schach, das, -s;chess;noun
-MA1W_0550;Schnitzel, das, -;escalope, cutlet;noun
-MA1W_0551;Speise, die, -n;dish, food;noun
-MA1W_0552;Sportlehrerin, die, -nen;sports teacher (female);noun
-MA1W_0553;Suppe, die, -n;soup;noun
-MA1W_0554;Toast, der, -s;toast;noun
-MA1W_0555;treffen (sich);to meet;verb
-MA1W_0556;vielleicht;perhaps, maybe;adverb
-MA1W_0557;Wien;Vienna;noun
-MA1W_0558;Wiener Schnitzel, das, -;Viennese cutlet, Wiener schnitzel;noun
-MA1W_0559;Wochenende, das, -n;weekend;noun
-MA1W_0560;Würstchen mit Kartoffelsalat;sausages with potato salad;noun
-MA1W_0561;Würstchen, das, -;sausage;noun
-MA1W_0562;zusammen;together;adverb
-MA1W_0563;Bananenmilch, die, Sg.;banana milk;noun
-MA1W_0564;bestellen;to order;verb
-MA1W_0565;bezahlen;to pay;verb
-MA1W_0566;Dank, der, Sg.;thanks, gratitude;noun
-MA1W_0567;danke;thank you;interjection
-MA1W_0568;Franken, der, -;franc;noun
-MA1W_0569;Großer Brauner, der, Sg.;large espresso with milk;noun
-MA1W_0570;heiß;hot;adjective
-MA1W_0571;heiße Schokolade, die, -n;hot chocolate;noun
-MA1W_0572;Hier, bitte.;Here you are.;interjection
-MA1W_0573;Kaffee Spitz, das, Sg.;coffee with a shot of alcohol;noun
-MA1W_0574;Mineralwasser, das, Sg. [A/Ch] Mineral, das (Sg.);mineral water;noun
-MA1W_0575;möchten;would like, to want;verb
-MA1W_0576;Moserhütte, die, Sg.;Moserhütte (name of a hut);noun
-MA1W_0577;Nudelsuppe, die, -n;noodle soup;noun
-MA1W_0578;Obst, das, Sg. [CH] Früchte, die (Pl.);fruit;noun
-MA1W_0579;passen;to fit, to suit, to be right;verb
-MA1W_0580;Rappen, der, -;centime (Swiss currency);noun
-MA1W_0581;Schinken, der, -;ham;noun
-MA1W_0582;Schinkenbrötchen, das, -;ham sandwich, ham roll;noun
-MA1W_0583;Schokolade, die, -n;chocolate;noun
-MA1W_0584;Schokoladenkuchen, der, - [A] Schokoladekuchen, der, -;chocolate cake;noun
-MA1W_0585;Speisekarte, die, -n;menu;noun
-MA1W_0586;stimmen;to be correct, to be right;verb
-MA1W_0587;stimmt so;that's correct, keep the change;verb
-MA1W_0588;Tomaten-Mozzarella-Salat, der, -e;tomato mozzarella salad;noun
-MA1W_0589;Tomatensuppe, die, -n;tomato soup;noun
-MA1W_0590;Vielen Dank;Thank you very much.;interjection
-MA1W_0591;Wasser, das, -.;water;noun
-MA1W_0592;zahlen;to pay;verb
-MA1W_0593;Zitrone, die, -n;lemon;noun
-MA1W_0594;Zum Haifisch;name of a restaurant or pub;noun
-MA1W_0595;Alltag, der, -e;everyday life, daily routine;noun
-MA1W_0596;Büro, das, -s;office;noun
-MA1W_0597;Deutschkurs, der, -e;German course;noun
-MA1W_0598;Freizeit, die, -en;free time, leisure time;noun
-MA1W_0599;frühstücken;to have breakfast;verb
-MA1W_0600;hören;to hear, to listen;verb
-MA1W_0601;Künstler, der, -;artist (male);noun
-MA1W_0602;Kurs, der, -e;course;noun
-MA1W_0603;Lied, das, -er;song;noun
-MA1W_0604;Straßenkünstler, der, -;street artist, busker (male);noun
-MA1W_0605;Student, der, -en;student (male);noun
-MA1W_0606;studieren;to study (at university);verb
-MA1W_0607;Studium, das, Studien;studies, course of study;noun
-MA1W_0608;all-;all (prefix);pronoun prefix
-MA1W_0609;aufstehen;to get up, to stand up;verb
-MA1W_0610;Avatar, der, -s / -e;avatar;noun
-MA1W_0611;beginnen;to begin, to start;verb
-MA1W_0612;Berufsalltag, der, -e;everyday work, working routine;noun
-MA1W_0613;besuchen;to visit, to attend;verb
-MA1W_0614;doch [aber];but, however;conjunction
-MA1W_0615;Fremdsprache, die, -n;foreign language;noun
-MA1W_0616;gar nicht;not at all;adverb
-MA1W_0617;Haus, das, :-er;house;noun
-MA1W_0618;können;to be able to, can;verb
-MA1W_0619;manch-;some, many a (prefix);pronoun prefix
-MA1W_0620;Mensch, der, -en;human being, person;noun
-MA1W_0621;müssen;to have to, must;verb
-MA1W_0622;nach Hause;(to) home;adverb
-MA1W_0623;nach Hause kommen;to come home;verb
-MA1W_0624;ohne;without;preposition
-MA1W_0625;Pianistin, die, -nen;pianist (female);noun
-MA1W_0626;Produkt, das, -e;product;noun
-MA1W_0627;Psychologe, der, -n;psychologist (male);noun
-MA1W_0628;real;real;adjective
-MA1W_0629;shoppen;to shop;verb
-MA1W_0630;shoppen gehen;to go shopping;verb
-MA1W_0631;sicher (ohne Zweifel);sure, certain, safe;adjective adverb
-MA1W_0632;Spielfigur, die, -en;playing piece, game character;noun
-MA1W_0633;sprechen;to speak;verb
-MA1W_0634;tun;to do;verb
-MA1W_0635;verkaufen;to sell;verb
-MA1W_0636;Verkäufer, der, -;salesman, seller (male);noun
-MA1W_0637;Verkäuferin, die, -nen;saleswoman, seller (female);noun
-MA1W_0638;verlieren;to lose;verb
-MA1W_0639;verstehen (sich);to understand (each other);verb
-MA1W_0640;virtuell;virtual;adjective
-MA1W_0641;warten;to wait;verb
-MA1W_0642;Welt, die, -en;world;noun
-MA1W_0643;zweit-;second (prefix);adjective prefix
-MA1W_0644;Abendessen, das, -;dinner, supper;noun
-MA1W_0645;Frühstück machen;to make breakfast;verb
-MA1W_0646;wie lange;how long;adverb
-MA1W_0647;bringen;to bring, to take;verb
-MA1W_0648;erklären;to explain;verb
-MA1W_0649;Getränk, das, -e;drink, beverage;noun
-MA1W_0650;Grammatik, die, -en;grammar;noun
-MA1W_0651;Haar, das, -e;hair;noun
-MA1W_0652;Haare waschen;to wash one's hair;verb
-MA1W_0653;Lehrer, der, -;teacher (male);noun
-MA1W_0654;Lehrerin, die, -nen;teacher (female);noun
-MA1W_0655;Maschine, die, -n;machine;noun
-MA1W_0656;reparieren;to repair;verb
-MA1W_0657;Tablette, die, -n;tablet, pill;noun
-MA1W_0658;Tätigkeit, die, -en;activity, occupation;noun
-MA1W_0659;waschen (sich);to wash (oneself);verb
-MA1W_0660;Handstand, der, :-e;handstand;noun
-MA1W_0661;Mathematiklehrerin, die, -nen;mathematics teacher (female);noun
-MA1W_0662;niemand;nobody, no one;pronoun
-MA1W_0663;Popstar, der, -s;pop star;noun
-MA1W_0664;rechnen;to calculate, to count;verb
-MA1W_0665;schnell;fast, quick, quickly;adjective adverb
-MA1W_0666;singen;to sing;verb
-MA1W_0667;Turniertänzer, der, -;competitive dancer (male);noun
-MA1W_0668;zeichnen;to draw;verb
-MA1W_0669;ankommen;to arrive;verb
-MA1W_0670;anrufen;to call (on the phone);verb
-MA1W_0671;anziehen (sich);to put on clothes, to get dressed (oneself);verb
-MA1W_0672;Assistent, der, -en;assistant (male);noun
-MA1W_0673;aussehen (wie) [A] ausschauen (wie);to look (like);verb
-MA1W_0674;Bank, die, die, :-e;bank (both financial institution and bench);noun
-MA1W_0675;beim Training;during training;preposition
-MA1W_0676;durstig;thirsty;adjective
-MA1W_0677;Fan, der, -s;fan;noun
-MA1W_0678;Fußballplatz, der, :-e;football pitch, soccer field;noun
-MA1W_0679;Fußballspiel, das, -e;football match, soccer match;noun
-MA1W_0680;Fußballspieler, der, -;football player, soccer player (male);noun
-MA1W_0681;Fußballtrainer, der, -;football coach, soccer coach (male);noun
-MA1W_0682;Gefühl, das, -e;feeling, emotion;noun
-MA1W_0683;genug;enough, sufficient;adjective pronoun adverb
-MA1W_0684;hungrig;hungry;adjective
-MA1W_0685;Interview, das, -s;interview;noun
-MA1W_0686;Journalist, der, -en;journalist (male);noun
-MA1W_0687;Journalistin, die, -nen;journalist (female);noun
-MA1W_0688;lustig;funny, amusing;adjective
-MA1W_0689;mitmachen;to participate, to join in;verb
-MA1W_0690;mitspielen;to play along, to join in the game;verb
-MA1W_0691;müde;tired, weary;adjective
-MA1W_0692;nervös;nervous;adjective
-MA1W_0693;Spaß machen;to be fun;verb
-MA1W_0694;Spaß, der, :-e;fun;noun
-MA1W_0695;Spieler, der, -;player (male);noun
-MA1W_0696;Spieltag, der, -e;match day;noun
-MA1W_0697;Trainer, der, -;coach, trainer (male);noun
-MA1W_0698;Training, das, -s;training, practice;noun
-MA1W_0699;traurig;sad;adjective
-MA1W_0700;Trikot, das, -s;jersey, shirt;noun
-MA1W_0701;wieder;again;adverb
-MA1W_0702;Würstchenverkäuferin, die, -nen;sausage seller (female);noun
-MA1W_0703;wütend;furious, angry;adjective
-MA1W_0704;zufrieden;satisfied, content;adjective
-MA1W_0705;zusehen;to watch, to look on;verb
-MA1W_0706;aufmachen;to open;verb
-MA1W_0707;erst;first, only;adverb adjective
-MA1W_0708;Geburtstag, der, -e;birthday;noun
-MA1W_0709;gehen (Wohlbefinden);to go (well-being, how someone is doing);verb
-MA1W_0710;Konzert, das, -e;concert;noun
-MA1W_0711;Situation, die, -en;situation;noun
-MA1W_0712;Wie geht es?;How are you?;verb
-MA1W_0713;zu spät;too late;adjective
-MA1W_0714;alles;everything, all;pronoun
-MA1W_0715;einen Fototermin haben;to have a photo appointment;verb
-MA1W_0716;Fotograf, der, -en;photographer (male);noun
-MA1W_0717;Fototermin, der, -e;photo appointment, photo session;noun
-MA1W_0718;ganz;whole, entire, completely;adjective adverb
-MA1W_0719;ganz normal;completely normal;adjective
-MA1W_0720;Garten, der, :-;garden;noun
-MA1W_0721;Hausfrau, die, -en;housewife;noun
-MA1W_0722;Haushalt, der, -e;household;noun
-MA1W_0723;Hausmann, der, :-er;househusband;noun
-MA1W_0724;Hund, der, -e;dog;noun
-MA1W_0725;kennenlernen;to get to know, to meet;verb
-MA1W_0726;Krise, die, -n;crisis;noun
-MA1W_0727;mieten;to rent, to hire;verb
-MA1W_0728;Model, das, -s;model;noun
-MA1W_0729;normal;normal, usual;adjective
-MA1W_0730;normal leben;to live a normal life;verb
-MA1W_0731;reisen;to travel;verb
-MA1W_0732;Schule, die, -n;school;noun
-MA1W_0733;Schüler, der, -;pupil, student (male);noun
-MA1W_0734;sogar;even, actually;adverb
-MA1W_0735;Stadtwohnung, die, -en;city apartment, town apartment;noun
-MA1W_0736;suchen;to search, to look for;verb
-MA1W_0737;Termin, der, -e;appointment, date;noun
-MA1W_0738;Topmanager, der, -;top manager (male);noun
-MA1W_0739;Unterricht, der, (Sg.);lesson, class, instruction;noun
-MA1W_0740;verdienen;to earn, to deserve;verb
-MA1W_0741;vielleicht sogar;maybe even;adverb
-MA1W_0742;Wäsche, die, -n;laundry, washing;noun
-MA1W_0743;weitergehen;to go on, to continue;verb
-MA1W_0744;wieder einmal;once again;adverb
-MA1W_0745;wollen;to want;verb
-MA1W_0746;Zeit, die, -en;time;noun
-MA1W_0747;zu;to, too;preposition adverb
-MA1W_0748;zu alt;too old;adjective
-MA1W_0749;zu viel;too much;adjective adverb
-MA1W_0750;aufhören;to stop, to quit, to cease;verb
-MA1W_0751;Das geht nicht.;That's not possible. That doesn't work.;verb
-MA1W_0752;dürfen;to be allowed to, may;verb
-MA1W_0753;Fast Food, das, Sg.;fast food;noun
-MA1W_0754;Firma, die, Firmen;company, firm;noun
-MA1W_0755;fit;fit, in good shape;adjective
-MA1W_0756;grillen [CH] grillieren;to grill, to barbecue;verb
-MA1W_0757;in die Schule gehen;to go to school;verb
-MA1W_0758;Kinder haben;to have children;verb
-MA1W_0759;laut;loud, noisy;adjective adverb
-MA1W_0760;mit 30;at the age of 30;preposition
-MA1W_0761;mit der Schule aufhören;to quit school;verb
-MA1W_0762;mitbringen;to bring along;verb
-MA1W_0763;noch ein Jahr;another year;noun
-MA1W_0764;rauchen;to smoke;verb
-MA1W_0765;Reaktion, die, -en;reaction;noun
-MA1W_0766;Sportwagen, der, -;sports car;noun
-MA1W_0767;Stelle (Arbeitsplatz), die, -n;position, job;noun
-MA1W_0768;Telearbeit machen;to telecommute, to work from home;verb
-MA1W_0769;Telearbeit, die, en;telecommuting, telework;noun
-MA1W_0770;Text, der, -e;text;noun
-MA1W_0771;Urlaub nehmen;to take a vacation;verb
-MA1W_0772;einladen;to invite;verb
-MA1W_0773;aber noch viel mehr;but much more;conjunction adverb
-MA1W_0774;am Ziel sein;to have reached one's goal;verb
-MA1W_0775;Ampel, die, -n;traffic light;noun
-MA1W_0776;Apotheke, die, -n;pharmacy, chemist's shop;noun
-MA1W_0777;ausgehen [CH] in den Ausgang gehen;to go out;verb
-MA1W_0778;bald;soon;adverb
-MA1W_0779;beschreiben;to describe;verb
-MA1W_0780;blind;blind;adjective
-MA1W_0781;denn;because, for;conjunction
-MA1W_0782;Dieb;thief;noun
-MA1W_0783;einschalten;to turn on, to switch on;verb
-MA1W_0784;Experte, der, -n;expert (male);noun
-MA1W_0785;frei sein;to be free;verb
-MA1W_0786;Freiheit, die, -en;freedom;noun
-MA1W_0787;gehen;to go, to walk;verb
-MA1W_0788;gehen (etwas geht);to work, to function (something works);verb
-MA1W_0789;geradeaus;straight ahead;adverb
-MA1W_0790;Gerät, das, -e;device, appliance, gadget;noun
-MA1W_0791;GPS, das, Sg.;GPS;noun
-MA1W_0792;GPS-Gerät, das, -e;GPS device;noun
-MA1W_0793;GPS-Handy, das, -s;GPS mobile phone;noun
-MA1W_0794;GPS-Sender, der, -;GPS transmitter;noun
-MA1W_0795;grün;green;adjective
-MA1W_0796;hinter;behind;preposition
-MA1W_0797;holen;to fetch, to get;verb
-MA1W_0798;Kontrolle, die, -n;control, check;noun
-MA1W_0799;kontrollieren;to check, to control, to monitor;verb
-MA1W_0800;links;left, on the left;adverb
-MA1W_0801;losgehen;to start, to set off, to get going;verb
-MA1W_0802;mitnehmen;to take along, to take with;verb
-MA1W_0803;MP3-Player, der, -;MP3 player;noun
-MA1W_0804;nach links;to the left;adverb
-MA1W_0805;nach rechts;to the right;adverb
-MA1W_0806;Navigationsgerät / Navi, das, -e / -s;navigation device, satnav;noun
-MA1W_0807;neben;next to, beside;preposition
-MA1W_0808;Polizist, der, -en;police officer (male);noun
-MA1W_0809;Position, die, -en;position;noun
-MA1W_0810;Post, die;post office, mail;noun
-MA1W_0811;rechts;right, on the right;adverb
-MA1W_0812;rot;red;adjective
-MA1W_0813;Sender, der, -;transmitter, broadcaster, channel;noun
-MA1W_0814;stehen;to stand;verb
-MA1W_0815;Straße, die, -n;street, road;noun
-MA1W_0816;Straßenverkehr, der, Sg.;traffic;noun
-MA1W_0817;tragen;to carry, to wear;verb
-MA1W_0818;viel mehr;much more;adverb
-MA1W_0819;vor (lokal);in front of (local);preposition
-MA1W_0820;Warum?;Why?;adverb
-MA1W_0821;weg;away, gone;adverb
-MA1W_0822;Weg, der, -e;way, path;noun
-MA1W_0823;wissen;to know;verb
-MA1W_0824;zeigen;to show, to point;verb
-MA1W_0825;Ziel, das, -e;destination, goal, aim;noun
-MA1W_0826;zuerst;first;adverb
-MA1W_0827;zuhören;to listen to;verb
-MA1W_0828;zurück-;back (prefix);adverb prefix
-MA1W_0829;zurückbringen;to bring back, to return;verb
-MA1W_0830;zurückholen;to get back, to retrieve;verb
-MA1W_0831;Bahnhof, der, :-e;train station;noun
-MA1W_0832;Bank, die, -en;bank;noun
-MA1W_0833;Bar, die, -s;bar;noun
-MA1W_0834;Disco, die, -s;disco, club;noun
-MA1W_0835;Fabrik, die, -en;factory;noun
-MA1W_0836;Flughafen, der, :-;airport;noun
-MA1W_0837;Geschäft, das, -e;shop, store, business;noun
-MA1W_0838;Haltestelle, die, -n;stop, (bus) stop;noun
-MA1W_0839;Kino, das, -s;cinema, movie theater;noun
-MA1W_0840;Krankenhaus, das, :-er [A/CH] Spital, das, :-er;hospital;noun
-MA1W_0841;Laptop, der, -s;laptop;noun
-MA1W_0842;Park, der, -s;park;noun
-MA1W_0843;Parkplatz, der, :-e;car park, parking space;noun
-MA1W_0844;Schwimmbad, das, :-er;swimming pool;noun
-MA1W_0845;Sportplatz, der, :-e;sports ground, sports field;noun
-MA1W_0846;Blumengeschäft, das, -e;flower shop;noun
-MA1W_0847;Bushaltestelle, die, -n;bus stop;noun
-MA1W_0848;fremd;foreign, strange;adjective
-MA1W_0849;Plan, der, :-e;plan, map;noun
-MA1W_0850;Tennisplatz, der, :-e;tennis court;noun
-MA1W_0851;Badewanne , die, -n;bathtub;noun
-MA1W_0852;Badezimmer, das, -;bathroom;noun
-MA1W_0853;Bett, das, -en;bed;noun
-MA1W_0854;Dusche, die, -n;shower;noun
-MA1W_0855;Flur, der, -e [A] Gang, der, :-e [CH] Korridor, der, -e;hall, hallway, corridor;noun
-MA1W_0856;Herd, der, -e;stove, cooker;noun
-MA1W_0857;Küche, die, -n;kitchen;noun
-MA1W_0858;Regal, das, -e;shelf;noun
-MA1W_0859;Schlafzimmer, das, -;bedroom;noun
-MA1W_0860;Sessel, der, - [A/CH] Fauteuil, der/das, -s;armchair;noun
-MA1W_0861;Sofa, das, -s;sofa;noun
-MA1W_0862;Teppich, der, -e;carpet, rug;noun
-MA1W_0863;Toilette (Einrichtung), die, -n;toilet (facility);noun
-MA1W_0864;Waschbecken, das, -;washbasin, sink;noun
-MA1W_0865;Waschmaschine, die, -n;washing machine;noun
-MA1W_0866;Wohnzimmer, das, - [CH] Stube, die, -n;living room;noun
-MA1W_0867;Zimmer, das, -;room;noun
-MA1W_0868;an;on, at, to;preposition
-MA1W_0869;Boden, der, :-;floor, ground;noun
-MA1W_0870;Bücherregal, das ,-e;bookshelf;noun
-MA1W_0871;Ecke, die, -n;corner;noun
-MA1W_0872;hängen;to hang;verb
-MA1W_0873;liegen;to lie, to be situated;verb
-MA1W_0874;Tür, die ,-en;door;noun
-MA1W_0875;über;above, over, about;preposition
-MA1W_0876;unter;under, below, among;preposition
-MA1W_0877;Wand, die, :-e;wall;noun
-MA1W_0878;zwischen;between;preposition
-MA1W_0879;Autoschlüssel, der, -;car key;noun
-MA1W_0880;Brille, die, -n;glasses, spectacles;noun
-MA1W_0881;Pass, der, :-e;passport;noun
-MA1W_0882;Schlüssel, der, -;key;noun
-MA1W_0883;Bahnhofstraße, die, -n;Station Street;noun
-MA1W_0884;Brandenburger Tor, das, Sg.;Brandenburg Gate;noun
-MA1W_0885;deutschsprachig;German-speaking;adjective
-MA1W_0886;Dom, der, -e;cathedral;noun
-MA1W_0887;Donau, die, Sg.;Danube (river);noun
-MA1W_0888;Einwohner, der, -;inhabitant;noun
-MA1W_0889;Fluss, der, :-e;river;noun
-MA1W_0890;Insel, die, -n;island;noun
-MA1W_0891;Museumsinsel, die, -n;Museum Island;noun
-MA1W_0892;Rathaus, das, :-er;town hall, city hall;noun
-MA1W_0893;Schloss Schönbrunn, das, Sg.;Schönbrunn Palace;noun
-MA1W_0894;See, der, -n;lake;noun
-MA1W_0895;Sehenswürdigkeit, die, -en;sight, tourist attraction;noun
-MA1W_0896;Spree, die, Sg.;Spree (river);noun
-MA1W_0897;Stephansdom, der, Sg.;St. Stephen's Cathedral;noun
-MA1W_0898;Zürichsee, der, Sg.;Lake Zurich;noun
-MA1W_0899;Altstadt, die, :-e;old town, historic center;noun
-MA1W_0900;Balkon, der, -e;balcony;noun
-MA1W_0901;besonders;especially, particularly;adverb
-MA1W_0902;Brücke, die, -n;bridge;noun
-MA1W_0903;denken;to think;verb
-MA1W_0904;direkt;direct, directly;adjective adverb
-MA1W_0905;Fußballteam, das, -s;football team, soccer team;noun
-MA1W_0906;Großstadt, die, :-e;large city, metropolis;noun
-MA1W_0907;Gruß, der, :-e;greeting;noun
-MA1W_0908;Heidelberg;Heidelberg (city);noun
-MA1W_0909;Kaufhaus, das, :-er [CH] Warenhaus, das, :-er;department store;noun
-MA1W_0910;lieb-;dear, beloved (prefix);adjective prefix
-MA1W_0911;Liebe Grüße;kind regards, best wishes;noun
-MA1W_0912;liegt direkt am Neckar;is located directly on the Neckar (river);verb
-MA1W_0913;Möbel, das, -;furniture;noun
-MA1W_0914;Neckar, der, Sg.;Neckar (river);noun
-MA1W_0915;Shoppingtour, die, -en;shopping trip;noun
-MA1W_0916;Zentrum, das, Zentren;center, centre;noun
-MA1W_0917;Banktermin, der, -e;bank appointment;noun
-MA1W_0918;Bibliothek, die, -en;library;noun
-MA1W_0919;Einkauf, der, :-e;purchase, shopping;noun
-MA1W_0920;essen gehen;to go out to eat;verb
-MA1W_0921;fein;fine, great, delicious;adjective
-MA1W_0922;Liedtext, der, -e;song lyrics;noun
-MA1W_0923;nachts;at night;adverb
-MA1W_0924;Sänger, der, -;singer (male);noun
-MA1W_0925;so sehr;so much;adverb
-MA1W_0926;Theater, das, -;theater;noun
-MA1W_0927;U-Bahn, die, -en;underground, subway;noun
-MA1W_0928;ander-;other, different;pronoun adjective
-MA1W_0929;Fundbüro, das, -s;lost property office, lost and found;noun
-MA1W_0930;kaputt;broken, out of order;adjective
-MA1W_0931;Kursleiter, der, -;course instructor, tutor (male);noun
-MA1W_0932;Lektion, die, -en;lesson;noun
-MA1W_0933;Mechaniker, der, -;mechanic (male);noun
-MA1W_0934;überall;everywhere;adverb
-MA1W_0935;Doktor / Dr., der, -en;doctor;noun
-MA1W_0936;es tut mir leid;I am sorry;verb
-MA1W_0937;Fieber, das, -;fever;noun
-MA1W_0938;geehrt;সম্মানিত, esteemed;adjective
-MA1W_0939;Grad, der, -e;degree;noun
-MA1W_0940;Kollege, der, -n;colleague (male);noun
-MA1W_0941;Kollegin, die, -nen;colleague (female);noun
-MA1W_0942;krank;sick, ill;adjective
-MA1W_0943;Liebe Grüße an Walter;kind regards to Walter;noun
-MA1W_0944;mit freundlichen Grüßen;yours sincerely, kind/best regards;noun
-MA1W_0945;Schmerzen, der, -en;pain, ache;noun
-MA1W_0946;sehr geehrter Herr;dear Mr.;noun
-MA1W_0947;Terminprobleme, Pl.;appointment problems, scheduling problems;noun
-MA1W_0948;übernehmen;to take over, to take on;verb
-MA1W_0949;Zahn, der, :-e;tooth;noun
-MA1W_0950;Zahnarzt, der, :-e;dentist (male);noun
-MA1W_0951;Zahnarzttermin, der, -e;dentist appointment;noun
-MA1W_0952;Zahnschmerzen, Pl.;toothache;noun
-MA1W_0953;Achtung, die, Sg.;attention, caution;noun
-MA1W_0954;April, der;April;noun
-MA1W_0955;August, der;August;noun
-MA1W_0956;Dezember, der;December;noun
-MA1W_0957;Februar, der [A] Feber, der;February;noun
-MA1W_0958;Januar, der [A] Jänner, der;January;noun
-MA1W_0959;Juli, der;July;noun
-MA1W_0960;Juni, der;June;noun
-MA1W_0961;Kontrolltermin, der, -e;check-up appointment;noun
-MA1W_0962;Mai, der;May;noun
-MA1W_0963;März, der;March;noun
-MA1W_0964;Monat, der, -e;month;noun
-MA1W_0965;November;November;noun
-MA1W_0966;Oktober, der;October;noun
-MA1W_0967;Praxis, die, Praxen [A] Ordination, die, -en;doctor's practice, doctor's surgery;noun
-MA1W_0968;September, der;September;noun
-MA1W_0969;Zeit haben;to have time;verb
-MA1W_0970;früher;earlier;adverb adjective
-MA1W_0971;Gespräch, das, -e;conversation, talk;noun
-MA1W_0972;später;later;adverb adjective
-MA1W_0973;wiederholen;to repeat;verb
-MA1W_0974;besser;better;adjective adverb
-MA1W_0975;Besserung, die, -en;improvement, recovery;noun
-MA1W_0976;einig-;some, a few (prefix);pronoun prefix
-MA1W_0977;Gute Besserung;Get well soon;noun
-MA1W_0978;hoffentlich;hopefully;adverb
-MA1W_0979;natürlich;naturally, of course;adverb adjective
-MA1W_0980;unbedingt;absolutely, definitely;adverb adjective
-MA1W_0981;anmachen;to turn on, to switch on, to light;verb
-MA1W_0982;baden;to bathe, to take a bath;verb
-MA1W_0983;Bier, das ,-e;beer;noun
-MA1W_0984;Flasche, die, -n;bottle;noun
-MA1W_0985;gesund;healthy;adjective
-MA1W_0986;Gesundheit, die, Sg.;health;noun
-MA1W_0987;lachen;to laugh;verb
-MA1W_0988;schlafen;to sleep;verb
-MA1W_0989;Vorschlag, der, :-e;suggestion, proposal;noun
-MA1W_0990;Wein, der, -e;wine;noun
-MA1W_0991;Auge, das, -n;eye;noun
-MA1W_0992;Bauch, der, :-e;stomach, belly;noun
-MA1W_0993;Bein, das, -e;leg;noun
-MA1W_0994;Blumenmotiv, das, -e;flower design, floral design;noun
-MA1W_0995;Brust, die, :-e;chest, breast;noun
-MA1W_0996;Clown, der, -s;clown;noun
-MA1W_0997;Clowntattoo, das, -s;clown tattoo;noun
-MA1W_0998;das ganze Leben lang;for one's whole life;noun
-MA1W_0999;Deutsche / r, die / der, -n;German (person);noun
-MA1W_1000;entfernen;to remove;verb
-MA1W_1001;Europa;Europe;noun
-MA1W_1002;Finger, der, -;finger;noun
-MA1W_1003;Fuß, der, :-e;foot;noun
-MA1W_1004;Gesicht, das, -er;face;noun
-MA1W_1005;Hals, der, :-e;neck, throat;noun
-MA1W_1006;Hand, die, :-e;hand;noun
-MA1W_1007;helfen;to help;verb
-MA1W_1008;in (modern);in (fashionable, trendy);preposition
-MA1W_1009;jeder;each, every, everyone;pronoun adjective
-MA1W_1010;Kopf, der, :-e;head;noun
-MA1W_1011;Körper, der, -;body;noun
-MA1W_1012;Körperteil, der, -e;body part;noun
-MA1W_1013;Kunde, der, -n;customer, client (male);noun
-MA1W_1014;modern;modern, fashionable;adjective
-MA1W_1015;Motiv, das, -e;motif, design, pattern;noun
-MA1W_1016;Mund, der, :-er;mouth;noun
-MA1W_1017;Nase, die, -n;nose;noun
-MA1W_1018;Neunzigerjahre (90ger-Jahre), Pl.;the nineties (90s);noun
-MA1W_1019;Ohr, das, -en;ear;noun
-MA1W_1020;Rücken, der, -;back;noun
-MA1W_1021;Sein Leben lang;his whole life;pronoun noun
-MA1W_1022;seit;since, for;preposition conjunction
-MA1W_1023;Tattoo, das, -s;tattoo;noun
-MA1W_1024;Tattookunde, der, -n;tattoo customer (male);noun
-MA1W_1025;Teil, das, -e;part, section;noun
-MA1W_1026;Tier, das, -e;animal;noun
-MA1W_1027;Tiermotiv, das, -e;animal motif, animal design;noun
-MA1W_1028;verschieden;different, various;adjective
-MA1W_1029;wegmachen;to remove, to take away;verb
-MA1W_1030;weiß;white;adjective
-MA1W_1031;Zeh, der, -en;toe;noun
-MA1W_1032;Chef, der, -s;boss, chief (male);noun
-MA1W_1033;deshalb;therefore, that's why;adverb
-MA1W_1034;Frühjahr, das, -e;spring (season);noun
-MA1W_1035;Frühling, der, -e;spring (season);noun
-MA1W_1036;Herbst, der, -e;autumn, fall;noun
-MA1W_1037;kalt;cold;adjective
-MA1W_1038;Kleidung, die, -en;clothing, clothes;noun
-MA1W_1039;Sommer, der, -;summer;noun
-MA1W_1040;übrigens;by the way, incidentally;adverb
-MA1W_1041;Winter, der, -;winter;noun
-MA1W_1042;anonym;anonymous;adjective
-MA1W_1043;Arztbesuch, der, -e;doctor's visit;noun
-MA1W_1044;beide;both;pronoun adjective
-MA1W_1045;bunt;colorful, brightly colored;adjective
-MA1W_1046;Ex-Freund, der, -e;ex-boyfriend;noun
-MA1W_1047;Ex-Freundin, die, -nen;ex-girlfriend;noun
-MA1W_1048;Farbe, die, -n;color;noun
-MA1W_1049;Lasergerät, das, -e;laser device;noun
-MA1W_1050;lasern;to treat with laser, to lase;verb
-MA1W_1051;Lasern, das, Sg.;laser treatment;noun
-MA1W_1052;schmerzhaft;painful;adjective
-MA1W_1053;Tipp, der, -s;tip, hint;noun
-MA1W_1054;beige;beige;adjective
-MA1W_1055;blau;blue;adjective
-MA1W_1056;braun;brown;adjective
-MA1W_1057;Feld, das, -er;field;noun
-MA1W_1058;gelb;yellow;adjective
-MA1W_1059;grau;grey, gray;adjective
-MA1W_1060;lila;purple, lilac;adjective
-MA1W_1061;Logische Reihe, die, -n;logical sequence;noun
-MA1W_1062;orange;orange;adjective
-MA1W_1063;Reihe, die, -n;row, series, sequence;noun
-MA1W_1064;rosa;pink;adjective
-MA1W_1065;schwarz;black;adjective
-MA1W_1066;violett;violet;adjective
-MA1W_1067;Ausweis, der, -e;ID, identification card;noun
-MA1W_1068;Brieftasche, die, -n;wallet;noun
-MA1W_1069;Fahrradkurier, der, -e;bike messenger, cycle courier;noun
-MA1W_1070;Kreditkarte, die, -n;credit card;noun
-MA1W_1071;langsam;slow, slowly;adjective adverb
-MA1W_1072;o. k. / O. K.;OK;interjection
-MA1W_1073;denn [Partikel];then, in that case [particle];particle
-MA1W_1074;gestern;yesterday;adverb
-MA1W_1075;Tasche, die, -n;bag, pocket;noun
-MA1W_1076;Badesachen, Pl.;swimwear, bathing things;noun
-MA1W_1077;bitter;bitter;adjective
-MA1W_1078;Brief, der, -e;letter;noun
-MA1W_1079;Einladung, die, -en;invitation;noun
-MA1W_1080;Fahrkarte, die, -n [A] Fahrschein, der, -e [CH] Billett, das, -e;ticket (for travel);noun
-MA1W_1081;fertig;finished, ready;adjective
-MA1W_1082;Fest, das, -e;celebration, party, festival;noun
-MA1W_1083;Geburtstagsparty, die, -s;birthday party;noun
-MA1W_1084;Geschenk, das, -e;gift, present;noun
-MA1W_1085;Kaffeemaschine, die, -n;coffee machine;noun
-MA1W_1086;Kontrolleur, der, -e;inspector, ticket inspector (male);noun
-MA1W_1087;schlimm;bad, serious, severe;adjective
-MA1W_1088;Zucker, der, Sg.;sugar;noun
-MA1W_1089;Afrika;Africa;noun
-MA1W_1090;Amerika;America;noun
-MA1W_1091;Asien;Asia;noun
-MA1W_1092;Australien;Australia;noun
-MA1W_1093;beruflich;professional, work-related, professionally;adjective adverb
-MA1W_1094;Flug, der, :-e;flight;noun
-MA1W_1095;Kaufmann, der, :-er, Kauffrau, die, -en, Kaufleute, Pl.;businessman, businesswoman, salesclerk;noun
-MA1W_1096;Kutschenfahrt, die, -en;carriage ride;noun
-MA1W_1097;Lust, die (Sg.);desire, inclination;noun
-MA1W_1098;Nord-;north (prefix);noun prefix
-MA1W_1099;Nordamerika, das, Sg.;North America;noun
-MA1W_1100;Panoramazug, der, :-e;panoramic train;noun
-MA1W_1101;privat;private, personal;adjective
-MA1W_1102;Reise, die, -n;journey, trip, travel;noun
-MA1W_1103;Reiselust, die, :-e;desire to travel, wanderlust;noun
-MA1W_1104;Schiffsreise, die, -n;sea voyage, cruise;noun
-MA1W_1105;Süd-;south (prefix);noun prefix
-MA1W_1106;Südamerika, das, Sg.;South America;noun
-MA1W_1107;Verwandte, der / die, -n;relative (male / female);noun
-MA1W_1108;wohin;where to;adverb
-MA1W_1109;Zugfahrt, die, -en;train journey;noun
-MA1W_1110;abholen;to pick up, to collect;verb
-MA1W_1111;auspacken;to unpack;verb
-MA1W_1112;Autobahn, die, -en;motorway, highway, freeway;noun
-MA1W_1113;Bahnfahrt, die, -en;train journey;noun
-MA1W_1114;Bahnsteig, der, -e [CH] Perron, das, -s;platform (train);noun
-MA1W_1115;buchen;to book, to reserve;verb
-MA1W_1116;campen [CH] campieren;to camp;verb
-MA1W_1117;Campingplatz, der, :-e [A] Zeltplatz, der, :-e;campsite;noun
-MA1W_1118;Crowdfunding, das, Sg.;crowdfunding;noun
-MA1W_1119;drucken;to print;verb
-MA1W_1120;durch;through, by;preposition
-MA1W_1121;eigen-;own (prefix);adjective prefix
-MA1W_1122;einchecken;to check in;verb
-MA1W_1123;einpacken;to pack;verb
-MA1W_1124;einsteigen;to board, to get on;verb
-MA1W_1125;endlich;finally, at last;adverb
-MA1W_1126;Es geht los;Here we go, It's starting;verb
-MA1W_1127;Flugreise, die, -n;air journey, flight trip;noun
-MA1W_1128;Flugticket, das, -s;flight ticket;noun
-MA1W_1129;Flugzeug, das, -e;airplane;noun
-MA1W_1130;fühlen;to feel;verb
-MA1W_1131;Gate, das, -s;gate;noun
-MA1W_1132;Gepäck, das, Sg.;luggage, baggage;noun
-MA1W_1133;Gleis, das, -e;track, platform;noun
-MA1W_1134;günstig;reasonable, inexpensive, favorable;adjective
-MA1W_1135;Informatiker, der, -;computer scientist (male);noun
-MA1W_1136;Island, das, Sg.;Iceland;noun
-MA1W_1137;Islandfotos, Pl.;Iceland photos;noun
-MA1W_1138;Jugendherberge, die, -n;youth hostel;noun
-MA1W_1139;Koffer, der, -;suitcase;noun
-MA1W_1140;lieber;rather, preferably;adverb
-MA1W_1141;München;Munich;noun
-MA1W_1142;nächst-;next;adjective
-MA1W_1143;Projekt, das, -e;project;noun
-MA1W_1144;Reisen, das, Sg.;traveling, travel;noun
-MA1W_1145;S-Bahn, die, -en;suburban train, commuter train;noun
-MA1W_1146;Schlafsack, der, :-e;sleeping bag;noun
-MA1W_1147;Sicherheitskontrolle, die, -n;security check;noun
-MA1W_1148;spenden;to donate;verb
-MA1W_1149;Straßenbahn, die, -en [CH] Tram, das, -s;tram, streetcar;noun
-MA1W_1150;Stress pur;pure stress;noun
-MA1W_1151;Stress, der (Sg.);stress;noun
-MA1W_1152;stressig;stressful;adjective
-MA1W_1153;Ticket, das, -s;ticket;noun
-MA1W_1154;überhaupt;at all, generally;adverb
-MA1W_1155;überhaupt nicht;not at all;adverb
-MA1W_1156;übernachten;to stay overnight;verb
-MA1W_1157;von … zu …;from … to …;preposition
-MA1W_1158;vorstellen;to introduce, to imagine;verb
-MA1W_1159;weg von zu Hause;away from home;adverb
-MA1W_1160;wegbringen;to take away;verb
-MA1W_1161;Zelt, das, -e;tent;noun
-MA1W_1162;Zoll, der, :-e;customs, duty;noun
-MA1W_1163;zu (lokal);to (local), towards;preposition
-MA1W_1164;zu Fuß gehen;to go on foot, to walk;verb
-MA1W_1165;Zug, der, :-e;train;noun
-MA1W_1166;Zugticket, das, -s;train ticket;noun
-MA1W_1167;Badehose, die, -n;swimming trunks;noun
-MA1W_1168;bei;at, with, near, by;preposition
-MA1W_1169;Medikament, das, -e;medicine, medication;noun
-MA1W_1170;Meter, der, -;meter;noun
-MA1W_1171;Minute, die, -n;minute;noun
-MA1W_1172;Reisebüro, das, -s;travel agency;noun
-MA1W_1173;Reiseroute, die, -n;itinerary;noun
-MA1W_1174;sofort;immediately, at once;adverb
-MA1W_1175;Sportgeschäft, das, -e;sports shop;noun
-MA1W_1176;Viertelstunde, die, -n;quarter of an hour;noun
-MA1W_1177;weit (Entfernung);far (distance);adjective
-MA1W_1178;Wie lang …?;How long …?;adverb
-MA1W_1179;Wie weit ist es …?;How far is it …?;adverb
-MA1W_1180;zurückgeben;to give back, to return;verb
-MA1W_1181;Atlanta;Atlanta;noun
-MA1W_1182;fliegen;to fly;verb
-MA1W_1183;Inland, das, Sg.;inland, interior of a country;noun
-MA1W_1184;Norden, der, Sg.;north;noun
-MA1W_1185;Osten, der, Sg.;east;noun
-MA1W_1186;planen;to plan;verb
-MA1W_1187;Route, die, -n;route;noun
-MA1W_1188;Süden, der, Sg.;south;noun
-MA1W_1189;Westen, der, Sg.;west;noun
-MA1W_1190;zurück;back;adverb
-MA1W_1191;Anruf, der, -e;call, phone call;noun
-MA1W_1192;Anrufbeantworter, der, -;answering machine;noun
-MA1W_1193;Appartement, das, -s;apartment;noun
-MA1W_1194;Auf Wiederhören;goodbye (on the phone);verb noun
-MA1W_1195;Bad, das, :-er [CH] Badzimmer, das, -;bath, bathroom;noun
-MA1W_1196;bar;cash;adjective
-MA1W_1197;Doppelzimmer, das, -;double room;noun
-MA1W_1198;Einzel-;single, individual (prefix);adjective prefix
-MA1W_1199;Einzelzimmer, das, -;single room;noun
-MA1W_1200;Fehler, der, -;mistake, error;noun
-MA1W_1201;Firmentreffen, das, -;company meeting;noun
-MA1W_1202;Gast, der, :-e;guest;noun
-MA1W_1203;Halbpension, die, -en;half board;noun
-MA1W_1204;Karte, die, -n;card, map;noun
-MA1W_1205;Konto, das, Konten;account;noun
-MA1W_1206;Nachricht, die, -en;message, news;noun
-MA1W_1207;Rechnung, die, -en;bill, invoice;noun
-MA1W_1208;reservieren;to reserve, to book;verb
-MA1W_1209;reserviert;reserved, booked;adjective verb
-MA1W_1210;ruhig;quiet, calm;adjective
-MA1W_1211;schicken;to send;verb
-MA1W_1212;Stock, der (Sg.);floor, story (of a building);noun
-MA1W_1213;überweisen;to transfer (money);verb
-MA1W_1214;Vollpension, die, -en;full board;noun
-MA1W_1215;Was für …;What kind of …;pronoun
-MA1W_1216;Was für ein …;What kind of a …;pronoun
-MA1W_1217;Wiederhören, das, Sg.;hearing again;noun
-MA1W_1218;denn [Partikel];then [particle];particle
-MA1W_1219;organisieren;to organize;verb
-MA1W_1220;werden;to become, to get, will (future tense auxiliary);verb
-MA1W_1221;Wetter, das, Sg.;weather;noun
-MA1W_1222;abfahren;to depart, to leave;verb
-MA1W_1223;Abfahrt, die, -en;departure;noun
-MA1W_1224;abfliegen;to depart by plane, to take off;verb
-MA1W_1225;Abflug, der, :-e;departure (by plane), take-off;noun
-MA1W_1226;Angebot, das, -e;offer, special offer, deal;noun
-MA1W_1227;Ankunft, die, :-e;arrival;noun
-MA1W_1228;Bahn, die, -en;railway, train;noun
-MA1W_1229;Datum, das, Daten;date;noun
-MA1W_1230;Dauer, die, Sg.;duration;noun
-MA1W_1231;dauern;to last, to take (time);verb
-MA1W_1232;Fahrzeit, die, -en;travel time, journey time;noun
-MA1W_1233;Flugverbindung, die, -en;flight connection;noun
-MA1W_1234;Hauptbahnhof (Hbf), der, :-e;main train station;noun
-MA1W_1235;Hinfahrt, die, -en;outward journey;noun
-MA1W_1236;leicht;easy, light;adjective
-MA1W_1237;Regen, der, Sg.;rain;noun
-MA1W_1238;regnen;to rain;verb
-MA1W_1239;Rückfahrt, die, -en;return journey;noun
-MA1W_1240;Schalter, der, -;counter, desk, switch;noun
-MA1W_1241;scheinen;to shine, to seem, to appear;verb
-MA1W_1242;Sparangebot, das, -e;special offer, reduced offer;noun
-MA1W_1243;stark;strong, heavy;adjective
-MA1W_1244;Verbindung, die, -en;connection;noun
-MA1W_1245;warm;warm;adjective
-MA1W_1246;Wind, der, -e;wind;noun
-MA1W_1247;windig;windy;adjective
-MA1W_1248;Zugverbindung, die, -en;train connection;noun
-MA1W_1249;Aktivität, die, -en;activity;noun
-MA1W_1250;Ausgang, der, :-e;exit;noun
-MA1W_1251;Autostraße, die, -n;highway, main road;noun
-MA1W_1252;besichtigen;to visit, to view, to look at;verb
-MA1W_1253;Cinderella Castle, das, Sg.;Cinderella Castle;noun
-MA1W_1254;Codex Abrogans, der, Sg.;Codex Abrogans;noun
-MA1W_1255;Disney Land, das, Sg.;Disney Land;noun
-MA1W_1256;draußen;outside, outdoors;adverb
-MA1W_1257;Ehefrau, die, -en;wife;noun
-MA1W_1258;Ehemann, der, :-er;husband;noun
-MA1W_1259;Eiffelturm, der, Sg.;Eiffel Tower;noun
-MA1W_1260;eigentlich;actually, really, in fact;adverb adjective
-MA1W_1261;eineinhalb;one and a half;numeral
-MA1W_1262;Eingang, der, :-e;entrance;noun
-MA1W_1263;Führung, die, -en;guided tour, tour;noun
-MA1W_1264;genug von;enough of;pronoun adjective
-MA1W_1265;Großglockner, der, Sg.;Grossglockner (mountain);noun
-MA1W_1266;Großglockner-Hochalpenstraße, die, Sg.;Grossglockner High Alpine Road;noun
-MA1W_1267;hoch;high, tall;adjective
-MA1W_1268;Japan;Japan;noun
-MA1W_1269;kaputt [sehr müde];exhausted, beat [very tired];adjective
-MA1W_1270;Kasse, die, -n [A] Kassa, die, Kassen;cash desk, checkout, till;noun
-MA1W_1271;Kölner Dom, der, Sg.;Cologne Cathedral;noun
-MA1W_1272;Leute, Pl.;people;noun
-MA1W_1273;Mal, das, -e;time, occasion;noun
-MA1W_1274;mitkommen;to come along;verb
-MA1W_1275;oben;above, up there, upstairs;adverb
-MA1W_1276;Ort, der, -e;place, town, location;noun
-MA1W_1277;Ostschweiz, die, Sg.;Eastern Switzerland;noun
-MA1W_1278;plötzlich;suddenly, all of a sudden;adverb
-MA1W_1279;Rad fahren [CH] Velo fahren;to ride a bike;verb
-MA1W_1280;Schloss Neuschwanstein, das, Sg.;Neuschwanstein Castle;noun
-MA1W_1281;Schloss, das, :-er;castle, palace;noun
-MA1W_1282;Sphinx, die, Sg.;Sphinx;noun
-MA1W_1283;St. Gallen;St. Gallen (city);noun
-MA1W_1284;Stiftsbibliothek, die, -en;Abbey Library;noun
-MA1W_1285;Taj Mahal, das, Sg.;Taj Mahal;noun
-MA1W_1286;Vorbild, das, -er;role model, example;noun
-MA1W_1287;Walt Disney;Walt Disney;noun
-MA1W_1288;zum ersten Mal;for the first time;adverb
-MA1W_1289;bekannt;well-known, famous;adjective
-MA1W_1290;Museumskasse, die, -n;museum ticket office;noun
-MA1W_1291;Schnecke, die, -n;snail;noun
-MA1W_1292;Absender, der, -;sender;noun
-MA1W_1293;Adresse, die, -n;address;noun
-MA1W_1294;Ansichtskarte, die, -n;picture postcard;noun
-MA1W_1295;Blick, der, -e;view, look;noun
-MA1W_1296;Empfänger, der, -;recipient, addressee;noun
-MA1W_1297;Fahrt, die, -en;journey, ride, drive;noun
-MA1W_1298;Heimat, die, -en;home, homeland;noun
-MA1W_1299;Heimatland, das, :-er;home country, native country;noun
-MA1W_1300;Meerblick, der, -e;sea view;noun
-MA1W_1301;Postleitzahl, die, -en;postcode, postal code, zip code;noun
-MA1W_1302;sauber;clean;adjective
-MA1W_1303;schmutzig;dirty;adjective
-MA1W_1304;erzählen;to tell, to narrate;verb
-MA1W_1305;Krimi, der, -s;detective story, crime novel, thriller;noun
-MA1W_1306;Kunst, die, :-e;art;noun
-MA1W_1307;Mode, die, -n;fashion;noun
-MA1W_1308;Politik, die, -en;politics;noun
-MA1W_1309;Psychologie, die, -n;psychology;noun
-MA1W_1310;also;so, therefore, thus;adverb conjunction
-MA1W_1311;anders;different, differently;adjective adverb
-MA1W_1312;arbeitslos;unemployed, jobless;adjective
-MA1W_1313;Arbeitsplatz, der, :-e;workplace, job;noun
-MA1W_1314;bis;until, till, to, up to;preposition conjunction
-MA1W_1315;Diskussion, die, -en;discussion;noun
-MA1W_1316;ein paar;a few, a couple of;pronoun
-MA1W_1317;erlauben;to allow, to permit;verb
-MA1W_1318;fernsehen;to watch TV;verb
-MA1W_1319;Forum, das, Foren;forum;noun
-MA1W_1320;Information, die, -en;information;noun
-MA1W_1321;Internetforum, das, -foren;internet forum;noun
-MA1W_1322;Meinung, die, -en;opinion;noun
-MA1W_1323;Pause, die, -n;break, pause;noun
-MA1W_1324;persönlich;personal, personally;adjective adverb
-MA1W_1325;recht haben;to be right;verb
-MA1W_1326;Regel, die, -n;rule;noun
-MA1W_1327;verboten (sein);forbidden, prohibited (to be);adjective verb
-MA1W_1328;Zeitung, die, -en;newspaper;noun
-MA1W_1329;Zeitunglesen, das, Sg.;newspaper reading;noun
-MA1W_1330;bei Rot;at a red light;preposition
-MA1W_1331;erlaubt;allowed, permitted;adjective verb
-MA1W_1332;Erwachsene, der / die, -n;adult;noun
-MA1W_1333;Glück haben;to be lucky;verb
-MA1W_1334;Glück, das, -e;luck, good fortune;noun
-MA1W_1335;Kreuzung, die, -en;intersection, crossroads;noun
-MA1W_1336;Mitternacht, die, :-e;midnight;noun
-MA1W_1337;schon einmal;once before;adverb
-MA1W_1338;Verbot, das, -e;prohibition, ban;noun
-MA1W_1339;Vermieter, der, -;landlord, lessor (male);noun
-MA1W_1340;jed-;each, every (prefix);pronoun prefix
-MA1W_1341;letzt-;last, final (prefix);adjective prefix
-MA1W_1342;Prozent, das, -e;percent;noun
-MA1W_1343;Fasching [CH] Fasnacht, die (Sg.);carnival;noun
-MA1W_1344;Feier-;celebration (prefix);noun prefix
-MA1W_1345;Geburtstagsgeschenk, das, -e;birthday present;noun
-MA1W_1346;gefallen;to please, to be liked;verb
-MA1W_1347;gehören;to belong to;verb
-MA1W_1348;Hut, der, :-e;hat;noun
-MA1W_1349;Karneval, der, Sg.;carnival;noun
-MA1W_1350;Karnevalskostüm, das, -e;carnival costume;noun
-MA1W_1351;Kleider, Pl.;clothes, dresses;noun
-MA1W_1352;Lederhose, die, -n;lederhosen (leather trousers);noun
-MA1W_1353;Neujahr, das, -e;New Year;noun
-MA1W_1354;Ostern, das, -;Easter;noun
-MA1W_1355;Silvester, das / der, -;New Year's Eve;noun
-MA1W_1356;Sonderangebot, das, -e;special offer, sale item;noun
-MA1W_1357;Weihnachten, das, -;Christmas;noun
-MA1W_1358;Absatzschuhe, Pl.;high heels, high-heeled shoes;noun
-MA1W_1359;Hemd, das, -en;shirt;noun
-MA1W_1360;Jacke, die, -n;jacket;noun
-MA1W_1361;Jeans, die, -;jeans;noun
-MA1W_1362;Kleid, das, -er;dress;noun
-MA1W_1363;kurz;short;adjective
-MA1W_1364;Mantel, der, :-;coat;noun
-MA1W_1365;Partykleid, das, -er;party dress;noun
-MA1W_1366;Pullover, der, -;sweater, pullover;noun
-MA1W_1367;Schuh, der, -e;shoe;noun
-MA1W_1368;Sommerhose, die, -n;summer trousers, summer pants;noun
-MA1W_1369;Sportschuhe, Pl.;sports shoes, trainers;noun
-MA1W_1370;T-Shirt, das, -s;T-shirt;noun
-MA1W_1371;Ende, das, -n;end;noun
-MA1W_1372;Hobby, das, -s;hobby;noun
-MA1W_1373;Kurzporträt, das, -s;short portrait, profile;noun
-MA1W_1374;Liebesfilm, der, -e;romance film, romantic movie;noun
-MA1W_1375;Pop, der, Sg.;pop music;noun
-MA1W_1376;Urlaubsland, das, :-er;holiday country, vacation country;noun
-MA1W_1377;Urlaubsort, der, -e;holiday resort, vacation resort;noun
-MA1W_1378;welch-;which (prefix);pronoun prefix
-MA1W_1379;Fernsehgerät;television set;noun
-MA1W_1380;Fotoapparat, der, -e;camera;noun
-MA1W_1381;laufen;to run, to walk;verb
-MA1W_1382;Rätsel, das, -;puzzle, riddle;noun
-MA1W_1383;Rucksack, der, :-e;backpack, rucksack;noun
-MA1W_1384;schenken;to give (as a gift);verb
-MA1W_1385;sitzen;to sit;verb
-MA1W_1386;bisschen;a little, a bit;adverb pronoun
-MA1W_1387;danken;to thank;verb
-MA1W_1388;freundlich;friendly, kind;adjective
-MA1W_1389;gemeinsam;together, mutual;adverb adjective
-MA1W_1390;jemand;someone, somebody;pronoun
-MA1W_1391;Kaffeeschokolade, die, -n;coffee-flavored chocolate;noun
-MA1W_1392;Lieblingssorte, die, -n;favorite sort, favorite kind;noun
-MA1W_1393;öffnen;to open;verb
-MA1W_1394;sollen;should, ought to;verb
-MA1W_1395;wach;awake;adjective
-MA1W_1396;Wandersage, die, -n;urban legend, popular myth;noun
-MA1W_1397;wegnehmen;to take away;verb
-MA1W_1398;weiter;further, more, continue;adverb adjective
-MA1W_1399;weitererzählen;to tell others, to pass on (a story);verb
-MA1W_1400;Hilfe, die, -n;help, assistance;noun
-MA1W_1401;im Bett bleiben;to stay in bed;verb
-MA1W_1402;Baum, der, :-e;tree;noun
-MA1W_1403;den Wagen auf der Straße halten;to keep the car on the road;verb
-MA1W_1404;dies-;this (prefix);pronoun prefix
-MA1W_1405;gegen;against, towards;preposition
-MA1W_1406;halten (sich);to hold (oneself), to stop, to keep;verb
-MA1W_1407;lang;long;adjective
-MA1W_1408;mysteriös;mysterious;adjective
-MA1W_1409;speichern;to save, to store;verb
-MA1W_1410;Wagen, der, -;car, vehicle;noun
-MA1W_1411;wahr;true, real;adjective
-MA1W_1412;Winterurlaub, der, -e;winter holiday, winter vacation;noun
-MA1W_1413;Zeitangabe, die, -n;time specification, indication of time;noun
-MA1W_1414;ab;from, starting from;preposition adverb
-MA1W_1415;Kamera, die, -s;camera;noun
-MA1W_1416;Papierstreifen, der, -;paper strip;noun
+MA1W_0001;willkommen;welcome;verb lesson_1
+MA1W_0002;Buchstabe;letter (of the alphabet);noun lesson_1
+MA1W_0003;buchstabieren;to spell;verb lesson_1
+MA1W_0004;Wiedersehen;goodbye;noun lesson_1
+MA1W_0005;auf Deutsch;in German;adverb lesson_1
+MA1W_0006;Automat, der, -en;vending machine, ATM;noun lesson_1
+MA1W_0007;Baby, das, -s [CH] Bébé, das, -s;baby;noun lesson_1
+MA1W_0008;Banane, die, -n;banana;noun lesson_1
+MA1W_0009;Computer, der, -;computer;noun lesson_1
+MA1W_0010;deutsch;German;adjective lesson_1
+MA1W_0011;Film, der, -e;film, movie;noun lesson_1
+MA1W_0012;Foto, das, -s;photo;noun lesson_1
+MA1W_0013;Geldautomat, der, -en Bankomat, der, -en;ATM;noun lesson_1
+MA1W_0014;Gitarre, die, -n;guitar;noun lesson_1
+MA1W_0015;hallo [A] Servus / Grüß dich. [CH] Hoi. / Sali. / Salü.;hello;interjection lesson_1
+MA1W_0016;Hotel, das, -s;hotel;noun lesson_1
+MA1W_0017;ich;I;pronoun lesson_1
+MA1W_0018;international;international;adjective lesson_1
+MA1W_0019;Internet, das, Sg.;internet;noun lesson_1
+MA1W_0020;Kaffee, der, -s;coffee;noun lesson_1
+MA1W_0021;Museum, das, Museen;museum;noun lesson_1
+MA1W_0022;Post, die;post office, mail;noun lesson_1
+MA1W_0023;Radio, das, -s [CH] Radio, der, -s;radio;noun lesson_1
+MA1W_0024;SMS, die, - [A/CH] SMS das, -;text message;noun lesson_1
+MA1W_0025;super;great, super;adjective lesson_1
+MA1W_0026;Taxi, das / der, -s;taxi;noun lesson_1
+MA1W_0027;Telefon, das, -e;telephone;noun lesson_1
+MA1W_0028;und;and;conjunction lesson_1
+MA1W_0029;Universität, die, -en;university;noun lesson_1
+MA1W_0030;Wort, das, :-er / -e;word;noun lesson_1
+MA1W_0031;Ach ja;Oh yes, Oh well;interjection lesson_1
+MA1W_0032;Beispiel, das, -e;example;noun lesson_1
+MA1W_0033;Comic, der / das, -s;comic;noun lesson_1
+MA1W_0034;du;you (informal, singular);pronoun lesson_1
+MA1W_0035;Entschuldigung, die, -en;excuse, apology;noun lesson_1
+MA1W_0036;Familienname, der, -n;surname, family name;noun lesson_1
+MA1W_0037;formell;formal;adjective lesson_1
+MA1W_0038;Frau, die, -en;woman, Mrs., Ms.;noun lesson_1
+MA1W_0039;heißen;to be called;verb lesson_1
+MA1W_0040;Herr, der, -en;gentleman, Mr.;noun lesson_1
+MA1W_0041;hier;here;adverb lesson_1
+MA1W_0042;informell;informal;adjective lesson_1
+MA1W_0043;lesen;to read;verb lesson_1
+MA1W_0044;Name, der, -n;name;noun lesson_1
+MA1W_0045;Person, die, -en;person;noun lesson_1
+MA1W_0046;Sie;"you (formal, singular and plural); she; they";pronoun lesson_1
+MA1W_0047;Teil, der, -e;part;noun lesson_1
+MA1W_0048;Vorname, der, -n;first name;noun lesson_1
+MA1W_0049;wie;how, like, as;adverb conjunction lesson_1
+MA1W_0050;bitte;"please; you're welcome; pardon";adverb interjection lesson_1
+MA1W_0051;nein;no;particle lesson_1
+MA1W_0052;neu;new;adjective lesson_1
+MA1W_0053;Telefonnummer, die, -n;telephone number;noun lesson_1
+MA1W_0054;von;from, of, by;preposition lesson_1
+MA1W_0055;wichtig;important;adjective lesson_1
+MA1W_0056;acht;eight;numeral lesson_1
+MA1W_0057;dann;then, after that;adverb lesson_1
+MA1W_0058;drei;three;numeral lesson_1
+MA1W_0059;eins;one;numeral lesson_1
+MA1W_0060;falsch;wrong, false;adjective lesson_1
+MA1W_0061;fünf;five;numeral lesson_1
+MA1W_0062;Handy, das, -s [CH] Natel, das, -s;mobile phone;noun lesson_1
+MA1W_0063;neun;nine;numeral lesson_1
+MA1W_0064;richtig;right, correct;adjective lesson_1
+MA1W_0065;sechs;six;numeral lesson_1
+MA1W_0066;sieben;seven;numeral lesson_1
+MA1W_0067;vier;four;numeral lesson_1
+MA1W_0068;zwei;two;numeral lesson_1
+MA1W_0069;Ägypten;Egypt;noun lesson_1
+MA1W_0070;auch;also, too;adverb lesson_1
+MA1W_0071;aus;from, out of;preposition lesson_1
+MA1W_0072;aus Deutschland;from Germany;preposition lesson_1
+MA1W_0073;aus Korea;from Korea;preposition lesson_1
+MA1W_0074;Brasilien, das, Sg.;Brazil;noun lesson_1
+MA1W_0075;Café, das, -s;café;noun lesson_1
+MA1W_0076;China, das, Sg.;China;noun lesson_1
+MA1W_0077;Deutschland, das, Sg.;Germany;noun lesson_1
+MA1W_0078;Frankfurt;Frankfurt;noun lesson_1
+MA1W_0079;ihr;"you (informal, plural); her";pronoun lesson_1
+MA1W_0080;im Café;in the café;preposition lesson_1
+MA1W_0081;in;in, into;preposition lesson_1
+MA1W_0082;in Frankfurt;in Frankfurt;preposition lesson_1
+MA1W_0083;in Korea;in Korea;preposition lesson_1
+MA1W_0084;Komm auch!;Come too!;verb lesson_1
+MA1W_0085;kommen;to come;verb lesson_1
+MA1W_0086;Korea;Korea;noun lesson_1
+MA1W_0087;Namensschild, das, -er;name tag;noun lesson_1
+MA1W_0088;neun Uhr;nine o'clock;noun lesson_1
+MA1W_0089;nicht;not;particle lesson_1
+MA1W_0090;sie;she, they;pronoun lesson_1
+MA1W_0091;Tut mir leid.;I'm sorry.;verb lesson_1
+MA1W_0092;Uhr, die, -en;clock, watch, hour, o'clock;noun lesson_1
+MA1W_0093;um neun Uhr;at nine o'clock;preposition lesson_1
+MA1W_0094;vergleichen;to compare;verb lesson_1
+MA1W_0095;wir;we;pronoun lesson_1
+MA1W_0096;woher;where from;adverb lesson_1
+MA1W_0097;Abend, der, -e;evening;noun lesson_1
+MA1W_0098;Bangkok;Bangkok;noun lesson_1
+MA1W_0099;Berlin;Berlin;noun lesson_1
+MA1W_0100;elf;eleven;numeral lesson_1
+MA1W_0101;es;it;pronoun lesson_1
+MA1W_0102;Frage, die, -n;question;noun lesson_1
+MA1W_0103;Honolulu;Honolulu;noun lesson_1
+MA1W_0104;Kapstadt;Cape Town;noun lesson_1
+MA1W_0105;Lima;Lima;noun lesson_1
+MA1W_0106;Mexico City;Mexico City;noun lesson_1
+MA1W_0107;Mittag, der, -e;noon, midday;noun lesson_1
+MA1W_0108;Morgen, der, -;morning;noun lesson_1
+MA1W_0109;Nachmittag, der, -e;afternoon;noun lesson_1
+MA1W_0110;Nacht, die, :-e;night;noun lesson_1
+MA1W_0111;New York;New York;noun lesson_1
+MA1W_0112;San Francisco;San Francisco;noun lesson_1
+MA1W_0113;spät;late;adjective lesson_1
+MA1W_0114;Tokio;Tokyo;noun lesson_1
+MA1W_0115;Vormittag, der, -e;late morning;noun lesson_1
+MA1W_0116;zehn;ten;numeral lesson_1
+MA1W_0117;zwölf;twelve;numeral lesson_1
+MA1W_0118;am;on, at;preposition lesson_1
+MA1W_0119;Bild, das, -er;picture, image;noun lesson_1
+MA1W_0120;Dienstag, der, -e;Tuesday;noun lesson_1
+MA1W_0121;frei;free;adjective lesson_1
+MA1W_0122;frei haben;to have free time, to have time off;verb lesson_1
+MA1W_0123;glauben;to believe, to think;verb lesson_1
+MA1W_0124;haben;to have;verb lesson_1
+MA1W_0125;in der Nacht;in the night, at night;preposition lesson_1
+MA1W_0126;Montag, der, -e;Monday;noun lesson_1
+MA1W_0127;morgen;tomorrow;adverb lesson_1
+MA1W_0128;noch einmal;once again;adverb lesson_1
+MA1W_0129;Tabelle, die, -n;table, chart;noun lesson_1
+MA1W_0130;wann;when;adverb lesson_1
+MA1W_0131;wer;who;pronoun lesson_1
+MA1W_0132;wo;where;adverb lesson_1
+MA1W_0133;aber;but;conjunction lesson_1
+MA1W_0134;da;there, here;adverb lesson_1
+MA1W_0135;da sein;to be there, to be present;verb lesson_1
+MA1W_0136;dort;there;adverb lesson_1
+MA1W_0137;oder;or;conjunction lesson_1
+MA1W_0138;sein;"to be; his";verb pronoun lesson_1
+MA1W_0139;antworten;to answer;verb lesson_1
+MA1W_0140;Donnerstag, der, -e;Thursday;noun lesson_1
+MA1W_0141;fragen;to ask;verb lesson_1
+MA1W_0142;Freitag, der, -e;Friday;noun lesson_1
+MA1W_0143;heute;today;adverb lesson_1
+MA1W_0144;Mittwoch, der, -e;Wednesday;noun lesson_1
+MA1W_0145;Samstag, der, -e;Saturday;noun lesson_1
+MA1W_0146;Sonntag, der, -e;Sunday;noun lesson_1
+MA1W_0147;was;what;pronoun lesson_1
+MA1W_0148;Wochentag, der, -e;weekday;noun lesson_1
+MA1W_0149;ja;yes;particle lesson_1
+MA1W_0150;Bleistift, der, -e;pencil;noun lesson_1
+MA1W_0151;Buch, das, :-er;book;noun lesson_1
+MA1W_0152;CD, die, -s;CD;noun lesson_1
+MA1W_0153;das;the, that;article pronoun lesson_1
+MA1W_0154;der;the;article pronoun lesson_1
+MA1W_0155;die;the;article pronoun lesson_1
+MA1W_0156;Fenster, das, -;window;noun lesson_1
+MA1W_0157;Heft, das, -e;notebook, exercise book;noun lesson_1
+MA1W_0158;Kugelschreiber, der, -;pen;noun lesson_1
+MA1W_0159;Lampe, die, -n;lamp;noun lesson_1
+MA1W_0160;man;one, you (indefinite pronoun);pronoun lesson_1
+MA1W_0161;Nummer, die, -n;number;noun lesson_1
+MA1W_0162;Papier, das, -e;paper;noun lesson_1
+MA1W_0163;Radiergummi, der, -s;eraser;noun lesson_1
+MA1W_0164;Stuhl, der, :-e [A] Sessel, der, -;chair;noun lesson_1
+MA1W_0165;Tisch, der, -e;table;noun lesson_1
+MA1W_0166;denn;because, for, then, so;conjunction particle lesson_1
+MA1W_0167;ein-;a, one (prefix for separable verbs);article prefix lesson_1
+MA1W_0168;schreiben;to write;verb lesson_1
+MA1W_0169;Auto, das, -s;car;noun lesson_1
+MA1W_0170;Bus, der, -se;bus;noun lesson_1
+MA1W_0171;doch [ja – nein – doch];yes – no – on the contrary, but;particle lesson_1
+MA1W_0172;Hamburger, der, -;hamburger;noun lesson_1
+MA1W_0173;kein-;no, not a, not any;article lesson_1
+MA1W_0174;kennen;to know (a person or place);verb lesson_1
+MA1W_0175;Pizza, die, -s / Pizzen;pizza;noun lesson_1
+MA1W_0176;Polizei, die, -en;police;noun lesson_1
+MA1W_0177;Satz, der, :-e;sentence;noun lesson_1
+MA1W_0178;WC, das, -s;toilet, WC;noun lesson_1
+MA1W_0179;Ausland, das, Sg.;foreign countries, abroad;noun lesson_2
+MA1W_0180;Bekannte, der / die, -n;acquaintance;noun lesson_2
+MA1W_0181;E-Mail schreiben;to write an e-mail;verb lesson_2
+MA1W_0182;E-Mail, die, -s [A/CH] E-Mail, das, -s;e-mail;noun lesson_2
+MA1W_0183;gut;good;adjective lesson_2
+MA1W_0184;Japan, das, Sg.;Japan;noun lesson_2
+MA1W_0185;jetzt;now;adverb lesson_2
+MA1W_0186;Luxemburg;Luxembourg;noun lesson_2
+MA1W_0187;nicht gut;not good;adjective lesson_2
+MA1W_0188;oft;often;adverb lesson_2
+MA1W_0189;Rio de Janeiro;Rio de Janeiro;noun lesson_2
+MA1W_0190;sehr;very;adverb lesson_2
+MA1W_0191;sehr gut;very good;adjective lesson_2
+MA1W_0192;skypen;to skype;verb lesson_2
+MA1W_0193;SMS schreiben;to write a text message;verb lesson_2
+MA1W_0194;Tag, der, -e;day;noun lesson_2
+MA1W_0195;telefonieren;to telephone, to make a phone call;verb lesson_2
+MA1W_0196;Wie gut …;How well …;adverb lesson_2
+MA1W_0197;Antwort, die, -en;answer;noun lesson_2
+MA1W_0198;Familie, die, -n;family;noun lesson_2
+MA1W_0199;Fernsehquiz, das, -;TV quiz;noun lesson_2
+MA1W_0200;finden;to find;verb lesson_2
+MA1W_0201;für;for;preposition lesson_2
+MA1W_0202;ganze Familie;whole family;noun lesson_2
+MA1W_0203;gern;gladly, like to;adverb lesson_2
+MA1W_0204;klassisch;classical;adjective lesson_2
+MA1W_0205;klassische Musik;classical music;noun lesson_2
+MA1W_0206;Lieblings-;favorite (prefix);adjective prefix lesson_2
+MA1W_0207;Lieblingsschauspieler, der, -;favorite actor;noun lesson_2
+MA1W_0208;Lieblingstag, der, -e;favorite day;noun lesson_2
+MA1W_0209;Musik, die, -en;music;noun lesson_2
+MA1W_0210;Punkt, der, -e;point, dot, full stop;noun lesson_2
+MA1W_0211;Quiz, das, -;quiz;noun lesson_2
+MA1W_0212;Schauspieler, der, -;actor;noun lesson_2
+MA1W_0213;schön;beautiful, lovely, nice;adjective lesson_2
+MA1W_0214;Schönen guten Abend;Good evening;noun lesson_2
+MA1W_0215;spielen;to play;verb lesson_2
+MA1W_0216;surfen;to surf;verb lesson_2
+MA1W_0217;Tennis (spielen);(to play) tennis;noun verb lesson_2
+MA1W_0218;wandern;to hike;verb lesson_2
+MA1W_0219;arbeiten;to work;verb lesson_2
+MA1W_0220;Hausarbeit machen;to do housework;verb lesson_2
+MA1W_0221;Hausarbeit, die, -en;housework;noun lesson_2
+MA1W_0222;im Internet surfen;to surf the internet;verb lesson_2
+MA1W_0223;kochen;to cook;verb lesson_2
+MA1W_0224;lernen;to learn, to study;verb lesson_2
+MA1W_0225;machen;to do, to make;verb lesson_2
+MA1W_0226;schwimmen;to swim;verb lesson_2
+MA1W_0227;Sprache, die, -n;language;noun lesson_2
+MA1W_0228;Sprachen lernen;to learn languages;verb lesson_2
+MA1W_0229;tanzen;to dance;verb lesson_2
+MA1W_0230;Fernsehen, das, Sg.;television;noun lesson_2
+MA1W_0231;Horrorfilm, der, -e;horror film;noun lesson_2
+MA1W_0232;interessant;interesting;adjective lesson_2
+MA1W_0233;Jazz, der, Sg.;jazz;noun lesson_2
+MA1W_0234;langweilig;boring;adjective lesson_2
+MA1W_0235;Mathematik (Mathe), die, Sg.;mathematics (math);noun lesson_2
+MA1W_0236;Österreich;Austria;noun lesson_2
+MA1W_0237;schrecklich;terrible, awful;adjective lesson_2
+MA1W_0238;toll;great, fantastic;adjective lesson_2
+MA1W_0239;Das weiß ich nicht.;I don't know that.;verb lesson_2
+MA1W_0240;dein-;your (informal, singular, possessive);pronoun lesson_2
+MA1W_0241;Ihr-;your (formal, possessive);pronoun lesson_2
+MA1W_0242;Land, das, :-er;country;noun lesson_2
+MA1W_0243;Lieblingsfilm, der, -e;favorite film;noun lesson_2
+MA1W_0244;mein-;my;pronoun lesson_2
+MA1W_0245;meinen;my (accusative, masculine);pronoun lesson_2
+MA1W_0246;Schauspielerin, die, -nen;actress;noun lesson_2
+MA1W_0247;Sportler, der, -;athlete, sportsman;noun lesson_2
+MA1W_0248;Stadt, die, :-e;city, town;noun lesson_2
+MA1W_0249;Tageszeit, die, -en;time of day;noun lesson_2
+MA1W_0250;Was meinen Sie?;What do you mean?;verb lesson_2
+MA1W_0251;Wie bitte?;"Pardon?; Excuse me?";adverb interjection lesson_2
+MA1W_0252;Zahl, die, -en;number;noun lesson_2
+MA1W_0253;allein;alone;adjective lesson_2
+MA1W_0254;als (Präp);as (preposition);preposition lesson_2
+MA1W_0255;arbeiten als;to work as;verb preposition lesson_2
+MA1W_0256;Bauer, der, -n;farmer;noun lesson_2
+MA1W_0257;Bayern, das, Sg.;Bavaria;noun lesson_2
+MA1W_0258;Beruf, der, -e;profession, job;noun lesson_2
+MA1W_0259;Bruder, der, :-;brother;noun lesson_2
+MA1W_0260;einfach;simple, easy;adjective lesson_2
+MA1W_0261;Eltern, Pl.;parents;noun lesson_2
+MA1W_0262;Familienleben, das, -;family life;noun lesson_2
+MA1W_0263;Fernliebe, die, -n;long-distance love;noun lesson_2
+MA1W_0264;Frau (Ehefrau), die, -en;wife;noun lesson_2
+MA1W_0265;Freund, der, -e;friend (male);noun lesson_2
+MA1W_0266;geschieden;divorced;adjective lesson_2
+MA1W_0267;Geschwister, Pl.;siblings;noun lesson_2
+MA1W_0268;groß;big, tall, great;adjective lesson_2
+MA1W_0269;immer;always;adverb lesson_2
+MA1W_0270;Kasachstan;Kazakhstan;noun lesson_2
+MA1W_0271;Kind, das, -er;child;noun lesson_2
+MA1W_0272;Kinderfrau, die, -en;nanny, childminder;noun lesson_2
+MA1W_0273;klein;small, little;adjective lesson_2
+MA1W_0274;leben;to live;verb lesson_2
+MA1W_0275;Leben, das, -;life;noun lesson_2
+MA1W_0276;Liebe, die, -n;love;noun lesson_2
+MA1W_0277;lieben;to love;verb lesson_2
+MA1W_0278;Mann (Ehemann), der, :-er;husband;noun lesson_2
+MA1W_0279;noch;still, yet;adverb lesson_2
+MA1W_0280;Partner, der, -;partner (male);noun lesson_2
+MA1W_0281;sagen;to say;verb lesson_2
+MA1W_0282;Schweiz, die, Sg.;Switzerland;noun lesson_2
+MA1W_0283;Schwester, die, -n;sister;noun lesson_2
+MA1W_0284;sehr viel lernen;to study a lot;verb lesson_2
+MA1W_0285;Sohn, der, :-e;son;noun lesson_2
+MA1W_0286;Soziologe, der, -n;sociologist;noun lesson_2
+MA1W_0287;Thailand, das, Sg.;Thailand;noun lesson_2
+MA1W_0288;Thema, das, Themen;topic, subject;noun lesson_2
+MA1W_0289;Tochter, die, :-;daughter;noun lesson_2
+MA1W_0290;verheiratet;married;adjective lesson_2
+MA1W_0291;von Beruf sein;to be by profession;verb lesson_2
+MA1W_0292;Weltfamilie, die, -n;global family;noun lesson_2
+MA1W_0293;wohnen;to live, to reside;verb lesson_2
+MA1W_0294;Zürich;Zurich;noun lesson_2
+MA1W_0295;Cousin, der, -s;cousin (male);noun lesson_2
+MA1W_0296;Cousine, die, -n;cousin (female);noun lesson_2
+MA1W_0297;euer / eur-;your (informal, plural, possessive);pronoun lesson_2
+MA1W_0298;Großeltern, Pl.;grandparents;noun lesson_2
+MA1W_0299;Großmutter, die, :-;grandmother;noun lesson_2
+MA1W_0300;Großvater, der, :-;grandfather;noun lesson_2
+MA1W_0301;ihr-;her, their, its;pronoun lesson_2
+MA1W_0302;Mutter, die, :-;mother;noun lesson_2
+MA1W_0303;Oma, die, -s;grandma;noun lesson_2
+MA1W_0304;Onkel, der, -;uncle;noun lesson_2
+MA1W_0305;Opa, der, -s;grandpa;noun lesson_2
+MA1W_0306;sein-;his, its;pronoun lesson_2
+MA1W_0307;Stammbaum, der, :-e;family tree;noun lesson_2
+MA1W_0308;Tante, die, -n;aunt;noun lesson_2
+MA1W_0309;unser / unsr-;our;pronoun lesson_2
+MA1W_0310;Vater, der, :-;father;noun lesson_2
+MA1W_0311;viel;much, many;pronoun adjective adverb lesson_2
+MA1W_0312;wie viele;how many;pronoun lesson_2
+MA1W_0313;genau;exactly, precise;adjective adverb lesson_2
+MA1W_0314;Ja genau.;Yes, exactly.;adverb lesson_2
+MA1W_0315;alt;old;adjective lesson_2
+MA1W_0316;Arbeit, die, -en;work, job;noun lesson_2
+MA1W_0317;Arzt, der, :-e;doctor (male);noun lesson_2
+MA1W_0318;Ärztin, die, -nen;doctor (female);noun lesson_2
+MA1W_0319;auf;on, on top of, at;preposition lesson_2
+MA1W_0320;Barkeeper, der, -;bartender;noun lesson_2
+MA1W_0321;Erzieher, der, -;preschool teacher, educator (male);noun lesson_2
+MA1W_0322;Erzieherin, die, -nen;preschool teacher, educator (female);noun lesson_2
+MA1W_0323;Essen, das, -;food, meal;noun lesson_2
+MA1W_0324;Form, die, -en;form, shape;noun lesson_2
+MA1W_0325;Friseur, der, -e [CH] Coiffeur, -e;hairdresser (male);noun lesson_2
+MA1W_0326;Friseurin, die, -nen [CH] Coiffeuse, die, -n;hairdresser (female);noun lesson_2
+MA1W_0327;Heimweh, das, Sg.;homesickness;noun lesson_2
+MA1W_0328;Hotelmanager, der, -;hotel manager (male);noun lesson_2
+MA1W_0329;Hotelmanagerin, die, -nen;hotel manager (female);noun lesson_2
+MA1W_0330;Ingenieur, der, -e;engineer (male);noun lesson_2
+MA1W_0331;Ingenieurin, die, -nen;engineer (female);noun lesson_2
+MA1W_0332;Jahr, das, -e;year;noun lesson_2
+MA1W_0333;Jahre alt sein;to be years old;verb lesson_2
+MA1W_0334;jeden Tag;every day;adverb lesson_2
+MA1W_0335;Job, der, -s;job;noun lesson_2
+MA1W_0336;Kabine, die, -n;cabin;noun lesson_2
+MA1W_0337;Kapitän, der, -e;captain (male);noun lesson_2
+MA1W_0338;Kapitänin, die, -nen;captain (female);noun lesson_2
+MA1W_0339;Kellner, der, - [CH] Serviceangestellte, der –n;waiter;noun lesson_2
+MA1W_0340;Kellnerin, die, -nen [CH] Serviceangestellte, die –n;waitress;noun lesson_2
+MA1W_0341;Koch, der, :-e;cook, chef (male);noun lesson_2
+MA1W_0342;Köchin, die, -nen;cook, chef (female);noun lesson_2
+MA1W_0343;Krankenpfleger, der, -;nurse (male);noun lesson_2
+MA1W_0344;Krankenschwester, die, -n;nurse (female);noun lesson_2
+MA1W_0345;Kreuzfahrtschiff, das, -e;cruise ship;noun lesson_2
+MA1W_0346;Manager, der, -;manager (male);noun lesson_2
+MA1W_0347;Managerin, die, -nen;manager (female);noun lesson_2
+MA1W_0348;manchmal;sometimes;adverb lesson_2
+MA1W_0349;männlich;male, masculine;adjective lesson_2
+MA1W_0350;Meer, das, -e;sea, ocean;noun lesson_2
+MA1W_0351;Musiker, der, -;musician (male);noun lesson_2
+MA1W_0352;Musikerin, die, -nen;musician (female);noun lesson_2
+MA1W_0353;Rezeptionist, der, -en;receptionist (male);noun lesson_2
+MA1W_0354;Rezeptionistin, die, -nen;receptionist (female);noun lesson_2
+MA1W_0355;Schiff, das, -e;ship;noun lesson_2
+MA1W_0356;schlecht;bad, poor;adjective lesson_2
+MA1W_0357;Schneider, der, -;tailor, cutter (male);noun lesson_2
+MA1W_0358;Schneiderin, die, -nen;tailor, cutter (female);noun lesson_2
+MA1W_0359;schon;already, yet;adverb particle lesson_2
+MA1W_0360;schon vier Jahre;for four years already;adverb lesson_2
+MA1W_0361;Sonne, die, -n;sun;noun lesson_2
+MA1W_0362;Steward, der, -s;steward;noun lesson_2
+MA1W_0363;Stewardess, die, -en;stewardess;noun lesson_2
+MA1W_0364;Stunde, die, -n;hour;noun lesson_2
+MA1W_0365;Team, das, -s;team;noun lesson_2
+MA1W_0366;weiblich;female, feminine;adjective lesson_2
+MA1W_0367;Woche, die, -n;week;noun lesson_2
+MA1W_0368;zum Beispiel;for example;adverb lesson_2
+MA1W_0369;Frankreich;France;noun lesson_2
+MA1W_0370;geboren;born;adjective verb lesson_2
+MA1W_0371;Griechenland;Greece;noun lesson_2
+MA1W_0372;Großbritannien;Great Britain;noun lesson_2
+MA1W_0373;Italien;Italy;noun lesson_2
+MA1W_0374;Liste, die, -n;list;noun lesson_2
+MA1W_0375;Rumänien;Romania;noun lesson_2
+MA1W_0376;Spanien;Spain;noun lesson_2
+MA1W_0377;Türkei, die;Turkey;noun lesson_2
+MA1W_0378;Ukraine, die;Ukraine;noun lesson_2
+MA1W_0379;dreizehn;thirteen;numeral lesson_2
+MA1W_0380;hundert;hundred;numeral lesson_2
+MA1W_0381;zwanzig;twenty;numeral lesson_2
+MA1W_0382;Schweden;Sweden;noun lesson_2
+MA1W_0383;selbstständig;self-employed, independent;adjective adverb lesson_2
+MA1W_0384;Tourist, der, -en;tourist (male);noun lesson_2
+MA1W_0385;Touristin, die, -nen;tourist (female);noun lesson_2
+MA1W_0386;Alter, das (Sg.);age;noun lesson_2
+MA1W_0387;Auto fahren;to drive a car;verb lesson_3
+MA1W_0388;chatten;to chat;verb lesson_3
+MA1W_0389;essen;to eat;verb lesson_3
+MA1W_0390;fahren;to drive, to go, to ride;verb lesson_3
+MA1W_0391;Fußball, der;football, soccer;noun lesson_3
+MA1W_0392;Kommunikation, die, -en;communication;noun lesson_3
+MA1W_0393;Konsum, der, Sg.;consumption;noun lesson_3
+MA1W_0394;Lebensmittel, das, -;food, groceries;noun lesson_3
+MA1W_0395;Restaurant, das, -s;restaurant;noun lesson_3
+MA1W_0396;Sport machen;to do sports, to exercise;verb lesson_3
+MA1W_0397;Sport, der, -e (selten);sport;noun lesson_3
+MA1W_0398;Telefonieren, das, Sg.;telephoning, the act of telephoning;noun lesson_3
+MA1W_0399;Urlaub machen;to take a vacation, to go on holiday;verb lesson_3
+MA1W_0400;Urlaub, der, -e [CH] Ferien, die (Pl.);vacation, holiday;noun lesson_3
+MA1W_0401;viel lesen;to read a lot;verb lesson_3
+MA1W_0402;Wohnung, die, -en;apartment, flat;noun lesson_3
+MA1W_0403;Abschnitt, der, -e;section, paragraph;noun lesson_3
+MA1W_0404;bedeuten;to mean, to signify;verb lesson_3
+MA1W_0405;bekommen;to get, to receive;verb lesson_3
+MA1W_0406;bleiben;to stay, to remain;verb lesson_3
+MA1W_0407;brauchen;to need, to require;verb lesson_3
+MA1W_0408;Ding, das, -e;thing;noun lesson_3
+MA1W_0409;doch [Partikel];but, however, though;particle lesson_3
+MA1W_0410;DVD, die, -s;DVD;noun lesson_3
+MA1W_0411;einmal;once, one time;adverb lesson_3
+MA1W_0412;es gibt;there is, there are;verb lesson_3
+MA1W_0413;etwas;something, a little;pronoun adverb lesson_3
+MA1W_0414;Geld, das, -er;money;noun lesson_3
+MA1W_0415;Geschichte, die, -n;story, history;noun lesson_3
+MA1W_0416;glücklich;happy, lucky;adjective lesson_3
+MA1W_0417;Idee, die, -n;idea;noun lesson_3
+MA1W_0418;kaufen;to buy;verb lesson_3
+MA1W_0419;klar;clear, of course;adjective adverb lesson_3
+MA1W_0420;klar sein;to be clear;verb lesson_3
+MA1W_0421;kosten;to cost;verb lesson_3
+MA1W_0422;Lösung, die, -en;solution;noun lesson_3
+MA1W_0423;nicht so toll;not so great;adjective lesson_3
+MA1W_0424;nichts;nothing;pronoun lesson_3
+MA1W_0425;Party, die, -s;party;noun lesson_3
+MA1W_0426;Platz, der, :-e;place, space, square;noun lesson_3
+MA1W_0427;Problem, das, -e;problem;noun lesson_3
+MA1W_0428;Radiogeschichten, Pl.;radio stories;noun lesson_3
+MA1W_0429;Sache, die, -n;thing, matter;noun lesson_3
+MA1W_0430;sehen;to see;verb lesson_3
+MA1W_0431;so;so, like this;adverb pronoun lesson_3
+MA1W_0432;Tauschbörse, die, -n;swap meet, exchange platform;noun lesson_3
+MA1W_0433;tauschen;to exchange, to swap;verb lesson_3
+MA1W_0434;Tauschpartner, der, -;exchange partner;noun lesson_3
+MA1W_0435;Textabschnitt, der, -e;text section, paragraph;noun lesson_3
+MA1W_0436;wirklich;really, truly;adverb adjective lesson_3
+MA1W_0437;zu Hause;at home;adverb lesson_3
+MA1W_0438;zweimal;twice, two times;adverb lesson_3
+MA1W_0439;Blume, die, -n;flower;noun lesson_3
+MA1W_0440;Briefmarke, die, -n;postage stamp;noun lesson_3
+MA1W_0441;Computerspiel, das, -e;computer game;noun lesson_3
+MA1W_0442;Fahrrad, das, :-er [CH] Velo, das, -s;bicycle;noun lesson_3
+MA1W_0443;Fernseher, der, -;television set;noun lesson_3
+MA1W_0444;Hose, die, -n;trousers, pants;noun lesson_3
+MA1W_0445;Klavier, das, -e;piano;noun lesson_3
+MA1W_0446;Kühlschrank, der, :-e;refrigerator;noun lesson_3
+MA1W_0447;mehr;more;pronoun adverb lesson_3
+MA1W_0448;Neupreis, der, -e;original price;noun lesson_3
+MA1W_0449;nicht mehr;no more, no longer;adverb lesson_3
+MA1W_0450;Schrank, der, :-e [A] Kasten, der, :-;cupboard, closet;noun lesson_3
+MA1W_0451;Spiel, das, -e;game, match;noun lesson_3
+MA1W_0452;billig;cheap, inexpensive;adjective lesson_3
+MA1W_0453;Cent, der, -s;cent;noun lesson_3
+MA1W_0454;Euro, der, -s;euro;noun lesson_3
+MA1W_0455;nur;only, just;adverb lesson_3
+MA1W_0456;Preis, der, -e;price;noun lesson_3
+MA1W_0457;teuer;expensive;adjective lesson_3
+MA1W_0458;wie viel;how much;pronoun adverb lesson_3
+MA1W_0459;Apfel, der, :-;apple;noun lesson_3
+MA1W_0460;Birne, die, -n;pear;noun lesson_3
+MA1W_0461;Brot, das, -e;bread;noun lesson_3
+MA1W_0462;Brötchen, das, - [A] Semmel, die, -n [CH] Brötli, das, -;roll (bread);noun lesson_3
+MA1W_0463;Butter, die, Sg.;butter;noun lesson_3
+MA1W_0464;Cola, die / das, -s;cola;noun lesson_3
+MA1W_0465;Ei, das -er;egg;noun lesson_3
+MA1W_0466;Eis (Speise-), das, Sg. [CH] Glacé, das, -s / die, -n;ice cream;noun lesson_3
+MA1W_0467;Fisch, der, -e;fish;noun lesson_3
+MA1W_0468;Fleisch, das, Sg.;meat;noun lesson_3
+MA1W_0469;Hähnchen, das, - [A] Hendl, das, -n [CH] Poulet, das, -s;chicken;noun lesson_3
+MA1W_0470;Joghurt, der / das, -s;yogurt;noun lesson_3
+MA1W_0471;Karotte, die, -n [CH] Rüebli, das, -;carrot;noun lesson_3
+MA1W_0472;Kartoffel, die, -n [A] Erdapfel, der, :-;potato;noun lesson_3
+MA1W_0473;Käse, der, -;cheese;noun lesson_3
+MA1W_0474;lang;long;adjective lesson_3
+MA1W_0475;leer;empty;adjective lesson_3
+MA1W_0476;Nudel, die, -n [CH] Teigware, die, -n;noodle, pasta;noun lesson_3
+MA1W_0477;Orange, die, -n;orange;noun lesson_3
+MA1W_0478;Orangensaft, der, :-e;orange juice;noun lesson_3
+MA1W_0479;Reis, der, Sg.;rice;noun lesson_3
+MA1W_0480;Saft, der, :-e;juice;noun lesson_3
+MA1W_0481;Salat, der, -e;salad;noun lesson_3
+MA1W_0482;so lang wie möglich;as long as possible;adverb lesson_3
+MA1W_0483;Tee, der, -s;tea;noun lesson_3
+MA1W_0484;Tomate, die, -n [A] Paradeiser, der, -;tomato;noun lesson_3
+MA1W_0485;Wurst, die, :-e;sausage;noun lesson_3
+MA1W_0486;mögen;to like, to want;verb lesson_3
+MA1W_0487;nie;never;adverb lesson_3
+MA1W_0488;schmecken [CH] fein sein;to taste;verb lesson_3
+MA1W_0489;Supermarkt, der, :-e;supermarket;noun lesson_3
+MA1W_0490;trinken;to drink;verb lesson_3
+MA1W_0491;Milch, die, Sg.;milk;noun lesson_3
+MA1W_0492;Appetit, der, -e;appetite;noun lesson_3
+MA1W_0493;einkaufen;to shop, to buy groceries;verb lesson_3
+MA1W_0494;Frühstück, das, -e [CH] Morgenessen, das, -;breakfast;noun lesson_3
+MA1W_0495;Gemüse, das, -;vegetables;noun lesson_3
+MA1W_0496;geöffnet;open;adjective lesson_3
+MA1W_0497;geschlossen;closed;adjective lesson_3
+MA1W_0498;Guten Appetit.;Enjoy your meal.;interjection lesson_3
+MA1W_0499;halb;half;adjective numeral lesson_3
+MA1W_0500;Hunger haben;to be hungry;verb lesson_3
+MA1W_0501;Hunger, der, Sg.;hunger;noun lesson_3
+MA1W_0502;inoffiziell;unofficial;adjective lesson_3
+MA1W_0503;Kantine, die, -n;canteen, cafeteria;noun lesson_3
+MA1W_0504;Karottenkuchen, der, -;carrot cake;noun lesson_3
+MA1W_0505;Käsebrötchen, das, -;cheese roll;noun lesson_3
+MA1W_0506;Kuchen, der, -;cake;noun lesson_3
+MA1W_0507;mit;with;preposition lesson_3
+MA1W_0508;Mittagessen, das, -;lunch;noun lesson_3
+MA1W_0509;nach;after, to;preposition lesson_3
+MA1W_0510;offiziell;official;adjective lesson_3
+MA1W_0511;Pommes frites, Pl.;French fries;noun lesson_3
+MA1W_0512;richtig essen;to eat properly;verb lesson_3
+MA1W_0513;Sahne, die, (Sg.) [A] Obers, das (Sg.) [CH] Rahm, der (Sg.);cream;noun lesson_3
+MA1W_0514;Schweizer Alpen, Pl.;Swiss Alps;noun lesson_3
+MA1W_0515;Stück, das, -e;piece, item;noun lesson_3
+MA1W_0516;Uhrzeit, die, -en;time (of day);noun lesson_3
+MA1W_0517;um (temporal);at (temporal);preposition lesson_3
+MA1W_0518;viel essen;to eat a lot;verb lesson_3
+MA1W_0519;Viertel nach;quarter past;noun lesson_3
+MA1W_0520;Viertel vor;quarter to;noun lesson_3
+MA1W_0521;Viertel, das, - [CH] Viertel, der, -;quarter;noun lesson_3
+MA1W_0522;von … bis;from … to;preposition lesson_3
+MA1W_0523;vor;before, in front of;preposition lesson_3
+MA1W_0524;wenig;little, few;pronoun adjective adverb lesson_3
+MA1W_0525;wenig essen;to eat little;verb lesson_3
+MA1W_0526;wie immer;as always;adverb lesson_3
+MA1W_0527;zu Mittag;for lunch;adverb lesson_3
+MA1W_0528;zusammenpassen;to go together, to match;verb lesson_3
+MA1W_0529;Bankangestellte, die / der, -n;bank clerk, bank employee;noun lesson_3
+MA1W_0530;Berg, der, -e;mountain;noun lesson_3
+MA1W_0531;Bergrestaurant, das, -s;mountain restaurant;noun lesson_3
+MA1W_0532;das macht;that makes, that will be;verb lesson_3
+MA1W_0533;Durst haben;to be thirsty;verb lesson_3
+MA1W_0534;Durst, der, (Sg.);thirst;noun lesson_3
+MA1W_0535;Hafen, der, :-;harbor, port;noun lesson_3
+MA1W_0536;Hamburger Hafen, der, :-;Hamburg harbor;noun lesson_3
+MA1W_0537;Kaffeehaus, das, :-er;coffee house;noun lesson_3
+MA1W_0538;Kartoffelsalat, der, -e;potato salad;noun lesson_3
+MA1W_0539;Kneipe, die, -n [A] Beisel, das, - [CH] Beiz, die –en;pub, bar;noun lesson_3
+MA1W_0540;Lehrerin, die, -nen;teacher (female);noun lesson_3
+MA1W_0541;leider;unfortunately, sadly;adverb lesson_3
+MA1W_0542;Lokal, das, -e;restaurant, bar, pub;noun lesson_3
+MA1W_0543;meistens;mostly, usually;adverb lesson_3
+MA1W_0544;Natur, die, -en;nature;noun lesson_3
+MA1W_0545;nehmen;to take;verb lesson_3
+MA1W_0546;nicht so viel;not so much;adverb lesson_3
+MA1W_0547;Raclette, das / die, -s;raclette;noun lesson_3
+MA1W_0548;Rentner, der, - [A] Pensionist, der, -en [CH] Pensionierte, der, .n;pensioner, retiree (male);noun lesson_3
+MA1W_0549;Schach, das, -s;chess;noun lesson_3
+MA1W_0550;Schnitzel, das, -;escalope, cutlet;noun lesson_3
+MA1W_0551;Speise, die, -n;dish, food;noun lesson_3
+MA1W_0552;Sportlehrerin, die, -nen;sports teacher (female);noun lesson_3
+MA1W_0553;Suppe, die, -n;soup;noun lesson_3
+MA1W_0554;Toast, der, -s;toast;noun lesson_3
+MA1W_0555;treffen (sich);to meet;verb lesson_3
+MA1W_0556;vielleicht;perhaps, maybe;adverb lesson_3
+MA1W_0557;Wien;Vienna;noun lesson_3
+MA1W_0558;Wiener Schnitzel, das, -;Viennese cutlet, Wiener schnitzel;noun lesson_3
+MA1W_0559;Wochenende, das, -n;weekend;noun lesson_3
+MA1W_0560;Würstchen mit Kartoffelsalat;sausages with potato salad;noun lesson_3
+MA1W_0561;Würstchen, das, -;sausage;noun lesson_3
+MA1W_0562;zusammen;together;adverb lesson_3
+MA1W_0563;Bananenmilch, die, Sg.;banana milk;noun lesson_3
+MA1W_0564;bestellen;to order;verb lesson_3
+MA1W_0565;bezahlen;to pay;verb lesson_3
+MA1W_0566;Dank, der, Sg.;thanks, gratitude;noun lesson_3
+MA1W_0567;danke;thank you;interjection lesson_3
+MA1W_0568;Franken, der, -;franc;noun lesson_3
+MA1W_0569;Großer Brauner, der, Sg.;large espresso with milk;noun lesson_3
+MA1W_0570;heiß;hot;adjective lesson_3
+MA1W_0571;heiße Schokolade, die, -n;hot chocolate;noun lesson_3
+MA1W_0572;Hier, bitte.;Here you are.;interjection lesson_3
+MA1W_0573;Kaffee Spitz, das, Sg.;coffee with a shot of alcohol;noun lesson_3
+MA1W_0574;Mineralwasser, das, Sg. [A/Ch] Mineral, das (Sg.);mineral water;noun lesson_3
+MA1W_0575;möchten;would like, to want;verb lesson_3
+MA1W_0576;Moserhütte, die, Sg.;Moserhütte (name of a hut);noun lesson_3
+MA1W_0577;Nudelsuppe, die, -n;noodle soup;noun lesson_3
+MA1W_0578;Obst, das, Sg. [CH] Früchte, die (Pl.);fruit;noun lesson_3
+MA1W_0579;passen;to fit, to suit, to be right;verb lesson_3
+MA1W_0580;Rappen, der, -;centime (Swiss currency);noun lesson_3
+MA1W_0581;Schinken, der, -;ham;noun lesson_3
+MA1W_0582;Schinkenbrötchen, das, -;ham sandwich, ham roll;noun lesson_3
+MA1W_0583;Schokolade, die, -n;chocolate;noun lesson_3
+MA1W_0584;Schokoladenkuchen, der, - [A] Schokoladekuchen, der, -;chocolate cake;noun lesson_3
+MA1W_0585;Speisekarte, die, -n;menu;noun lesson_3
+MA1W_0586;stimmen;to be correct, to be right;verb lesson_3
+MA1W_0587;stimmt so;that's correct, keep the change;verb lesson_3
+MA1W_0588;Tomaten-Mozzarella-Salat, der, -e;tomato mozzarella salad;noun lesson_3
+MA1W_0589;Tomatensuppe, die, -n;tomato soup;noun lesson_3
+MA1W_0590;Vielen Dank;Thank you very much.;interjection lesson_3
+MA1W_0591;Wasser, das, -.;water;noun lesson_3
+MA1W_0592;zahlen;to pay;verb lesson_3
+MA1W_0593;Zitrone, die, -n;lemon;noun lesson_3
+MA1W_0594;Zum Haifisch;name of a restaurant or pub;noun lesson_3
+MA1W_0595;Alltag, der, -e;everyday life, daily routine;noun lesson_4
+MA1W_0596;Büro, das, -s;office;noun lesson_4
+MA1W_0597;Deutschkurs, der, -e;German course;noun lesson_4
+MA1W_0598;Freizeit, die, -en;free time, leisure time;noun lesson_4
+MA1W_0599;frühstücken;to have breakfast;verb lesson_4
+MA1W_0600;hören;to hear, to listen;verb lesson_4
+MA1W_0601;Künstler, der, -;artist (male);noun lesson_4
+MA1W_0602;Kurs, der, -e;course;noun lesson_4
+MA1W_0603;Lied, das, -er;song;noun lesson_4
+MA1W_0604;Straßenkünstler, der, -;street artist, busker (male);noun lesson_4
+MA1W_0605;Student, der, -en;student (male);noun lesson_4
+MA1W_0606;studieren;to study (at university);verb lesson_4
+MA1W_0607;Studium, das, Studien;studies, course of study;noun lesson_4
+MA1W_0608;all-;all (prefix);pronoun prefix lesson_4
+MA1W_0609;aufstehen;to get up, to stand up;verb lesson_4
+MA1W_0610;Avatar, der, -s / -e;avatar;noun lesson_4
+MA1W_0611;beginnen;to begin, to start;verb lesson_4
+MA1W_0612;Berufsalltag, der, -e;everyday work, working routine;noun lesson_4
+MA1W_0613;besuchen;to visit, to attend;verb lesson_4
+MA1W_0614;doch [aber];but, however;conjunction lesson_4
+MA1W_0615;Fremdsprache, die, -n;foreign language;noun lesson_4
+MA1W_0616;gar nicht;not at all;adverb lesson_4
+MA1W_0617;Haus, das, :-er;house;noun lesson_4
+MA1W_0618;können;to be able to, can;verb lesson_4
+MA1W_0619;manch-;some, many a (prefix);pronoun prefix lesson_4
+MA1W_0620;Mensch, der, -en;human being, person;noun lesson_4
+MA1W_0621;müssen;to have to, must;verb lesson_4
+MA1W_0622;nach Hause;(to) home;adverb lesson_4
+MA1W_0623;nach Hause kommen;to come home;verb lesson_4
+MA1W_0624;ohne;without;preposition lesson_4
+MA1W_0625;Pianistin, die, -nen;pianist (female);noun lesson_4
+MA1W_0626;Produkt, das, -e;product;noun lesson_4
+MA1W_0627;Psychologe, der, -n;psychologist (male);noun lesson_4
+MA1W_0628;real;real;adjective lesson_4
+MA1W_0629;shoppen;to shop;verb lesson_4
+MA1W_0630;shoppen gehen;to go shopping;verb lesson_4
+MA1W_0631;sicher (ohne Zweifel);sure, certain, safe;adjective adverb lesson_4
+MA1W_0632;Spielfigur, die, -en;playing piece, game character;noun lesson_4
+MA1W_0633;sprechen;to speak;verb lesson_4
+MA1W_0634;tun;to do;verb lesson_4
+MA1W_0635;verkaufen;to sell;verb lesson_4
+MA1W_0636;Verkäufer, der, -;salesman, seller (male);noun lesson_4
+MA1W_0637;Verkäuferin, die, -nen;saleswoman, seller (female);noun lesson_4
+MA1W_0638;verlieren;to lose;verb lesson_4
+MA1W_0639;verstehen (sich);to understand (each other);verb lesson_4
+MA1W_0640;virtuell;virtual;adjective lesson_4
+MA1W_0641;warten;to wait;verb lesson_4
+MA1W_0642;Welt, die, -en;world;noun lesson_4
+MA1W_0643;zweit-;second (prefix);adjective prefix lesson_4
+MA1W_0644;Abendessen, das, -;dinner, supper;noun lesson_4
+MA1W_0645;Frühstück machen;to make breakfast;verb lesson_4
+MA1W_0646;wie lange;how long;adverb lesson_4
+MA1W_0647;bringen;to bring, to take;verb lesson_4
+MA1W_0648;erklären;to explain;verb lesson_4
+MA1W_0649;Getränk, das, -e;drink, beverage;noun lesson_4
+MA1W_0650;Grammatik, die, -en;grammar;noun lesson_4
+MA1W_0651;Haar, das, -e;hair;noun lesson_4
+MA1W_0652;Haare waschen;to wash one's hair;verb lesson_4
+MA1W_0653;Lehrer, der, -;teacher (male);noun lesson_4
+MA1W_0654;Lehrerin, die, -nen;teacher (female);noun lesson_4
+MA1W_0655;Maschine, die, -n;machine;noun lesson_4
+MA1W_0656;reparieren;to repair;verb lesson_4
+MA1W_0657;Tablette, die, -n;tablet, pill;noun lesson_4
+MA1W_0658;Tätigkeit, die, -en;activity, occupation;noun lesson_4
+MA1W_0659;waschen (sich);to wash (oneself);verb lesson_4
+MA1W_0660;Handstand, der, :-e;handstand;noun lesson_4
+MA1W_0661;Mathematiklehrerin, die, -nen;mathematics teacher (female);noun lesson_4
+MA1W_0662;niemand;nobody, no one;pronoun lesson_4
+MA1W_0663;Popstar, der, -s;pop star;noun lesson_4
+MA1W_0664;rechnen;to calculate, to count;verb lesson_4
+MA1W_0665;schnell;fast, quick, quickly;adjective adverb lesson_4
+MA1W_0666;singen;to sing;verb lesson_4
+MA1W_0667;Turniertänzer, der, -;competitive dancer (male);noun lesson_4
+MA1W_0668;zeichnen;to draw;verb lesson_4
+MA1W_0669;ankommen;to arrive;verb lesson_4
+MA1W_0670;anrufen;to call (on the phone);verb lesson_4
+MA1W_0671;anziehen (sich);to put on clothes, to get dressed (oneself);verb lesson_4
+MA1W_0672;Assistent, der, -en;assistant (male);noun lesson_4
+MA1W_0673;aussehen (wie) [A] ausschauen (wie);to look (like);verb lesson_4
+MA1W_0674;Bank, die, die, :-e;bank (both financial institution and bench);noun lesson_4
+MA1W_0675;beim Training;during training;preposition lesson_4
+MA1W_0676;durstig;thirsty;adjective lesson_4
+MA1W_0677;Fan, der, -s;fan;noun lesson_4
+MA1W_0678;Fußballplatz, der, :-e;football pitch, soccer field;noun lesson_4
+MA1W_0679;Fußballspiel, das, -e;football match, soccer match;noun lesson_4
+MA1W_0680;Fußballspieler, der, -;football player, soccer player (male);noun lesson_4
+MA1W_0681;Fußballtrainer, der, -;football coach, soccer coach (male);noun lesson_4
+MA1W_0682;Gefühl, das, -e;feeling, emotion;noun lesson_4
+MA1W_0683;genug;enough, sufficient;adjective pronoun adverb lesson_4
+MA1W_0684;hungrig;hungry;adjective lesson_4
+MA1W_0685;Interview, das, -s;interview;noun lesson_4
+MA1W_0686;Journalist, der, -en;journalist (male);noun lesson_4
+MA1W_0687;Journalistin, die, -nen;journalist (female);noun lesson_4
+MA1W_0688;lustig;funny, amusing;adjective lesson_4
+MA1W_0689;mitmachen;to participate, to join in;verb lesson_4
+MA1W_0690;mitspielen;to play along, to join in the game;verb lesson_4
+MA1W_0691;müde;tired, weary;adjective lesson_4
+MA1W_0692;nervös;nervous;adjective lesson_4
+MA1W_0693;Spaß machen;to be fun;verb lesson_4
+MA1W_0694;Spaß, der, :-e;fun;noun lesson_4
+MA1W_0695;Spieler, der, -;player (male);noun lesson_4
+MA1W_0696;Spieltag, der, -e;match day;noun lesson_4
+MA1W_0697;Trainer, der, -;coach, trainer (male);noun lesson_4
+MA1W_0698;Training, das, -s;training, practice;noun lesson_4
+MA1W_0699;traurig;sad;adjective lesson_4
+MA1W_0700;Trikot, das, -s;jersey, shirt;noun lesson_4
+MA1W_0701;wieder;again;adverb lesson_4
+MA1W_0702;Würstchenverkäuferin, die, -nen;sausage seller (female);noun lesson_4
+MA1W_0703;wütend;furious, angry;adjective lesson_4
+MA1W_0704;zufrieden;satisfied, content;adjective lesson_4
+MA1W_0705;zusehen;to watch, to look on;verb lesson_4
+MA1W_0706;aufmachen;to open;verb lesson_4
+MA1W_0707;erst;first, only;adverb adjective lesson_4
+MA1W_0708;Geburtstag, der, -e;birthday;noun lesson_4
+MA1W_0709;gehen (Wohlbefinden);to go (well-being, how someone is doing);verb lesson_4
+MA1W_0710;Konzert, das, -e;concert;noun lesson_4
+MA1W_0711;Situation, die, -en;situation;noun lesson_4
+MA1W_0712;Wie geht es?;How are you?;verb lesson_4
+MA1W_0713;zu spät;too late;adjective lesson_4
+MA1W_0714;alles;everything, all;pronoun lesson_4
+MA1W_0715;einen Fototermin haben;to have a photo appointment;verb lesson_4
+MA1W_0716;Fotograf, der, -en;photographer (male);noun lesson_4
+MA1W_0717;Fototermin, der, -e;photo appointment, photo session;noun lesson_4
+MA1W_0718;ganz;whole, entire, completely;adjective adverb lesson_4
+MA1W_0719;ganz normal;completely normal;adjective lesson_4
+MA1W_0720;Garten, der, :-;garden;noun lesson_4
+MA1W_0721;Hausfrau, die, -en;housewife;noun lesson_4
+MA1W_0722;Haushalt, der, -e;household;noun lesson_4
+MA1W_0723;Hausmann, der, :-er;househusband;noun lesson_4
+MA1W_0724;Hund, der, -e;dog;noun lesson_4
+MA1W_0725;kennenlernen;to get to know, to meet;verb lesson_4
+MA1W_0726;Krise, die, -n;crisis;noun lesson_4
+MA1W_0727;mieten;to rent, to hire;verb lesson_4
+MA1W_0728;Model, das, -s;model;noun lesson_4
+MA1W_0729;normal;normal, usual;adjective lesson_4
+MA1W_0730;normal leben;to live a normal life;verb lesson_4
+MA1W_0731;reisen;to travel;verb lesson_4
+MA1W_0732;Schule, die, -n;school;noun lesson_4
+MA1W_0733;Schüler, der, -;pupil, student (male);noun lesson_4
+MA1W_0734;sogar;even, actually;adverb lesson_4
+MA1W_0735;Stadtwohnung, die, -en;city apartment, town apartment;noun lesson_4
+MA1W_0736;suchen;to search, to look for;verb lesson_4
+MA1W_0737;Termin, der, -e;appointment, date;noun lesson_4
+MA1W_0738;Topmanager, der, -;top manager (male);noun lesson_4
+MA1W_0739;Unterricht, der, (Sg.);lesson, class, instruction;noun lesson_4
+MA1W_0740;verdienen;to earn, to deserve;verb lesson_4
+MA1W_0741;vielleicht sogar;maybe even;adverb lesson_4
+MA1W_0742;Wäsche, die, -n;laundry, washing;noun lesson_4
+MA1W_0743;weitergehen;to go on, to continue;verb lesson_4
+MA1W_0744;wieder einmal;once again;adverb lesson_4
+MA1W_0745;wollen;to want;verb lesson_4
+MA1W_0746;Zeit, die, -en;time;noun lesson_4
+MA1W_0747;zu;to, too;preposition adverb lesson_4
+MA1W_0748;zu alt;too old;adjective lesson_4
+MA1W_0749;zu viel;too much;adjective adverb lesson_4
+MA1W_0750;aufhören;to stop, to quit, to cease;verb lesson_4
+MA1W_0751;Das geht nicht.;That's not possible. That doesn't work.;verb lesson_4
+MA1W_0752;dürfen;to be allowed to, may;verb lesson_4
+MA1W_0753;Fast Food, das, Sg.;fast food;noun lesson_4
+MA1W_0754;Firma, die, Firmen;company, firm;noun lesson_4
+MA1W_0755;fit;fit, in good shape;adjective lesson_4
+MA1W_0756;grillen [CH] grillieren;to grill, to barbecue;verb lesson_4
+MA1W_0757;in die Schule gehen;to go to school;verb lesson_4
+MA1W_0758;Kinder haben;to have children;verb lesson_4
+MA1W_0759;laut;loud, noisy;adjective adverb lesson_4
+MA1W_0760;mit 30;at the age of 30;preposition lesson_4
+MA1W_0761;mit der Schule aufhören;to quit school;verb lesson_4
+MA1W_0762;mitbringen;to bring along;verb lesson_4
+MA1W_0763;noch ein Jahr;another year;noun lesson_4
+MA1W_0764;rauchen;to smoke;verb lesson_4
+MA1W_0765;Reaktion, die, -en;reaction;noun lesson_4
+MA1W_0766;Sportwagen, der, -;sports car;noun lesson_4
+MA1W_0767;Stelle (Arbeitsplatz), die, -n;position, job;noun lesson_4
+MA1W_0768;Telearbeit machen;to telecommute, to work from home;verb lesson_4
+MA1W_0769;Telearbeit, die, en;telecommuting, telework;noun lesson_4
+MA1W_0770;Text, der, -e;text;noun lesson_4
+MA1W_0771;Urlaub nehmen;to take a vacation;verb lesson_4
+MA1W_0772;einladen;to invite;verb lesson_5
+MA1W_0773;aber noch viel mehr;but much more;conjunction adverb lesson_5
+MA1W_0774;am Ziel sein;to have reached one's goal;verb lesson_5
+MA1W_0775;Ampel, die, -n;traffic light;noun lesson_5
+MA1W_0776;Apotheke, die, -n;pharmacy, chemist's shop;noun lesson_5
+MA1W_0777;ausgehen [CH] in den Ausgang gehen;to go out;verb lesson_5
+MA1W_0778;bald;soon;adverb lesson_5
+MA1W_0779;beschreiben;to describe;verb lesson_5
+MA1W_0780;blind;blind;adjective lesson_5
+MA1W_0781;denn;because, for;conjunction lesson_5
+MA1W_0782;Dieb;thief;noun lesson_5
+MA1W_0783;einschalten;to turn on, to switch on;verb lesson_5
+MA1W_0784;Experte, der, -n;expert (male);noun lesson_5
+MA1W_0785;frei sein;to be free;verb lesson_5
+MA1W_0786;Freiheit, die, -en;freedom;noun lesson_5
+MA1W_0787;gehen;to go, to walk;verb lesson_5
+MA1W_0788;gehen (etwas geht);to work, to function (something works);verb lesson_5
+MA1W_0789;geradeaus;straight ahead;adverb lesson_5
+MA1W_0790;Gerät, das, -e;device, appliance, gadget;noun lesson_5
+MA1W_0791;GPS, das, Sg.;GPS;noun lesson_5
+MA1W_0792;GPS-Gerät, das, -e;GPS device;noun lesson_5
+MA1W_0793;GPS-Handy, das, -s;GPS mobile phone;noun lesson_5
+MA1W_0794;GPS-Sender, der, -;GPS transmitter;noun lesson_5
+MA1W_0795;grün;green;adjective lesson_5
+MA1W_0796;hinter;behind;preposition lesson_5
+MA1W_0797;holen;to fetch, to get;verb lesson_5
+MA1W_0798;Kontrolle, die, -n;control, check;noun lesson_5
+MA1W_0799;kontrollieren;to check, to control, to monitor;verb lesson_5
+MA1W_0800;links;left, on the left;adverb lesson_5
+MA1W_0801;losgehen;to start, to set off, to get going;verb lesson_5
+MA1W_0802;mitnehmen;to take along, to take with;verb lesson_5
+MA1W_0803;MP3-Player, der, -;MP3 player;noun lesson_5
+MA1W_0804;nach links;to the left;adverb lesson_5
+MA1W_0805;nach rechts;to the right;adverb lesson_5
+MA1W_0806;Navigationsgerät / Navi, das, -e / -s;navigation device, satnav;noun lesson_5
+MA1W_0807;neben;next to, beside;preposition lesson_5
+MA1W_0808;Polizist, der, -en;police officer (male);noun lesson_5
+MA1W_0809;Position, die, -en;position;noun lesson_5
+MA1W_0810;Post, die;post office, mail;noun lesson_5
+MA1W_0811;rechts;right, on the right;adverb lesson_5
+MA1W_0812;rot;red;adjective lesson_5
+MA1W_0813;Sender, der, -;transmitter, broadcaster, channel;noun lesson_5
+MA1W_0814;stehen;to stand;verb lesson_5
+MA1W_0815;Straße, die, -n;street, road;noun lesson_5
+MA1W_0816;Straßenverkehr, der, Sg.;traffic;noun lesson_5
+MA1W_0817;tragen;to carry, to wear;verb lesson_5
+MA1W_0818;viel mehr;much more;adverb lesson_5
+MA1W_0819;vor (lokal);in front of (local);preposition lesson_5
+MA1W_0820;Warum?;Why?;adverb lesson_5
+MA1W_0821;weg;away, gone;adverb lesson_5
+MA1W_0822;Weg, der, -e;way, path;noun lesson_5
+MA1W_0823;wissen;to know;verb lesson_5
+MA1W_0824;zeigen;to show, to point;verb lesson_5
+MA1W_0825;Ziel, das, -e;destination, goal, aim;noun lesson_5
+MA1W_0826;zuerst;first;adverb lesson_5
+MA1W_0827;zuhören;to listen to;verb lesson_5
+MA1W_0828;zurück-;back (prefix);adverb prefix lesson_5
+MA1W_0829;zurückbringen;to bring back, to return;verb lesson_5
+MA1W_0830;zurückholen;to get back, to retrieve;verb lesson_5
+MA1W_0831;Bahnhof, der, :-e;train station;noun lesson_5
+MA1W_0832;Bank, die, -en;bank;noun lesson_5
+MA1W_0833;Bar, die, -s;bar;noun lesson_5
+MA1W_0834;Disco, die, -s;disco, club;noun lesson_5
+MA1W_0835;Fabrik, die, -en;factory;noun lesson_5
+MA1W_0836;Flughafen, der, :-;airport;noun lesson_5
+MA1W_0837;Geschäft, das, -e;shop, store, business;noun lesson_5
+MA1W_0838;Haltestelle, die, -n;stop, (bus) stop;noun lesson_5
+MA1W_0839;Kino, das, -s;cinema, movie theater;noun lesson_5
+MA1W_0840;Krankenhaus, das, :-er [A/CH] Spital, das, :-er;hospital;noun lesson_5
+MA1W_0841;Laptop, der, -s;laptop;noun lesson_5
+MA1W_0842;Park, der, -s;park;noun lesson_5
+MA1W_0843;Parkplatz, der, :-e;car park, parking space;noun lesson_5
+MA1W_0844;Schwimmbad, das, :-er;swimming pool;noun lesson_5
+MA1W_0845;Sportplatz, der, :-e;sports ground, sports field;noun lesson_5
+MA1W_0846;Blumengeschäft, das, -e;flower shop;noun lesson_5
+MA1W_0847;Bushaltestelle, die, -n;bus stop;noun lesson_5
+MA1W_0848;fremd;foreign, strange;adjective lesson_5
+MA1W_0849;Plan, der, :-e;plan, map;noun lesson_5
+MA1W_0850;Tennisplatz, der, :-e;tennis court;noun lesson_5
+MA1W_0851;Badewanne , die, -n;bathtub;noun lesson_5
+MA1W_0852;Badezimmer, das, -;bathroom;noun lesson_5
+MA1W_0853;Bett, das, -en;bed;noun lesson_5
+MA1W_0854;Dusche, die, -n;shower;noun lesson_5
+MA1W_0855;Flur, der, -e [A] Gang, der, :-e [CH] Korridor, der, -e;hall, hallway, corridor;noun lesson_5
+MA1W_0856;Herd, der, -e;stove, cooker;noun lesson_5
+MA1W_0857;Küche, die, -n;kitchen;noun lesson_5
+MA1W_0858;Regal, das, -e;shelf;noun lesson_5
+MA1W_0859;Schlafzimmer, das, -;bedroom;noun lesson_5
+MA1W_0860;Sessel, der, - [A/CH] Fauteuil, der/das, -s;armchair;noun lesson_5
+MA1W_0861;Sofa, das, -s;sofa;noun lesson_5
+MA1W_0862;Teppich, der, -e;carpet, rug;noun lesson_5
+MA1W_0863;Toilette (Einrichtung), die, -n;toilet (facility);noun lesson_5
+MA1W_0864;Waschbecken, das, -;washbasin, sink;noun lesson_5
+MA1W_0865;Waschmaschine, die, -n;washing machine;noun lesson_5
+MA1W_0866;Wohnzimmer, das, - [CH] Stube, die, -n;living room;noun lesson_5
+MA1W_0867;Zimmer, das, -;room;noun lesson_5
+MA1W_0868;an;on, at, to;preposition lesson_5
+MA1W_0869;Boden, der, :-;floor, ground;noun lesson_5
+MA1W_0870;Bücherregal, das ,-e;bookshelf;noun lesson_5
+MA1W_0871;Ecke, die, -n;corner;noun lesson_5
+MA1W_0872;hängen;to hang;verb lesson_5
+MA1W_0873;liegen;to lie, to be situated;verb lesson_5
+MA1W_0874;Tür, die ,-en;door;noun lesson_5
+MA1W_0875;über;above, over, about;preposition lesson_5
+MA1W_0876;unter;under, below, among;preposition lesson_5
+MA1W_0877;Wand, die, :-e;wall;noun lesson_5
+MA1W_0878;zwischen;between;preposition lesson_5
+MA1W_0879;Autoschlüssel, der, -;car key;noun lesson_5
+MA1W_0880;Brille, die, -n;glasses, spectacles;noun lesson_5
+MA1W_0881;Pass, der, :-e;passport;noun lesson_5
+MA1W_0882;Schlüssel, der, -;key;noun lesson_5
+MA1W_0883;Bahnhofstraße, die, -n;Station Street;noun lesson_5
+MA1W_0884;Brandenburger Tor, das, Sg.;Brandenburg Gate;noun lesson_5
+MA1W_0885;deutschsprachig;German-speaking;adjective lesson_5
+MA1W_0886;Dom, der, -e;cathedral;noun lesson_5
+MA1W_0887;Donau, die, Sg.;Danube (river);noun lesson_5
+MA1W_0888;Einwohner, der, -;inhabitant;noun lesson_5
+MA1W_0889;Fluss, der, :-e;river;noun lesson_5
+MA1W_0890;Insel, die, -n;island;noun lesson_5
+MA1W_0891;Museumsinsel, die, -n;Museum Island;noun lesson_5
+MA1W_0892;Rathaus, das, :-er;town hall, city hall;noun lesson_5
+MA1W_0893;Schloss Schönbrunn, das, Sg.;Schönbrunn Palace;noun lesson_5
+MA1W_0894;See, der, -n;lake;noun lesson_5
+MA1W_0895;Sehenswürdigkeit, die, -en;sight, tourist attraction;noun lesson_5
+MA1W_0896;Spree, die, Sg.;Spree (river);noun lesson_5
+MA1W_0897;Stephansdom, der, Sg.;St. Stephen's Cathedral;noun lesson_5
+MA1W_0898;Zürichsee, der, Sg.;Lake Zurich;noun lesson_5
+MA1W_0899;Altstadt, die, :-e;old town, historic center;noun lesson_5
+MA1W_0900;Balkon, der, -e;balcony;noun lesson_5
+MA1W_0901;besonders;especially, particularly;adverb lesson_5
+MA1W_0902;Brücke, die, -n;bridge;noun lesson_5
+MA1W_0903;denken;to think;verb lesson_5
+MA1W_0904;direkt;direct, directly;adjective adverb lesson_5
+MA1W_0905;Fußballteam, das, -s;football team, soccer team;noun lesson_5
+MA1W_0906;Großstadt, die, :-e;large city, metropolis;noun lesson_5
+MA1W_0907;Gruß, der, :-e;greeting;noun lesson_5
+MA1W_0908;Heidelberg;Heidelberg (city);noun lesson_5
+MA1W_0909;Kaufhaus, das, :-er [CH] Warenhaus, das, :-er;department store;noun lesson_5
+MA1W_0910;lieb-;dear, beloved (prefix);adjective prefix lesson_5
+MA1W_0911;Liebe Grüße;kind regards, best wishes;noun lesson_5
+MA1W_0912;liegt direkt am Neckar;is located directly on the Neckar (river);verb lesson_5
+MA1W_0913;Möbel, das, -;furniture;noun lesson_5
+MA1W_0914;Neckar, der, Sg.;Neckar (river);noun lesson_5
+MA1W_0915;Shoppingtour, die, -en;shopping trip;noun lesson_5
+MA1W_0916;Zentrum, das, Zentren;center, centre;noun lesson_5
+MA1W_0917;Banktermin, der, -e;bank appointment;noun lesson_5
+MA1W_0918;Bibliothek, die, -en;library;noun lesson_5
+MA1W_0919;Einkauf, der, :-e;purchase, shopping;noun lesson_5
+MA1W_0920;essen gehen;to go out to eat;verb lesson_5
+MA1W_0921;fein;fine, great, delicious;adjective lesson_5
+MA1W_0922;Liedtext, der, -e;song lyrics;noun lesson_5
+MA1W_0923;nachts;at night;adverb lesson_5
+MA1W_0924;Sänger, der, -;singer (male);noun lesson_5
+MA1W_0925;so sehr;so much;adverb lesson_5
+MA1W_0926;Theater, das, -;theater;noun lesson_5
+MA1W_0927;U-Bahn, die, -en;underground, subway;noun lesson_5
+MA1W_0928;ander-;other, different;pronoun adjective lesson_6
+MA1W_0929;Fundbüro, das, -s;lost property office, lost and found;noun lesson_6
+MA1W_0930;kaputt;broken, out of order;adjective lesson_6
+MA1W_0931;Kursleiter, der, -;course instructor, tutor (male);noun lesson_6
+MA1W_0932;Lektion, die, -en;lesson;noun lesson_6
+MA1W_0933;Mechaniker, der, -;mechanic (male);noun lesson_6
+MA1W_0934;überall;everywhere;adverb lesson_6
+MA1W_0935;Doktor / Dr., der, -en;doctor;noun lesson_6
+MA1W_0936;es tut mir leid;I am sorry;verb lesson_6
+MA1W_0937;Fieber, das, -;fever;noun lesson_6
+MA1W_0938;geehrt;সম্মানিত, esteemed;adjective lesson_6
+MA1W_0939;Grad, der, -e;degree;noun lesson_6
+MA1W_0940;Kollege, der, -n;colleague (male);noun lesson_6
+MA1W_0941;Kollegin, die, -nen;colleague (female);noun lesson_6
+MA1W_0942;krank;sick, ill;adjective lesson_6
+MA1W_0943;Liebe Grüße an Walter;kind regards to Walter;noun lesson_6
+MA1W_0944;mit freundlichen Grüßen;yours sincerely, kind/best regards;noun lesson_6
+MA1W_0945;Schmerzen, der, -en;pain, ache;noun lesson_6
+MA1W_0946;sehr geehrter Herr;dear Mr.;noun lesson_6
+MA1W_0947;Terminprobleme, Pl.;appointment problems, scheduling problems;noun lesson_6
+MA1W_0948;übernehmen;to take over, to take on;verb lesson_6
+MA1W_0949;Zahn, der, :-e;tooth;noun lesson_6
+MA1W_0950;Zahnarzt, der, :-e;dentist (male);noun lesson_6
+MA1W_0951;Zahnarzttermin, der, -e;dentist appointment;noun lesson_6
+MA1W_0952;Zahnschmerzen, Pl.;toothache;noun lesson_6
+MA1W_0953;Achtung, die, Sg.;attention, caution;noun lesson_6
+MA1W_0954;April, der;April;noun lesson_6
+MA1W_0955;August, der;August;noun lesson_6
+MA1W_0956;Dezember, der;December;noun lesson_6
+MA1W_0957;Februar, der [A] Feber, der;February;noun lesson_6
+MA1W_0958;Januar, der [A] Jänner, der;January;noun lesson_6
+MA1W_0959;Juli, der;July;noun lesson_6
+MA1W_0960;Juni, der;June;noun lesson_6
+MA1W_0961;Kontrolltermin, der, -e;check-up appointment;noun lesson_6
+MA1W_0962;Mai, der;May;noun lesson_6
+MA1W_0963;März, der;March;noun lesson_6
+MA1W_0964;Monat, der, -e;month;noun lesson_6
+MA1W_0965;November;November;noun lesson_6
+MA1W_0966;Oktober, der;October;noun lesson_6
+MA1W_0967;Praxis, die, Praxen [A] Ordination, die, -en;doctor's practice, doctor's surgery;noun lesson_6
+MA1W_0968;September, der;September;noun lesson_6
+MA1W_0969;Zeit haben;to have time;verb lesson_6
+MA1W_0970;früher;earlier;adverb adjective lesson_6
+MA1W_0971;Gespräch, das, -e;conversation, talk;noun lesson_6
+MA1W_0972;später;later;adverb adjective lesson_6
+MA1W_0973;wiederholen;to repeat;verb lesson_6
+MA1W_0974;besser;better;adjective adverb lesson_6
+MA1W_0975;Besserung, die, -en;improvement, recovery;noun lesson_6
+MA1W_0976;einig-;some, a few (prefix);pronoun prefix lesson_6
+MA1W_0977;Gute Besserung;Get well soon;noun lesson_6
+MA1W_0978;hoffentlich;hopefully;adverb lesson_6
+MA1W_0979;natürlich;naturally, of course;adverb adjective lesson_6
+MA1W_0980;unbedingt;absolutely, definitely;adverb adjective lesson_6
+MA1W_0981;anmachen;to turn on, to switch on, to light;verb lesson_6
+MA1W_0982;baden;to bathe, to take a bath;verb lesson_6
+MA1W_0983;Bier, das ,-e;beer;noun lesson_6
+MA1W_0984;Flasche, die, -n;bottle;noun lesson_6
+MA1W_0985;gesund;healthy;adjective lesson_6
+MA1W_0986;Gesundheit, die, Sg.;health;noun lesson_6
+MA1W_0987;lachen;to laugh;verb lesson_6
+MA1W_0988;schlafen;to sleep;verb lesson_6
+MA1W_0989;Vorschlag, der, :-e;suggestion, proposal;noun lesson_6
+MA1W_0990;Wein, der, -e;wine;noun lesson_6
+MA1W_0991;Auge, das, -n;eye;noun lesson_6
+MA1W_0992;Bauch, der, :-e;stomach, belly;noun lesson_6
+MA1W_0993;Bein, das, -e;leg;noun lesson_6
+MA1W_0994;Blumenmotiv, das, -e;flower design, floral design;noun lesson_6
+MA1W_0995;Brust, die, :-e;chest, breast;noun lesson_6
+MA1W_0996;Clown, der, -s;clown;noun lesson_6
+MA1W_0997;Clowntattoo, das, -s;clown tattoo;noun lesson_6
+MA1W_0998;das ganze Leben lang;for one's whole life;noun lesson_6
+MA1W_0999;Deutsche / r, die / der, -n;German (person);noun lesson_6
+MA1W_1000;entfernen;to remove;verb lesson_6
+MA1W_1001;Europa;Europe;noun lesson_6
+MA1W_1002;Finger, der, -;finger;noun lesson_6
+MA1W_1003;Fuß, der, :-e;foot;noun lesson_6
+MA1W_1004;Gesicht, das, -er;face;noun lesson_6
+MA1W_1005;Hals, der, :-e;neck, throat;noun lesson_6
+MA1W_1006;Hand, die, :-e;hand;noun lesson_6
+MA1W_1007;helfen;to help;verb lesson_6
+MA1W_1008;in (modern);in (fashionable, trendy);preposition lesson_6
+MA1W_1009;jeder;each, every, everyone;pronoun adjective lesson_6
+MA1W_1010;Kopf, der, :-e;head;noun lesson_6
+MA1W_1011;Körper, der, -;body;noun lesson_6
+MA1W_1012;Körperteil, der, -e;body part;noun lesson_6
+MA1W_1013;Kunde, der, -n;customer, client (male);noun lesson_6
+MA1W_1014;modern;modern, fashionable;adjective lesson_6
+MA1W_1015;Motiv, das, -e;motif, design, pattern;noun lesson_6
+MA1W_1016;Mund, der, :-er;mouth;noun lesson_6
+MA1W_1017;Nase, die, -n;nose;noun lesson_6
+MA1W_1018;Neunzigerjahre (90ger-Jahre), Pl.;the nineties (90s);noun lesson_6
+MA1W_1019;Ohr, das, -en;ear;noun lesson_6
+MA1W_1020;Rücken, der, -;back;noun lesson_6
+MA1W_1021;Sein Leben lang;his whole life;pronoun noun lesson_6
+MA1W_1022;seit;since, for;preposition conjunction lesson_6
+MA1W_1023;Tattoo, das, -s;tattoo;noun lesson_6
+MA1W_1024;Tattookunde, der, -n;tattoo customer (male);noun lesson_6
+MA1W_1025;Teil, das, -e;part, section;noun lesson_6
+MA1W_1026;Tier, das, -e;animal;noun lesson_6
+MA1W_1027;Tiermotiv, das, -e;animal motif, animal design;noun lesson_6
+MA1W_1028;verschieden;different, various;adjective lesson_6
+MA1W_1029;wegmachen;to remove, to take away;verb lesson_6
+MA1W_1030;weiß;white;adjective lesson_6
+MA1W_1031;Zeh, der, -en;toe;noun lesson_6
+MA1W_1032;Chef, der, -s;boss, chief (male);noun lesson_6
+MA1W_1033;deshalb;therefore, that's why;adverb lesson_6
+MA1W_1034;Frühjahr, das, -e;spring (season);noun lesson_6
+MA1W_1035;Frühling, der, -e;spring (season);noun lesson_6
+MA1W_1036;Herbst, der, -e;autumn, fall;noun lesson_6
+MA1W_1037;kalt;cold;adjective lesson_6
+MA1W_1038;Kleidung, die, -en;clothing, clothes;noun lesson_6
+MA1W_1039;Sommer, der, -;summer;noun lesson_6
+MA1W_1040;übrigens;by the way, incidentally;adverb lesson_6
+MA1W_1041;Winter, der, -;winter;noun lesson_6
+MA1W_1042;anonym;anonymous;adjective lesson_6
+MA1W_1043;Arztbesuch, der, -e;doctor's visit;noun lesson_6
+MA1W_1044;beide;both;pronoun adjective lesson_6
+MA1W_1045;bunt;colorful, brightly colored;adjective lesson_6
+MA1W_1046;Ex-Freund, der, -e;ex-boyfriend;noun lesson_6
+MA1W_1047;Ex-Freundin, die, -nen;ex-girlfriend;noun lesson_6
+MA1W_1048;Farbe, die, -n;color;noun lesson_6
+MA1W_1049;Lasergerät, das, -e;laser device;noun lesson_6
+MA1W_1050;lasern;to treat with laser, to lase;verb lesson_6
+MA1W_1051;Lasern, das, Sg.;laser treatment;noun lesson_6
+MA1W_1052;schmerzhaft;painful;adjective lesson_6
+MA1W_1053;Tipp, der, -s;tip, hint;noun lesson_6
+MA1W_1054;beige;beige;adjective lesson_6
+MA1W_1055;blau;blue;adjective lesson_6
+MA1W_1056;braun;brown;adjective lesson_6
+MA1W_1057;Feld, das, -er;field;noun lesson_6
+MA1W_1058;gelb;yellow;adjective lesson_6
+MA1W_1059;grau;grey, gray;adjective lesson_6
+MA1W_1060;lila;purple, lilac;adjective lesson_6
+MA1W_1061;Logische Reihe, die, -n;logical sequence;noun lesson_6
+MA1W_1062;orange;orange;adjective lesson_6
+MA1W_1063;Reihe, die, -n;row, series, sequence;noun lesson_6
+MA1W_1064;rosa;pink;adjective lesson_6
+MA1W_1065;schwarz;black;adjective lesson_6
+MA1W_1066;violett;violet;adjective lesson_6
+MA1W_1067;Ausweis, der, -e;ID, identification card;noun lesson_6
+MA1W_1068;Brieftasche, die, -n;wallet;noun lesson_6
+MA1W_1069;Fahrradkurier, der, -e;bike messenger, cycle courier;noun lesson_6
+MA1W_1070;Kreditkarte, die, -n;credit card;noun lesson_6
+MA1W_1071;langsam;slow, slowly;adjective adverb lesson_6
+MA1W_1072;o. k. / O. K.;OK;interjection lesson_6
+MA1W_1073;denn [Partikel];then, in that case [particle];particle lesson_6
+MA1W_1074;gestern;yesterday;adverb lesson_6
+MA1W_1075;Tasche, die, -n;bag, pocket;noun lesson_6
+MA1W_1076;Badesachen, Pl.;swimwear, bathing things;noun lesson_6
+MA1W_1077;bitter;bitter;adjective lesson_6
+MA1W_1078;Brief, der, -e;letter;noun lesson_6
+MA1W_1079;Einladung, die, -en;invitation;noun lesson_6
+MA1W_1080;Fahrkarte, die, -n [A] Fahrschein, der, -e [CH] Billett, das, -e;ticket (for travel);noun lesson_6
+MA1W_1081;fertig;finished, ready;adjective lesson_6
+MA1W_1082;Fest, das, -e;celebration, party, festival;noun lesson_6
+MA1W_1083;Geburtstagsparty, die, -s;birthday party;noun lesson_6
+MA1W_1084;Geschenk, das, -e;gift, present;noun lesson_6
+MA1W_1085;Kaffeemaschine, die, -n;coffee machine;noun lesson_6
+MA1W_1086;Kontrolleur, der, -e;inspector, ticket inspector (male);noun lesson_6
+MA1W_1087;schlimm;bad, serious, severe;adjective lesson_6
+MA1W_1088;Zucker, der, Sg.;sugar;noun lesson_6
+MA1W_1089;Afrika;Africa;noun lesson_7
+MA1W_1090;Amerika;America;noun lesson_7
+MA1W_1091;Asien;Asia;noun lesson_7
+MA1W_1092;Australien;Australia;noun lesson_7
+MA1W_1093;beruflich;professional, work-related, professionally;adjective adverb lesson_7
+MA1W_1094;Flug, der, :-e;flight;noun lesson_7
+MA1W_1095;Kaufmann, der, :-er, Kauffrau, die, -en, Kaufleute, Pl.;businessman, businesswoman, salesclerk;noun lesson_7
+MA1W_1096;Kutschenfahrt, die, -en;carriage ride;noun lesson_7
+MA1W_1097;Lust, die (Sg.);desire, inclination;noun lesson_7
+MA1W_1098;Nord-;north (prefix);noun prefix lesson_7
+MA1W_1099;Nordamerika, das, Sg.;North America;noun lesson_7
+MA1W_1100;Panoramazug, der, :-e;panoramic train;noun lesson_7
+MA1W_1101;privat;private, personal;adjective lesson_7
+MA1W_1102;Reise, die, -n;journey, trip, travel;noun lesson_7
+MA1W_1103;Reiselust, die, :-e;desire to travel, wanderlust;noun lesson_7
+MA1W_1104;Schiffsreise, die, -n;sea voyage, cruise;noun lesson_7
+MA1W_1105;Süd-;south (prefix);noun prefix lesson_7
+MA1W_1106;Südamerika, das, Sg.;South America;noun lesson_7
+MA1W_1107;Verwandte, der / die, -n;relative (male / female);noun lesson_7
+MA1W_1108;wohin;where to;adverb lesson_7
+MA1W_1109;Zugfahrt, die, -en;train journey;noun lesson_7
+MA1W_1110;abholen;to pick up, to collect;verb lesson_7
+MA1W_1111;auspacken;to unpack;verb lesson_7
+MA1W_1112;Autobahn, die, -en;motorway, highway, freeway;noun lesson_7
+MA1W_1113;Bahnfahrt, die, -en;train journey;noun lesson_7
+MA1W_1114;Bahnsteig, der, -e [CH] Perron, das, -s;platform (train);noun lesson_7
+MA1W_1115;buchen;to book, to reserve;verb lesson_7
+MA1W_1116;campen [CH] campieren;to camp;verb lesson_7
+MA1W_1117;Campingplatz, der, :-e [A] Zeltplatz, der, :-e;campsite;noun lesson_7
+MA1W_1118;Crowdfunding, das, Sg.;crowdfunding;noun lesson_7
+MA1W_1119;drucken;to print;verb lesson_7
+MA1W_1120;durch;through, by;preposition lesson_7
+MA1W_1121;eigen-;own (prefix);adjective prefix lesson_7
+MA1W_1122;einchecken;to check in;verb lesson_7
+MA1W_1123;einpacken;to pack;verb lesson_7
+MA1W_1124;einsteigen;to board, to get on;verb lesson_7
+MA1W_1125;endlich;finally, at last;adverb lesson_7
+MA1W_1126;Es geht los;Here we go, It's starting;verb lesson_7
+MA1W_1127;Flugreise, die, -n;air journey, flight trip;noun lesson_7
+MA1W_1128;Flugticket, das, -s;flight ticket;noun lesson_7
+MA1W_1129;Flugzeug, das, -e;airplane;noun lesson_7
+MA1W_1130;fühlen;to feel;verb lesson_7
+MA1W_1131;Gate, das, -s;gate;noun lesson_7
+MA1W_1132;Gepäck, das, Sg.;luggage, baggage;noun lesson_7
+MA1W_1133;Gleis, das, -e;track, platform;noun lesson_7
+MA1W_1134;günstig;reasonable, inexpensive, favorable;adjective lesson_7
+MA1W_1135;Informatiker, der, -;computer scientist (male);noun lesson_7
+MA1W_1136;Island, das, Sg.;Iceland;noun lesson_7
+MA1W_1137;Islandfotos, Pl.;Iceland photos;noun lesson_7
+MA1W_1138;Jugendherberge, die, -n;youth hostel;noun lesson_7
+MA1W_1139;Koffer, der, -;suitcase;noun lesson_7
+MA1W_1140;lieber;rather, preferably;adverb lesson_7
+MA1W_1141;München;Munich;noun lesson_7
+MA1W_1142;nächst-;next;adjective lesson_7
+MA1W_1143;Projekt, das, -e;project;noun lesson_7
+MA1W_1144;Reisen, das, Sg.;traveling, travel;noun lesson_7
+MA1W_1145;S-Bahn, die, -en;suburban train, commuter train;noun lesson_7
+MA1W_1146;Schlafsack, der, :-e;sleeping bag;noun lesson_7
+MA1W_1147;Sicherheitskontrolle, die, -n;security check;noun lesson_7
+MA1W_1148;spenden;to donate;verb lesson_7
+MA1W_1149;Straßenbahn, die, -en [CH] Tram, das, -s;tram, streetcar;noun lesson_7
+MA1W_1150;Stress pur;pure stress;noun lesson_7
+MA1W_1151;Stress, der (Sg.);stress;noun lesson_7
+MA1W_1152;stressig;stressful;adjective lesson_7
+MA1W_1153;Ticket, das, -s;ticket;noun lesson_7
+MA1W_1154;überhaupt;at all, generally;adverb lesson_7
+MA1W_1155;überhaupt nicht;not at all;adverb lesson_7
+MA1W_1156;übernachten;to stay overnight;verb lesson_7
+MA1W_1157;von … zu …;from … to …;preposition lesson_7
+MA1W_1158;vorstellen;to introduce, to imagine;verb lesson_7
+MA1W_1159;weg von zu Hause;away from home;adverb lesson_7
+MA1W_1160;wegbringen;to take away;verb lesson_7
+MA1W_1161;Zelt, das, -e;tent;noun lesson_7
+MA1W_1162;Zoll, der, :-e;customs, duty;noun lesson_7
+MA1W_1163;zu (lokal);to (local), towards;preposition lesson_7
+MA1W_1164;zu Fuß gehen;to go on foot, to walk;verb lesson_7
+MA1W_1165;Zug, der, :-e;train;noun lesson_7
+MA1W_1166;Zugticket, das, -s;train ticket;noun lesson_7
+MA1W_1167;Badehose, die, -n;swimming trunks;noun lesson_7
+MA1W_1168;bei;at, with, near, by;preposition lesson_7
+MA1W_1169;Medikament, das, -e;medicine, medication;noun lesson_7
+MA1W_1170;Meter, der, -;meter;noun lesson_7
+MA1W_1171;Minute, die, -n;minute;noun lesson_7
+MA1W_1172;Reisebüro, das, -s;travel agency;noun lesson_7
+MA1W_1173;Reiseroute, die, -n;itinerary;noun lesson_7
+MA1W_1174;sofort;immediately, at once;adverb lesson_7
+MA1W_1175;Sportgeschäft, das, -e;sports shop;noun lesson_7
+MA1W_1176;Viertelstunde, die, -n;quarter of an hour;noun lesson_7
+MA1W_1177;weit (Entfernung);far (distance);adjective lesson_7
+MA1W_1178;Wie lang …?;How long …?;adverb lesson_7
+MA1W_1179;Wie weit ist es …?;How far is it …?;adverb lesson_7
+MA1W_1180;zurückgeben;to give back, to return;verb lesson_7
+MA1W_1181;Atlanta;Atlanta;noun lesson_7
+MA1W_1182;fliegen;to fly;verb lesson_7
+MA1W_1183;Inland, das, Sg.;inland, interior of a country;noun lesson_7
+MA1W_1184;Norden, der, Sg.;north;noun lesson_7
+MA1W_1185;Osten, der, Sg.;east;noun lesson_7
+MA1W_1186;planen;to plan;verb lesson_7
+MA1W_1187;Route, die, -n;route;noun lesson_7
+MA1W_1188;Süden, der, Sg.;south;noun lesson_7
+MA1W_1189;Westen, der, Sg.;west;noun lesson_7
+MA1W_1190;zurück;back;adverb lesson_7
+MA1W_1191;Anruf, der, -e;call, phone call;noun lesson_7
+MA1W_1192;Anrufbeantworter, der, -;answering machine;noun lesson_7
+MA1W_1193;Appartement, das, -s;apartment;noun lesson_7
+MA1W_1194;Auf Wiederhören;goodbye (on the phone);verb noun lesson_7
+MA1W_1195;Bad, das, :-er [CH] Badzimmer, das, -;bath, bathroom;noun lesson_7
+MA1W_1196;bar;cash;adjective lesson_7
+MA1W_1197;Doppelzimmer, das, -;double room;noun lesson_7
+MA1W_1198;Einzel-;single, individual (prefix);adjective prefix lesson_7
+MA1W_1199;Einzelzimmer, das, -;single room;noun lesson_7
+MA1W_1200;Fehler, der, -;mistake, error;noun lesson_7
+MA1W_1201;Firmentreffen, das, -;company meeting;noun lesson_7
+MA1W_1202;Gast, der, :-e;guest;noun lesson_7
+MA1W_1203;Halbpension, die, -en;half board;noun lesson_7
+MA1W_1204;Karte, die, -n;card, map;noun lesson_7
+MA1W_1205;Konto, das, Konten;account;noun lesson_7
+MA1W_1206;Nachricht, die, -en;message, news;noun lesson_7
+MA1W_1207;Rechnung, die, -en;bill, invoice;noun lesson_7
+MA1W_1208;reservieren;to reserve, to book;verb lesson_7
+MA1W_1209;reserviert;reserved, booked;adjective verb lesson_7
+MA1W_1210;ruhig;quiet, calm;adjective lesson_7
+MA1W_1211;schicken;to send;verb lesson_7
+MA1W_1212;Stock, der (Sg.);floor, story (of a building);noun lesson_7
+MA1W_1213;überweisen;to transfer (money);verb lesson_7
+MA1W_1214;Vollpension, die, -en;full board;noun lesson_7
+MA1W_1215;Was für …;What kind of …;pronoun lesson_7
+MA1W_1216;Was für ein …;What kind of a …;pronoun lesson_7
+MA1W_1217;Wiederhören, das, Sg.;hearing again;noun lesson_7
+MA1W_1218;denn [Partikel];then [particle];particle lesson_7
+MA1W_1219;organisieren;to organize;verb lesson_7
+MA1W_1220;werden;to become, to get, will (future tense auxiliary);verb lesson_7
+MA1W_1221;Wetter, das, Sg.;weather;noun lesson_7
+MA1W_1222;abfahren;to depart, to leave;verb lesson_7
+MA1W_1223;Abfahrt, die, -en;departure;noun lesson_7
+MA1W_1224;abfliegen;to depart by plane, to take off;verb lesson_7
+MA1W_1225;Abflug, der, :-e;departure (by plane), take-off;noun lesson_7
+MA1W_1226;Angebot, das, -e;offer, special offer, deal;noun lesson_7
+MA1W_1227;Ankunft, die, :-e;arrival;noun lesson_7
+MA1W_1228;Bahn, die, -en;railway, train;noun lesson_7
+MA1W_1229;Datum, das, Daten;date;noun lesson_7
+MA1W_1230;Dauer, die, Sg.;duration;noun lesson_7
+MA1W_1231;dauern;to last, to take (time);verb lesson_7
+MA1W_1232;Fahrzeit, die, -en;travel time, journey time;noun lesson_7
+MA1W_1233;Flugverbindung, die, -en;flight connection;noun lesson_7
+MA1W_1234;Hauptbahnhof (Hbf), der, :-e;main train station;noun lesson_7
+MA1W_1235;Hinfahrt, die, -en;outward journey;noun lesson_7
+MA1W_1236;leicht;easy, light;adjective lesson_7
+MA1W_1237;Regen, der, Sg.;rain;noun lesson_7
+MA1W_1238;regnen;to rain;verb lesson_7
+MA1W_1239;Rückfahrt, die, -en;return journey;noun lesson_7
+MA1W_1240;Schalter, der, -;counter, desk, switch;noun lesson_7
+MA1W_1241;scheinen;to shine, to seem, to appear;verb lesson_7
+MA1W_1242;Sparangebot, das, -e;special offer, reduced offer;noun lesson_7
+MA1W_1243;stark;strong, heavy;adjective lesson_7
+MA1W_1244;Verbindung, die, -en;connection;noun lesson_7
+MA1W_1245;warm;warm;adjective lesson_7
+MA1W_1246;Wind, der, -e;wind;noun lesson_7
+MA1W_1247;windig;windy;adjective lesson_7
+MA1W_1248;Zugverbindung, die, -en;train connection;noun lesson_7
+MA1W_1249;Aktivität, die, -en;activity;noun lesson_7
+MA1W_1250;Ausgang, der, :-e;exit;noun lesson_7
+MA1W_1251;Autostraße, die, -n;highway, main road;noun lesson_7
+MA1W_1252;besichtigen;to visit, to view, to look at;verb lesson_7
+MA1W_1253;Cinderella Castle, das, Sg.;Cinderella Castle;noun lesson_7
+MA1W_1254;Codex Abrogans, der, Sg.;Codex Abrogans;noun lesson_7
+MA1W_1255;Disney Land, das, Sg.;Disney Land;noun lesson_7
+MA1W_1256;draußen;outside, outdoors;adverb lesson_7
+MA1W_1257;Ehefrau, die, -en;wife;noun lesson_7
+MA1W_1258;Ehemann, der, :-er;husband;noun lesson_7
+MA1W_1259;Eiffelturm, der, Sg.;Eiffel Tower;noun lesson_7
+MA1W_1260;eigentlich;actually, really, in fact;adverb adjective lesson_7
+MA1W_1261;eineinhalb;one and a half;numeral lesson_7
+MA1W_1262;Eingang, der, :-e;entrance;noun lesson_7
+MA1W_1263;Führung, die, -en;guided tour, tour;noun lesson_7
+MA1W_1264;genug von;enough of;pronoun adjective lesson_7
+MA1W_1265;Großglockner, der, Sg.;Grossglockner (mountain);noun lesson_7
+MA1W_1266;Großglockner-Hochalpenstraße, die, Sg.;Grossglockner High Alpine Road;noun lesson_7
+MA1W_1267;hoch;high, tall;adjective lesson_7
+MA1W_1268;Japan;Japan;noun lesson_7
+MA1W_1269;kaputt [sehr müde];exhausted, beat [very tired];adjective lesson_7
+MA1W_1270;Kasse, die, -n [A] Kassa, die, Kassen;cash desk, checkout, till;noun lesson_7
+MA1W_1271;Kölner Dom, der, Sg.;Cologne Cathedral;noun lesson_7
+MA1W_1272;Leute, Pl.;people;noun lesson_7
+MA1W_1273;Mal, das, -e;time, occasion;noun lesson_7
+MA1W_1274;mitkommen;to come along;verb lesson_7
+MA1W_1275;oben;above, up there, upstairs;adverb lesson_7
+MA1W_1276;Ort, der, -e;place, town, location;noun lesson_7
+MA1W_1277;Ostschweiz, die, Sg.;Eastern Switzerland;noun lesson_7
+MA1W_1278;plötzlich;suddenly, all of a sudden;adverb lesson_7
+MA1W_1279;Rad fahren [CH] Velo fahren;to ride a bike;verb lesson_7
+MA1W_1280;Schloss Neuschwanstein, das, Sg.;Neuschwanstein Castle;noun lesson_7
+MA1W_1281;Schloss, das, :-er;castle, palace;noun lesson_7
+MA1W_1282;Sphinx, die, Sg.;Sphinx;noun lesson_7
+MA1W_1283;St. Gallen;St. Gallen (city);noun lesson_7
+MA1W_1284;Stiftsbibliothek, die, -en;Abbey Library;noun lesson_7
+MA1W_1285;Taj Mahal, das, Sg.;Taj Mahal;noun lesson_7
+MA1W_1286;Vorbild, das, -er;role model, example;noun lesson_7
+MA1W_1287;Walt Disney;Walt Disney;noun lesson_7
+MA1W_1288;zum ersten Mal;for the first time;adverb lesson_7
+MA1W_1289;bekannt;well-known, famous;adjective lesson_7
+MA1W_1290;Museumskasse, die, -n;museum ticket office;noun lesson_7
+MA1W_1291;Schnecke, die, -n;snail;noun lesson_7
+MA1W_1292;Absender, der, -;sender;noun lesson_7
+MA1W_1293;Adresse, die, -n;address;noun lesson_7
+MA1W_1294;Ansichtskarte, die, -n;picture postcard;noun lesson_7
+MA1W_1295;Blick, der, -e;view, look;noun lesson_7
+MA1W_1296;Empfänger, der, -;recipient, addressee;noun lesson_7
+MA1W_1297;Fahrt, die, -en;journey, ride, drive;noun lesson_7
+MA1W_1298;Heimat, die, -en;home, homeland;noun lesson_7
+MA1W_1299;Heimatland, das, :-er;home country, native country;noun lesson_7
+MA1W_1300;Meerblick, der, -e;sea view;noun lesson_7
+MA1W_1301;Postleitzahl, die, -en;postcode, postal code, zip code;noun lesson_7
+MA1W_1302;sauber;clean;adjective lesson_7
+MA1W_1303;schmutzig;dirty;adjective lesson_7
+MA1W_1304;erzählen;to tell, to narrate;verb lesson_8
+MA1W_1305;Krimi, der, -s;detective story, crime novel, thriller;noun lesson_8
+MA1W_1306;Kunst, die, :-e;art;noun lesson_8
+MA1W_1307;Mode, die, -n;fashion;noun lesson_8
+MA1W_1308;Politik, die, -en;politics;noun lesson_8
+MA1W_1309;Psychologie, die, -n;psychology;noun lesson_8
+MA1W_1310;also;so, therefore, thus;adverb conjunction lesson_8
+MA1W_1311;anders;different, differently;adjective adverb lesson_8
+MA1W_1312;arbeitslos;unemployed, jobless;adjective lesson_8
+MA1W_1313;Arbeitsplatz, der, :-e;workplace, job;noun lesson_8
+MA1W_1314;bis;until, till, to, up to;preposition conjunction lesson_8
+MA1W_1315;Diskussion, die, -en;discussion;noun lesson_8
+MA1W_1316;ein paar;a few, a couple of;pronoun lesson_8
+MA1W_1317;erlauben;to allow, to permit;verb lesson_8
+MA1W_1318;fernsehen;to watch TV;verb lesson_8
+MA1W_1319;Forum, das, Foren;forum;noun lesson_8
+MA1W_1320;Information, die, -en;information;noun lesson_8
+MA1W_1321;Internetforum, das, -foren;internet forum;noun lesson_8
+MA1W_1322;Meinung, die, -en;opinion;noun lesson_8
+MA1W_1323;Pause, die, -n;break, pause;noun lesson_8
+MA1W_1324;persönlich;personal, personally;adjective adverb lesson_8
+MA1W_1325;recht haben;to be right;verb lesson_8
+MA1W_1326;Regel, die, -n;rule;noun lesson_8
+MA1W_1327;verboten (sein);forbidden, prohibited (to be);adjective verb lesson_8
+MA1W_1328;Zeitung, die, -en;newspaper;noun lesson_8
+MA1W_1329;Zeitunglesen, das, Sg.;newspaper reading;noun lesson_8
+MA1W_1330;bei Rot;at a red light;preposition lesson_8
+MA1W_1331;erlaubt;allowed, permitted;adjective verb lesson_8
+MA1W_1332;Erwachsene, der / die, -n;adult;noun lesson_8
+MA1W_1333;Glück haben;to be lucky;verb lesson_8
+MA1W_1334;Glück, das, -e;luck, good fortune;noun lesson_8
+MA1W_1335;Kreuzung, die, -en;intersection, crossroads;noun lesson_8
+MA1W_1336;Mitternacht, die, :-e;midnight;noun lesson_8
+MA1W_1337;schon einmal;once before;adverb lesson_8
+MA1W_1338;Verbot, das, -e;prohibition, ban;noun lesson_8
+MA1W_1339;Vermieter, der, -;landlord, lessor (male);noun lesson_8
+MA1W_1340;jed-;each, every (prefix);pronoun prefix lesson_8
+MA1W_1341;letzt-;last, final (prefix);adjective prefix lesson_8
+MA1W_1342;Prozent, das, -e;percent;noun lesson_8
+MA1W_1343;Fasching [CH] Fasnacht, die (Sg.);carnival;noun lesson_8
+MA1W_1344;Feier-;celebration (prefix);noun prefix lesson_8
+MA1W_1345;Geburtstagsgeschenk, das, -e;birthday present;noun lesson_8
+MA1W_1346;gefallen;to please, to be liked;verb lesson_8
+MA1W_1347;gehören;to belong to;verb lesson_8
+MA1W_1348;Hut, der, :-e;hat;noun lesson_8
+MA1W_1349;Karneval, der, Sg.;carnival;noun lesson_8
+MA1W_1350;Karnevalskostüm, das, -e;carnival costume;noun lesson_8
+MA1W_1351;Kleider, Pl.;clothes, dresses;noun lesson_8
+MA1W_1352;Lederhose, die, -n;lederhosen (leather trousers);noun lesson_8
+MA1W_1353;Neujahr, das, -e;New Year;noun lesson_8
+MA1W_1354;Ostern, das, -;Easter;noun lesson_8
+MA1W_1355;Silvester, das / der, -;New Year's Eve;noun lesson_8
+MA1W_1356;Sonderangebot, das, -e;special offer, sale item;noun lesson_8
+MA1W_1357;Weihnachten, das, -;Christmas;noun lesson_8
+MA1W_1358;Absatzschuhe, Pl.;high heels, high-heeled shoes;noun lesson_8
+MA1W_1359;Hemd, das, -en;shirt;noun lesson_8
+MA1W_1360;Jacke, die, -n;jacket;noun lesson_8
+MA1W_1361;Jeans, die, -;jeans;noun lesson_8
+MA1W_1362;Kleid, das, -er;dress;noun lesson_8
+MA1W_1363;kurz;short;adjective lesson_8
+MA1W_1364;Mantel, der, :-;coat;noun lesson_8
+MA1W_1365;Partykleid, das, -er;party dress;noun lesson_8
+MA1W_1366;Pullover, der, -;sweater, pullover;noun lesson_8
+MA1W_1367;Schuh, der, -e;shoe;noun lesson_8
+MA1W_1368;Sommerhose, die, -n;summer trousers, summer pants;noun lesson_8
+MA1W_1369;Sportschuhe, Pl.;sports shoes, trainers;noun lesson_8
+MA1W_1370;T-Shirt, das, -s;T-shirt;noun lesson_8
+MA1W_1371;Ende, das, -n;end;noun lesson_8
+MA1W_1372;Hobby, das, -s;hobby;noun lesson_8
+MA1W_1373;Kurzporträt, das, -s;short portrait, profile;noun lesson_8
+MA1W_1374;Liebesfilm, der, -e;romance film, romantic movie;noun lesson_8
+MA1W_1375;Pop, der, Sg.;pop music;noun lesson_8
+MA1W_1376;Urlaubsland, das, :-er;holiday country, vacation country;noun lesson_8
+MA1W_1377;Urlaubsort, der, -e;holiday resort, vacation resort;noun lesson_8
+MA1W_1378;welch-;which (prefix);pronoun prefix lesson_8
+MA1W_1379;Fernsehgerät;television set;noun lesson_8
+MA1W_1380;Fotoapparat, der, -e;camera;noun lesson_8
+MA1W_1381;laufen;to run, to walk;verb lesson_8
+MA1W_1382;Rätsel, das, -;puzzle, riddle;noun lesson_8
+MA1W_1383;Rucksack, der, :-e;backpack, rucksack;noun lesson_8
+MA1W_1384;schenken;to give (as a gift);verb lesson_8
+MA1W_1385;sitzen;to sit;verb lesson_8
+MA1W_1386;bisschen;a little, a bit;adverb pronoun lesson_8
+MA1W_1387;danken;to thank;verb lesson_8
+MA1W_1388;freundlich;friendly, kind;adjective lesson_8
+MA1W_1389;gemeinsam;together, mutual;adverb adjective lesson_8
+MA1W_1390;jemand;someone, somebody;pronoun lesson_8
+MA1W_1391;Kaffeeschokolade, die, -n;coffee-flavored chocolate;noun lesson_8
+MA1W_1392;Lieblingssorte, die, -n;favorite sort, favorite kind;noun lesson_8
+MA1W_1393;öffnen;to open;verb lesson_8
+MA1W_1394;sollen;should, ought to;verb lesson_8
+MA1W_1395;wach;awake;adjective lesson_8
+MA1W_1396;Wandersage, die, -n;urban legend, popular myth;noun lesson_8
+MA1W_1397;wegnehmen;to take away;verb lesson_8
+MA1W_1398;weiter;further, more, continue;adverb adjective lesson_8
+MA1W_1399;weitererzählen;to tell others, to pass on (a story);verb lesson_8
+MA1W_1400;Hilfe, die, -n;help, assistance;noun lesson_8
+MA1W_1401;im Bett bleiben;to stay in bed;verb lesson_8
+MA1W_1402;Baum, der, :-e;tree;noun lesson_8
+MA1W_1403;den Wagen auf der Straße halten;to keep the car on the road;verb lesson_8
+MA1W_1404;dies-;this (prefix);pronoun prefix lesson_8
+MA1W_1405;gegen;against, towards;preposition lesson_8
+MA1W_1406;halten (sich);to hold (oneself), to stop, to keep;verb lesson_8
+MA1W_1407;lang;long;adjective lesson_8
+MA1W_1408;mysteriös;mysterious;adjective lesson_8
+MA1W_1409;speichern;to save, to store;verb lesson_8
+MA1W_1410;Wagen, der, -;car, vehicle;noun lesson_8
+MA1W_1411;wahr;true, real;adjective lesson_8
+MA1W_1412;Winterurlaub, der, -e;winter holiday, winter vacation;noun lesson_8
+MA1W_1413;Zeitangabe, die, -n;time specification, indication of time;noun lesson_8
+MA1W_1414;ab;from, starting from;preposition adverb lesson_8
+MA1W_1415;Kamera, die, -s;camera;noun lesson_8
+MA1W_1416;Papierstreifen, der, -;paper strip;noun lesson_8
