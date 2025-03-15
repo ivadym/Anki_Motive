@@ -1,0 +1,173 @@
+﻿#separator:Semicolon
+#html:false
+#columns:ID;Deck;Infinitiv;Präsens;Präteritum;Perfekt;Englische Übersetzung;Tags
+#deck:DKFA B1 Verbliste
+#guid column:1
+#deck column:2
+#tags column:8
+
+DKFA_B1_V001;DKFA B1 Verbliste::Gruppe 1;betrügen;betrügt;betrog;betrogen;to deceive, cheat;gruppe_1
+DKFA_B1_V002;DKFA B1 Verbliste::Gruppe 1;biegen;biegt;bog;ist/hat gebogen;to bend;gruppe_1
+DKFA_B1_V003;DKFA B1 Verbliste::Gruppe 1;abbiegen;biegt ab;bog ab;ist abgebogen;to turn;gruppe_1
+DKFA_B1_V004;DKFA B1 Verbliste::Gruppe 1;bieten;bietet;bot;geboten;to offer;gruppe_1
+DKFA_B1_V005;DKFA B1 Verbliste::Gruppe 1;anbieten;bietet an;bot an;angeboten;to offer sth. to so.;gruppe_1
+DKFA_B1_V006;DKFA B1 Verbliste::Gruppe 1;verbieten;verbietet;verbot;verboten;to forbid;gruppe_1
+DKFA_B1_V007;DKFA B1 Verbliste::Gruppe 1;fliegen;fliegt;flog;ist geflogen;to fly;gruppe_1
+DKFA_B1_V008;DKFA B1 Verbliste::Gruppe 1;fliehen;flieht;floh;ist geflohen;to flee, escape;gruppe_1
+DKFA_B1_V009;DKFA B1 Verbliste::Gruppe 1;fließen;fließt;floss;ist geflossen;to flow;gruppe_1
+DKFA_B1_V010;DKFA B1 Verbliste::Gruppe 1;frieren;friert;fror;gefroren;to freeze;gruppe_1
+DKFA_B1_V011;DKFA B1 Verbliste::Gruppe 1;genießen;genießt;genoss;genossen;to enjoy;gruppe_1
+DKFA_B1_V012;DKFA B1 Verbliste::Gruppe 1;gießen;gießt;goss;gegossen;to pour;gruppe_1
+DKFA_B1_V013;DKFA B1 Verbliste::Gruppe 1;lügen;lügt;log;gelogen;to lie;gruppe_1
+DKFA_B1_V014;DKFA B1 Verbliste::Gruppe 1;riechen;riecht;roch;gerochen;to smell;gruppe_1
+DKFA_B1_V015;DKFA B1 Verbliste::Gruppe 1;schieben;schiebt;schob;geschoben;to push;gruppe_1
+DKFA_B1_V016;DKFA B1 Verbliste::Gruppe 1;verschieben;verschiebt;verschob;verschoben;to postpone;gruppe_1
+DKFA_B1_V017;DKFA B1 Verbliste::Gruppe 1;schießen;schießt;schoss;geschossen;to shoot;gruppe_1
+DKFA_B1_V018;DKFA B1 Verbliste::Gruppe 1;schließen;schließt;schloss;geschlossen;to close;gruppe_1
+DKFA_B1_V019;DKFA B1 Verbliste::Gruppe 1;s. entschließen zu;entschließt sich;entschloss;entschlossen;to decide on;gruppe_1
+DKFA_B1_V020;DKFA B1 Verbliste::Gruppe 1;verlieren;verliert;verlor;verloren;to lose;gruppe_1
+DKFA_B1_V021;DKFA B1 Verbliste::Gruppe 1;wiegen;wiegt;wog;gewogen;to weight;gruppe_1
+DKFA_B1_V022;DKFA B1 Verbliste::Gruppe 1;ziehen;zieht;zog;ist/hat gezogen;to pull, move;gruppe_1
+DKFA_B1_V023;DKFA B1 Verbliste::Gruppe 1;s. beziehen;bezieht sich;bezog;bezogen;to refer to, obtain;gruppe_1
+DKFA_B1_V024;DKFA B1 Verbliste::Gruppe 1;erziehen zu;erzieht;erzog;erzogen;to educate, raise;gruppe_1
+DKFA_B1_V025;DKFA B1 Verbliste::Gruppe 1;umziehen;zieht um;zog um;ist umgezogen;to move;gruppe_1
+DKFA_B1_V026;DKFA B1 Verbliste::Gruppe 2;binden;bindet;band;gebunden;to tie, bind;gruppe_2
+DKFA_B1_V027;DKFA B1 Verbliste::Gruppe 2;verbinden mit;verbindet;verband;verbunden;to connect with, link;gruppe_2
+DKFA_B1_V028;DKFA B1 Verbliste::Gruppe 2;finden;findet;fand;gefunden;to find;gruppe_2
+DKFA_B1_V029;DKFA B1 Verbliste::Gruppe 2;erfinden;erfindet;erfand;erfunden;to invent;gruppe_2
+DKFA_B1_V030;DKFA B1 Verbliste::Gruppe 2;gelingen;gelingt;gelang;ist gelungen;to succeed;gruppe_2
+DKFA_B1_V031;DKFA B1 Verbliste::Gruppe 2;misslingen;misslingt;misslang;ist misslungen;to fail;gruppe_2
+DKFA_B1_V032;DKFA B1 Verbliste::Gruppe 2;singen;singt;sang;gesungen;to sing;gruppe_2
+DKFA_B1_V033;DKFA B1 Verbliste::Gruppe 2;sinken;sinkt;sank;ist gesunken;to sink;gruppe_2
+DKFA_B1_V034;DKFA B1 Verbliste::Gruppe 2;springen;springt;sprang;ist gesprungen;to jump;gruppe_2
+DKFA_B1_V035;DKFA B1 Verbliste::Gruppe 2;stinken;stinkt;stank;gestunken;to stink;gruppe_2
+DKFA_B1_V036;DKFA B1 Verbliste::Gruppe 2;trinken;trinkt;trank;getrunken;to drink;gruppe_2
+DKFA_B1_V037;DKFA B1 Verbliste::Gruppe 2;verschwinden;verschwindet;verschwand;ist verschwunden;to disappear;gruppe_2
+DKFA_B1_V038;DKFA B1 Verbliste::Gruppe 2;zwingen;zwingt;zwang;gezwungen;to force;gruppe_2
+DKFA_B1_V039;DKFA B1 Verbliste::Gruppe 3a;beweisen;beweist;bewies;bewiesen;to prove;gruppe_3a
+DKFA_B1_V040;DKFA B1 Verbliste::Gruppe 3a;bleiben;bleibt;blieb;ist geblieben;to stay, remain;gruppe_3a
+DKFA_B1_V041;DKFA B1 Verbliste::Gruppe 3a;s. entscheiden für/gegen;entscheidet sich;entschied;entschieden;to decide for/against;gruppe_3a
+DKFA_B1_V042;DKFA B1 Verbliste::Gruppe 3a;s. unterscheiden von;unterscheidet sich;unterschied;unterschieden;to distinguish;gruppe_3a
+DKFA_B1_V043;DKFA B1 Verbliste::Gruppe 3a;leihen;leiht;lieh;geliehen;to lend, borrow;gruppe_3a
+DKFA_B1_V044;DKFA B1 Verbliste::Gruppe 3a;reiben;reibt;rieb;gerieben;to rub;gruppe_3a
+DKFA_B1_V045;DKFA B1 Verbliste::Gruppe 3a;scheinen;scheint;schien;geschienen;to shine, seem;gruppe_3a
+DKFA_B1_V046;DKFA B1 Verbliste::Gruppe 3a;schreiben;schreibt;schrieb;geschrieben;to write;gruppe_3a
+DKFA_B1_V047;DKFA B1 Verbliste::Gruppe 3a;schreien;schreit;schrie;geschrien;to scream, shout;gruppe_3a
+DKFA_B1_V048;DKFA B1 Verbliste::Gruppe 3a;schweigen;schweigt;schwieg;geschwiegen;to be silent;gruppe_3a
+DKFA_B1_V049;DKFA B1 Verbliste::Gruppe 3a;steigen;steigt;stieg;ist gestiegen;to rise, climb;gruppe_3a
+DKFA_B1_V050;DKFA B1 Verbliste::Gruppe 3a;aussteigen;steigt aus;stieg aus;ist ausgestiegen;to get out;gruppe_3a
+DKFA_B1_V051;DKFA B1 Verbliste::Gruppe 3a;einsteigen;steigt ein;stieg ein;ist eingestiegen;to get in;gruppe_3a
+DKFA_B1_V052;DKFA B1 Verbliste::Gruppe 3a;umsteigen;steigt um;stieg um;ist umgestiegen;to change;gruppe_3a
+DKFA_B1_V053;DKFA B1 Verbliste::Gruppe 3a;vermeiden;vermeidet;vermied;vermieden;to avoid;gruppe_3a
+DKFA_B1_V054;DKFA B1 Verbliste::Gruppe 3a;verzeihen;verzeiht;verzieh;verziehen;to forgive;gruppe_3a
+DKFA_B1_V055;DKFA B1 Verbliste::Gruppe 3b;ausweichen;weicht aus;wich aus;ist ausgewichen;to evade, dodge;gruppe_3b
+DKFA_B1_V056;DKFA B1 Verbliste::Gruppe 3b;beißen;beißt;biss;gebissen;to bite;gruppe_3b
+DKFA_B1_V057;DKFA B1 Verbliste::Gruppe 3b;gleichen;gleicht;glich;geglichen;to resemble;gruppe_3b
+DKFA_B1_V058;DKFA B1 Verbliste::Gruppe 3b;vergleichen;vergleicht;verglich;verglichen;to compare;gruppe_3b
+DKFA_B1_V059;DKFA B1 Verbliste::Gruppe 3b;gleiten;gleitet;glitt;ist geglitten;to glide;gruppe_3b
+DKFA_B1_V060;DKFA B1 Verbliste::Gruppe 3b;leiden;leidet;litt;gelitten;to suffer;gruppe_3b
+DKFA_B1_V061;DKFA B1 Verbliste::Gruppe 3b;reißen;reißt;riss;gerissen;to tear, rip;gruppe_3b
+DKFA_B1_V062;DKFA B1 Verbliste::Gruppe 3b;zerreißen;zerreißt;zerriss;zerrissen;to tear apart;gruppe_3b
+DKFA_B1_V063;DKFA B1 Verbliste::Gruppe 3b;reiten;reitet;ritt;ist geritten;to ride;gruppe_3b
+DKFA_B1_V064;DKFA B1 Verbliste::Gruppe 3b;schneiden;schneidet;schnitt;geschnitten;to cut;gruppe_3b
+DKFA_B1_V065;DKFA B1 Verbliste::Gruppe 3b;streichen;streicht;strich;gestrichen;to paint, shove;gruppe_3b
+DKFA_B1_V066;DKFA B1 Verbliste::Gruppe 3b;anstreichen;streicht an;strich an;angestrichen;to paint, highlight;gruppe_3b
+DKFA_B1_V067;DKFA B1 Verbliste::Gruppe 3b;unterstreichen;unterstreicht;unterstrich;unterstrichen;to underline, emphasize;gruppe_3b
+DKFA_B1_V068;DKFA B1 Verbliste::Gruppe 3b;streiten;streitet;stritt;gestritten;to argue;gruppe_3b
+DKFA_B1_V069;DKFA B1 Verbliste::Gruppe 4a;befehlen;befiehlt;befahl;befohlen;to command;gruppe_4a
+DKFA_B1_V070;DKFA B1 Verbliste::Gruppe 4a;brechen;bricht;brach;gebrochen;to break;gruppe_4a
+DKFA_B1_V071;DKFA B1 Verbliste::Gruppe 4a;einbrechen;bricht ein;brach ein;eingebrochen;to break in;gruppe_4a
+DKFA_B1_V072;DKFA B1 Verbliste::Gruppe 4a;empfehlen;empfiehlt;empfahl;empfohlen;to recommend;gruppe_4a
+DKFA_B1_V073;DKFA B1 Verbliste::Gruppe 4a;erschrecken;erschrickt;erschrak;ist erschrocken;to be frightened;gruppe_4a
+DKFA_B1_V074;DKFA B1 Verbliste::Gruppe 4a;gelten;gilt;galt;gegolten;to be valid;gruppe_4a
+DKFA_B1_V075;DKFA B1 Verbliste::Gruppe 4a;helfen;hilft;half;geholfen;to help;gruppe_4a
+DKFA_B1_V076;DKFA B1 Verbliste::Gruppe 4a;nehmen;nimmt;nahm;genommen;to take;gruppe_4a
+DKFA_B1_V077;DKFA B1 Verbliste::Gruppe 4a;teilnehmen;nimmt teil;nahm teil;teilgenommen;to participate;gruppe_4a
+DKFA_B1_V078;DKFA B1 Verbliste::Gruppe 4a;sprechen;spricht;sprach;gesprochen;to speak;gruppe_4a
+DKFA_B1_V079;DKFA B1 Verbliste::Gruppe 4a;stechen;sticht;stach;gestochen;to sting;gruppe_4a
+DKFA_B1_V080;DKFA B1 Verbliste::Gruppe 4a;stehlen;stiehlt;stahl;gestohlen;to steal;gruppe_4a
+DKFA_B1_V081;DKFA B1 Verbliste::Gruppe 4a;sterben;stirbt;starb;ist gestorben;to die;gruppe_4a
+DKFA_B1_V082;DKFA B1 Verbliste::Gruppe 4a;treffen;trifft;traf;getroffen;to meet;gruppe_4a
+DKFA_B1_V083;DKFA B1 Verbliste::Gruppe 4a;werben;wirbt;warb;geworben;to advertise;gruppe_4a
+DKFA_B1_V084;DKFA B1 Verbliste::Gruppe 4a;s. bewerben um;bewirbt sich;bewarb sich;beworben sich;to apply for;gruppe_4a
+DKFA_B1_V085;DKFA B1 Verbliste::Gruppe 4a;werfen;wirft;warf;geworfen;to throw;gruppe_4a
+DKFA_B1_V086;DKFA B1 Verbliste::Gruppe 4b;beginnen mit;beginnt mit;begann mit;begonnen mit;to begin with (formal);gruppe_4b
+DKFA_B1_V087;DKFA B1 Verbliste::Gruppe 4b;gewinnen;gewinnt;gewann;gewonnen;to win;gruppe_4b
+DKFA_B1_V088;DKFA B1 Verbliste::Gruppe 4b;schwimmen;schwimmt;schwamm;ist geschwommen;to swim;gruppe_4b
+DKFA_B1_V089;DKFA B1 Verbliste::Gruppe 4c;kommen;kommt;kam;ist gekommen;to come;gruppe_4c
+DKFA_B1_V090;DKFA B1 Verbliste::Gruppe 4c;ankommen;kommt an;kam an;ist angekommen;to arrive;gruppe_4c
+DKFA_B1_V091;DKFA B1 Verbliste::Gruppe 4d;heben;hebt;hob;gehoben;to lift;gruppe_4d
+DKFA_B1_V092;DKFA B1 Verbliste::Gruppe 4d;aufheben;hebt auf;hob auf;aufgehoben;to pick up;gruppe_4d
+DKFA_B1_V093;DKFA B1 Verbliste::Gruppe 4d;schmelzen;schmilzt;schmolz;ist geschmolzen;to melt;gruppe_4d
+DKFA_B1_V094;DKFA B1 Verbliste::Gruppe 4d;schwören;schwört;schwor;geschworen;to swear;gruppe_4d
+DKFA_B1_V095;DKFA B1 Verbliste::Gruppe 5a;essen;isst;aß;gegessen;to eat;gruppe_5a
+DKFA_B1_V096;DKFA B1 Verbliste::Gruppe 5a;fressen;frisst;fraß;gefressen;to devour;gruppe_5a
+DKFA_B1_V097;DKFA B1 Verbliste::Gruppe 5a;geben;gibt;gab;gegeben;to give;gruppe_5a
+DKFA_B1_V098;DKFA B1 Verbliste::Gruppe 5a;aufgeben;gibt auf;gab auf;aufgegeben;to give up;gruppe_5a
+DKFA_B1_V099;DKFA B1 Verbliste::Gruppe 5a;geschehen;geschieht;geschah;ist geschehen;to happen;gruppe_5a
+DKFA_B1_V100;DKFA B1 Verbliste::Gruppe 5a;lesen;liest;las;gelesen;to read;gruppe_5a
+DKFA_B1_V101;DKFA B1 Verbliste::Gruppe 5a;messen;misst;maß;gemessen;to measure;gruppe_5a
+DKFA_B1_V102;DKFA B1 Verbliste::Gruppe 5a;sehen;sieht;sah;gesehen;to see;gruppe_5a
+DKFA_B1_V103;DKFA B1 Verbliste::Gruppe 5a;treten;tritt;trat;getreten;to step;gruppe_5a
+DKFA_B1_V104;DKFA B1 Verbliste::Gruppe 5a;vergessen;vergisst;vergaß;vergessen;to forget;gruppe_5a
+DKFA_B1_V105;DKFA B1 Verbliste::Gruppe 5b;bitten um;bittet um;bat um;gebeten um;to ask for;gruppe_5b
+DKFA_B1_V106;DKFA B1 Verbliste::Gruppe 5b;liegen;liegt;lag;gelegen;to lie;gruppe_5b
+DKFA_B1_V107;DKFA B1 Verbliste::Gruppe 5b;sitzen;sitzt;saß;gesessen;to sit;gruppe_5b
+DKFA_B1_V108;DKFA B1 Verbliste::Gruppe 6;backen;bäckt;[buk] backte;gebacken;to bake;gruppe_6
+DKFA_B1_V109;DKFA B1 Verbliste::Gruppe 6;einladen;lädt ein;lud ein;eingeladen;to invite;gruppe_6
+DKFA_B1_V110;DKFA B1 Verbliste::Gruppe 6;fahren;fährt;fuhr;ist gefahren;to drive;gruppe_6
+DKFA_B1_V111;DKFA B1 Verbliste::Gruppe 6;erfahren;erfährt;erfuhr;erfahren;to experience;gruppe_6
+DKFA_B1_V112;DKFA B1 Verbliste::Gruppe 6;graben;gräbt;grub;gegraben;to dig;gruppe_6
+DKFA_B1_V113;DKFA B1 Verbliste::Gruppe 6;schlagen;schlägt;schlug;geschlagen;to hit;gruppe_6
+DKFA_B1_V114;DKFA B1 Verbliste::Gruppe 6;tragen;trägt;trug;getragen;to carry;gruppe_6
+DKFA_B1_V115;DKFA B1 Verbliste::Gruppe 6;s. vertragen mit;verträgt sich;vertrug sich;vertragen sich;to get along with;gruppe_6
+DKFA_B1_V116;DKFA B1 Verbliste::Gruppe 6;wachsen;wächst;wuchs;ist gewachsen;to grow;gruppe_6
+DKFA_B1_V117;DKFA B1 Verbliste::Gruppe 6;waschen;wäscht;wusch;gewaschen;to wash;gruppe_6
+DKFA_B1_V118;DKFA B1 Verbliste::Gruppe 7a;blasen;bläst;blies;geblasen;to blow;gruppe_7a
+DKFA_B1_V119;DKFA B1 Verbliste::Gruppe 7a;braten;brät;briet;gebraten;to roast;gruppe_7a
+DKFA_B1_V120;DKFA B1 Verbliste::Gruppe 7a;fallen;fällt;fiel;ist gefallen;to fall;gruppe_7a
+DKFA_B1_V121;DKFA B1 Verbliste::Gruppe 7a;gefallen;gefällt;gefiel;gefallen;to please;gruppe_7a
+DKFA_B1_V122;DKFA B1 Verbliste::Gruppe 7a;fangen;fängt;fing;gefangen;to catch;gruppe_7a
+DKFA_B1_V123;DKFA B1 Verbliste::Gruppe 7a;anfangen mit;fängt an mit;fing an mit;angefangen mit;to begin with (informal);gruppe_7a
+DKFA_B1_V124;DKFA B1 Verbliste::Gruppe 7a;hängen;hängt;hing;gehangen;to hang;gruppe_7a
+DKFA_B1_V125;DKFA B1 Verbliste::Gruppe 7a;abhängen;hängt ab;hing ab;abgehangen;to depend;gruppe_7a
+DKFA_B1_V126;DKFA B1 Verbliste::Gruppe 7a;halten;hält;hielt;gehalten;to hold;gruppe_7a
+DKFA_B1_V127;DKFA B1 Verbliste::Gruppe 7a;s. unterhalten mit;unterhält sich mit;unterhielt sich mit;unterhalten sich mit;to converse with;gruppe_7a
+DKFA_B1_V128;DKFA B1 Verbliste::Gruppe 7a;lassen;lässt;ließ;gelassen;to let;gruppe_7a
+DKFA_B1_V129;DKFA B1 Verbliste::Gruppe 7a;s. verlassen;verlässt sich;verließ sich;verlassen sich;to leave;gruppe_7a
+DKFA_B1_V130;DKFA B1 Verbliste::Gruppe 7a;raten;rät;riet;geraten;to advise;gruppe_7a
+DKFA_B1_V131;DKFA B1 Verbliste::Gruppe 7a;schlafen;schläft;schlief;geschlafen;to sleep;gruppe_7a
+DKFA_B1_V132;DKFA B1 Verbliste::Gruppe 7b;gehen;geht;ging;ist gegangen;to go;gruppe_7b
+DKFA_B1_V133;DKFA B1 Verbliste::Gruppe 7b;heißen;heißt;hieß;geheißen;to be called;gruppe_7b
+DKFA_B1_V134;DKFA B1 Verbliste::Gruppe 7b;laufen;läuft;lief;ist gelaufen;to run;gruppe_7b
+DKFA_B1_V135;DKFA B1 Verbliste::Gruppe 7b;rufen;ruft;rief;gerufen;to call;gruppe_7b
+DKFA_B1_V136;DKFA B1 Verbliste::Gruppe 7b;anrufen;ruft an;rief an;angerufen;to call (on the phone);gruppe_7b
+DKFA_B1_V137;DKFA B1 Verbliste::Gruppe 7b;stoßen;stößt;stieß;gestoßen;to push;gruppe_7b
+DKFA_B1_V138;DKFA B1 Verbliste::Gruppe 7b;verstoßen gegen;verstößt gegen;verstieß gegen;verstoßen gegen;to violate;gruppe_7b
+DKFA_B1_V139;DKFA B1 Verbliste::Gruppe 7b;zusammenstoßen mit;stößt zusammen mit;stieß zusammen mit;ist zusammengestoßen mit;to collide with;gruppe_7b
+DKFA_B1_V140;DKFA B1 Verbliste::Gruppe 8;brennen;brennt;brannte;gebrannt;to burn;gruppe_8
+DKFA_B1_V141;DKFA B1 Verbliste::Gruppe 8;bringen;bringt;brachte;gebracht;to bring;gruppe_8
+DKFA_B1_V142;DKFA B1 Verbliste::Gruppe 8;denken;denkt;dachte;gedacht;to think;gruppe_8
+DKFA_B1_V143;DKFA B1 Verbliste::Gruppe 8;nachdenken über;denkt nach über;dachte nach über;nachgedacht über;to think about;gruppe_8
+DKFA_B1_V144;DKFA B1 Verbliste::Gruppe 8;kennen;kennt;kannte;gekannt;to know;gruppe_8
+DKFA_B1_V145;DKFA B1 Verbliste::Gruppe 8;erkennen an;erkennt an;erkannte an;erkannt an;to recognize;gruppe_8
+DKFA_B1_V146;DKFA B1 Verbliste::Gruppe 8;nennen;nennt;nannte;genannt;to name;gruppe_8
+DKFA_B1_V147;DKFA B1 Verbliste::Gruppe 8;ernennen zu;ernennt zu;ernannte zu;ernannt zu;to appoint;gruppe_8
+DKFA_B1_V148;DKFA B1 Verbliste::Gruppe 8;rennen;rennt;rannte;gerannt;to run (in a race);gruppe_8
+DKFA_B1_V149;DKFA B1 Verbliste::Gruppe 8;senden;sendet;sandte;gesandt;to send;gruppe_8
+DKFA_B1_V150;DKFA B1 Verbliste::Gruppe 8;wenden;wendet;wandte;gewandt;to turn;gruppe_8
+DKFA_B1_V151;DKFA B1 Verbliste::Gruppe 9;dürfen;darf;durfte;gedurft;to be allowed to;gruppe_9
+DKFA_B1_V152;DKFA B1 Verbliste::Gruppe 9;können;kann;konnte;gekonnt;to be able to;gruppe_9
+DKFA_B1_V153;DKFA B1 Verbliste::Gruppe 9;mögen;mag;mochte;gemocht;to like;gruppe_9
+DKFA_B1_V154;DKFA B1 Verbliste::Gruppe 9;müssen;muss;musste;gemusst;to have to;gruppe_9
+DKFA_B1_V155;DKFA B1 Verbliste::Gruppe 9;sollen;soll;sollte;gesollt;should;gruppe_9
+DKFA_B1_V156;DKFA B1 Verbliste::Gruppe 9;wollen;will;wollte;gewollt;to want to;gruppe_9
+DKFA_B1_V157;DKFA B1 Verbliste::Gruppe 10;haben;hat;hatte;gehabt;to have;gruppe_10
+DKFA_B1_V158;DKFA B1 Verbliste::Gruppe 10;sein;ist;war;ist gewesen;to be;gruppe_10
+DKFA_B1_V159;DKFA B1 Verbliste::Gruppe 10;tun;tut;tat;getan;to do;gruppe_10
+DKFA_B1_V160;DKFA B1 Verbliste::Gruppe 10;werden;wird;wurde;ist geworden;to become;gruppe_10
+DKFA_B1_V161;DKFA B1 Verbliste::Gruppe 10;wissen;weiß;wusste;gewusst;to know;gruppe_10
+DKFA_B1_V162;DKFA B1 Verbliste::Gruppe 10;stehen;steht;stand;gestanden;to stand;gruppe_10
+DKFA_B1_V163;DKFA B1 Verbliste::Gruppe 10;bestehen auf, aus, in;besteht auf, aus, in;bestand auf, aus, in;bestanden auf, aus, in;to insist on, consist of, consist in;gruppe_10
+DKFA_B1_V164;DKFA B1 Verbliste::Gruppe 10;entstehen aus;entsteht aus;entstand aus;ist entstanden aus;to originate from;gruppe_10
+DKFA_B1_V165;DKFA B1 Verbliste::Gruppe 10;verstehen;versteht;verstand;verstanden;to understand;gruppe_10
